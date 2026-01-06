@@ -414,12 +414,12 @@ def evaluate_translation(audio_data, card, mode):
     user_prompt = f"""Here is the audio recording. The user will translate this Chinese phrase to English.
 
 **Context:**
-- Reference: {card['ref']}
-- Chinese phrase: "{card['phrase_cn']}"
-- Full context: "{card['sentence_context']}"
-- Expected ESV target: "{card['phrase_en']}"
-- Key term to focus on: "{card['key_term']}"
-- Trap to avoid: "{card['trap']}"
+- Reference: {card.get('ref', 'N/A')}
+- Chinese phrase: "{card.get('phrase_cn', 'N/A')}"
+- Full context: "{card.get('sentence_context', 'N/A')}"
+- Expected ESV target: "{card.get('phrase_en', 'N/A')}"
+- Key term to focus on: "{card.get('key_term', 'N/A')}"
+- Trap to avoid: {card.get('trap', [])}
 
 **Mode & Focus (VERY IMPORTANT):**
 - Current mode: {mode}
@@ -428,9 +428,9 @@ def evaluate_translation(audio_data, card, mode):
 
 **Your task:**
 1. Listen to the audio and transcribe EXACTLY what you hear (or "NO_AUDIO" if you hear nothing).
-2. **Compare word-by-word:** Your transcription vs ESV target "{card['phrase_en']}".
+2. **Compare word-by-word:** Your transcription vs ESV target "{card.get('phrase_en', 'N/A')}".
    - Identify missing words, wrong word choices, word order issues.
-   - Pay special attention to the KEY TERM: "{card['key_term']}".
+   - Pay special attention to the KEY TERM: "{card.get('key_term', 'N/A')}".
 3. **Evaluate using theological coach rules** from system instruction.
 4. **Generate concise feedback:** Compare ESV vs user's speech, explain WHY the difference matters, and HOW to improve. 
    Your feedback MUST be structured into THREE ultra-short lines in Chinese, each line corresponding to ONE bullet point of the current mode:
@@ -439,7 +439,7 @@ def evaluate_translation(audio_data, card, mode):
    - Line 3 = 成长聚焦 (Growth) → Comment on the THIRD bullet of the current mode, giving ONE concrete next-step tip.
 
 **CRITICAL: Comparison-Based Feedback**
-- Compare: "User said: [transcription]" vs "ESV: {card['phrase_en']}"
+- Compare: "User said: [transcription]" vs "ESV: {card.get('phrase_en', 'N/A')}"
 - Focus on KEY TERM accuracy first, then sentence structure.
 - Be BRIEF but PRECISE. Focus on improvement, not just error listing.
 - Example: "用 'Establish' 替代 'Make'。这里强调坚立旧约，不是新立。"
@@ -674,30 +674,34 @@ with col_nav:
                 st.session_state.feedback = None
                 st.rerun()
 
-# 1. 题目卡片：悬浮“讲章卡片”风格（默认不暴露中文原文）
+# 1. 题目卡片：悬浮"讲章卡片"风格（默认不暴露中文原文）
 st.markdown(
     f"""
     <div class="sermon-card">
-        <div class="sermon-card-ref">{st.session_state.selected_book} · {current_card['ref']}</div>
+        <div class="sermon-card-ref">{st.session_state.selected_book} · {current_card.get('ref', 'No Ref')}</div>
     </div>
     """,
     unsafe_allow_html=True,
 )
 
-# 中文音频播放（优先训练“听译”）
+# 中文音频播放（优先训练"听译"）
 try:
     safe_ref = re.sub(r'[^\x20-\x7E]', '_', current_card.get('ref', 'demo'))
     chinese_audio_filename = f"chinese_{safe_ref}.mp3"
-    chinese_audio_file = generate_chinese_audio_sync(current_card['phrase_cn'], chinese_audio_filename)
-    if chinese_audio_file and os.path.exists(chinese_audio_file):
-        st.audio(chinese_audio_file, format='audio/mp3')
-        st.caption("🎧 中文原文音频")
+    phrase_cn = current_card.get('phrase_cn', '')
+    if phrase_cn:
+        chinese_audio_file = generate_chinese_audio_sync(phrase_cn, chinese_audio_filename)
+        if chinese_audio_file and os.path.exists(chinese_audio_file):
+            st.audio(chinese_audio_file, format='audio/mp3')
+            st.caption("🎧 中文原文音频")
 except Exception as e:
     st.caption("⚠️ 音频生成中...")
 
-# 中文原文折叠显示，优先训练“听译”而非“看译”
-with st.expander("📜 查看中文原文", expanded=False):
-    st.markdown(current_card['phrase_cn'])
+# 中文原文折叠显示，优先训练"听译"而非"看译"
+phrase_cn = current_card.get('phrase_cn', '暂无中文原文')
+if phrase_cn:
+    with st.expander("📜 查看中文原文", expanded=False):
+        st.markdown(phrase_cn)
 
 # 2. 音频输入区（移动端优化）
 st.markdown("---")
@@ -773,33 +777,48 @@ if st.session_state.feedback:
         try:
             safe_ref = re.sub(r'[^\x20-\x7E]', '_', current_card.get('ref', 'demo'))
             audio_filename = f"esv_demo_{safe_ref}.mp3"
-            generated_file = generate_audio_sync(current_card['phrase_en'], audio_filename)
-            if generated_file and os.path.exists(generated_file):
-                st.audio(generated_file)
-                st.caption("🎧 标准发音")
+            phrase_en = current_card.get('phrase_en', '')
+            if phrase_en:
+                generated_file = generate_audio_sync(phrase_en, audio_filename)
+                if generated_file and os.path.exists(generated_file):
+                    st.audio(generated_file)
+                    st.caption("🎧 标准发音")
         except:
             pass
         
         # 目标答案
-        st.markdown("**🎯 目标答案:**")
-        st.info(f"{current_card['phrase_en']}")
+        phrase_en = current_card.get('phrase_en', '暂无目标答案')
+        if phrase_en:
+            st.markdown("**🎯 目标答案:**")
+            st.info(f"{phrase_en}")
         
         # 完整上下文
-        st.markdown("**📖 完整上下文:**")
-        st.caption(f"{current_card['sentence_context']}")
+        sentence_context = current_card.get('sentence_context', '')
+        if sentence_context:
+            st.markdown("**📖 完整上下文:**")
+            st.caption(f"{sentence_context}")
         
         # 关键词和陷阱
         col_key, col_trap = st.columns(2)
         with col_key:
-            st.markdown("**🔑 关键词:**")
-            st.code(current_card['key_term'], language=None)
+            key_term = current_card.get('key_term', '')
+            if key_term:
+                st.markdown("**🔑 关键词:**")
+                st.code(key_term, language=None)
         with col_trap:
-            st.markdown("**🪤 陷阱:**")
-            st.caption(f"{current_card['trap']}")
+            trap = current_card.get('trap', [])
+            if trap:
+                st.markdown("**🪤 陷阱:**")
+                if isinstance(trap, list):
+                    st.caption(", ".join(trap) if trap else "无")
+                else:
+                    st.caption(str(trap))
         
         # 解析说明
-        st.markdown("**💡 解析:**")
-        st.markdown(f"{current_card['nuance_note']}")
+        nuance_note = current_card.get('nuance_note', '')
+        if nuance_note:
+            st.markdown("**💡 解析:**")
+            st.markdown(f"{nuance_note}")
 
 # 页脚（学院风样式）
 st.markdown(
