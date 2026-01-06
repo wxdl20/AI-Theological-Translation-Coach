@@ -1,5 +1,7 @@
 [
   {
+    "chinese_phrase": "我站在门外**叩**门",
+    "english_phrase": "I stand at the door and **knock**",
     "key_verb": "Knock",
     "trap": [
       "Hit",
@@ -9,11 +11,11 @@
     "sentence_context": "Behold, I stand at the door and knock. If anyone hears my voice and opens the door, I will come in to him and eat with him, and he with me.",
     "nuance_note": "Knock specifically refers to knocking on a door to seek entry, whereas Hit is merely striking.",
     "id": 1,
-    "ref": "Rev 3:20",
-    "phrase_cn": "我站在门外**叩**门",
-    "phrase_en": "I stand at the door and **knock**"
+    "ref": "Rev 3:20"
   },
   {
+    "chinese_phrase": "弟兄**胜过**它，是因羔羊的血",
+    "english_phrase": "They have **conquered** him by the blood of the Lamb",
     "key_verb": "Conquered",
     "trap": [
       "Beat",
@@ -23,9 +25,7 @@
     "sentence_context": "And they have conquered him by the blood of the Lamb and by the word of their testimony, for they loved not their lives even unto death.",
     "nuance_note": "Conquered (Nikao) signifies complete conquest and victory (from the root of 'Nike'), whereas Beat is like winning a fight.",
     "id": 2,
-    "ref": "Rev 12:11",
-    "phrase_cn": "弟兄**胜过**它，是因羔羊的血",
-    "phrase_en": "They have **conquered** him by the blood of the Lamb"
+    "ref": "Rev 12:11"
   },
   {
     "ref": "Revelation 1:5-6",

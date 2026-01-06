@@ -1,5 +1,7 @@
 [
   {
+    "chinese_phrase": "我见这血，就**越过**你们去",
+    "english_phrase": "I will **pass over** you",
     "key_focus_term": "Pass over",
     "trap": [
       "Skip",
@@ -9,11 +11,11 @@
     "sentence_context": "The blood shall be a sign for you, on the houses where you are. And when I see the blood, I will **pass over** you, and no plague will befall you to destroy you, when I strike the land of Egypt.",
     "nuance_note": "Pass over (Pasach) 是救赎历史专有名词，Skip 太随意。",
     "id": 1,
-    "ref": "Ex 12:13",
-    "phrase_cn": "我见这血，就**越过**你们去",
-    "phrase_en": "I will **pass over** you"
+    "ref": "Ex 12:13"
   },
   {
+    "chinese_phrase": "只管**站住**！看耶和华...施行救恩",
+    "english_phrase": "**Stand firm** and see the salvation",
     "key_focus_term": "Stand firm",
     "trap": [
       "Stand there",
@@ -23,9 +25,7 @@
     "sentence_context": "And Moses said to the people, “Do not be afraid; **stand firm**, and see the salvation of the Lord, which he will work for you today. For the Egyptians whom you see today, you shall never see again.",
     "nuance_note": "Stand firm 带有军事意味（坚守阵地），Stand there 只是发呆。",
     "id": 2,
-    "ref": "Ex 14:13",
-    "phrase_cn": "只管**站住**！看耶和华...施行救恩",
-    "phrase_en": "**Stand firm** and see the salvation"
+    "ref": "Ex 14:13"
   },
   {
     "ref": "Exodus 3:8",

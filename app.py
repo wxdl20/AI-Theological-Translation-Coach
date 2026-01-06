@@ -589,60 +589,55 @@ if 'use_proxy' not in st.session_state:
 if 'selected_mode' not in st.session_state:
     st.session_state.selected_mode = list(MODE_INSTRUCTIONS.keys())[0]  # 默认第一个模式
 
-# --- 侧边栏：设置（简化版，移动端友好）---
+# --- 侧边栏：设置（稳健版）---
 with st.sidebar:
     st.markdown("### 🛡️ Pulpit Power")
     
+    # 逻辑 1: 基础数据保护
     if not library:
-        st.warning("⚠️ 数据文件夹为空")
-        st.stop()
-    
-    # 书卷选择器
-    book_options = list(library.keys())
-    if not book_options:
-        st.warning("⚠️ 没有可用数据")
-        st.stop()
-    
-    selected_book = st.selectbox(
-        "📚 书卷",
-        options=book_options,
-        index=0 if not st.session_state.selected_book else book_options.index(st.session_state.selected_book) if st.session_state.selected_book in book_options else 0,
-        label_visibility="visible"
-    )
-    
-    # 如果书卷改变，重置索引和加载数据
-    if st.session_state.selected_book != selected_book:
-        st.session_state.selected_book = selected_book
-        st.session_state.book_data = library[selected_book]
-        st.session_state.current_index = 0
-        st.session_state.feedback = None
-        st.rerun()
-    
-    # 确保 book_data 已加载
-    if not st.session_state.book_data:
-        st.session_state.book_data = library[selected_book]
-    
-    book_data = st.session_state.book_data
-    
-    # 模式选择器
-    mode_options = list(MODE_INSTRUCTIONS.keys())
-    current_mode_index = mode_options.index(st.session_state.selected_mode) if st.session_state.selected_mode in mode_options else 0
-    selected_mode = st.selectbox(
-        "🎯 模式",
-        options=mode_options,
-        index=current_mode_index,
-        label_visibility="visible"
-    )
-    # 保存到 session state
-    if st.session_state.selected_mode != selected_mode:
-        st.session_state.selected_mode = selected_mode
-        st.session_state.feedback = None
-    
-    # 进度条（紧凑版）
-    if book_data:
-        st.caption(f"{st.session_state.current_index + 1} / {len(book_data)}")
-        st.progress((st.session_state.current_index + 1) / len(book_data))
+        st.warning("⚠️ 库为空，请检查 assets 路径")
+        # 不要在这里用 st.stop()，否则侧边栏就死掉了
+        st.info("当前路径: " + os.getcwd()) # 调试用
+    else:
+        book_options = list(library.keys())
+        
+        # 逻辑 2: 初始化 Session State (防止 KeyError)
+        if 'selected_book' not in st.session_state:
+            st.session_state.selected_book = book_options[0]
+        if 'current_index' not in st.session_state:
+            st.session_state.current_index = 0
+            
+        # 逻辑 3: 书卷选择器 (去掉复杂的 index 计算，改用简单逻辑)
+        # 我们用 on_change 回调来处理重置，而不是在主循环里 rerun
+        def on_book_change():
+            st.session_state.current_index = 0
+            st.session_state.feedback = None
+            # 这里的 book_selector 是下面 selectbox 的 key
+            st.session_state.selected_book = st.session_state.book_selector
 
+        selected_book = st.selectbox(
+            "📚 书卷",
+            options=book_options,
+            key="book_selector",
+            on_change=on_book_change
+        )
+        
+        # 逻辑 4: 确保 book_data 始终有效
+        book_data = library.get(st.session_state.selected_book, [])
+        
+        # 逻辑 5: 模式选择
+        mode_options = list(MODE_INSTRUCTIONS.keys())
+        selected_mode = st.selectbox(
+            "🎯 模式",
+            options=mode_options,
+            key="selected_mode" # 直接绑定到 session_state
+        )
+        
+        # 进度条
+        if book_data:
+            st.markdown("---")
+            st.caption(f"进度: {st.session_state.current_index + 1} / {len(book_data)}")
+            st.progress((st.session_state.current_index + 1) / len(book_data))
 # --- 主界面：训练区（移动端优化）---
 
 # 获取当前题目卡片
