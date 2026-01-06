@@ -578,8 +578,6 @@ Output ONLY valid JSON object."""
 # --- 初始化 Session State ---
 if 'current_index' not in st.session_state:
     st.session_state.current_index = 0
-if 'selected_book' not in st.session_state:
-    st.session_state.selected_book = None
 if 'book_data' not in st.session_state:
     st.session_state.book_data = []
 if 'feedback' not in st.session_state:
@@ -588,6 +586,18 @@ if 'use_proxy' not in st.session_state:
     st.session_state.use_proxy = True  # 默认使用 laozhang 中转服务
 if 'selected_mode' not in st.session_state:
     st.session_state.selected_mode = list(MODE_INSTRUCTIONS.keys())[0]  # 默认第一个模式
+
+# 🔧 修复：在主代码中初始化 selected_book（不依赖侧边栏是否打开）
+if library and len(library) > 0:
+    if 'selected_book' not in st.session_state or st.session_state.selected_book is None:
+        st.session_state.selected_book = list(library.keys())[0]
+    # 同步 book_selector 的值（如果存在且有效）
+    if 'book_selector' in st.session_state and st.session_state.book_selector in library:
+        st.session_state.selected_book = st.session_state.book_selector
+else:
+    # 如果 library 为空，设置为 None
+    if 'selected_book' not in st.session_state:
+        st.session_state.selected_book = None
 
 # --- 侧边栏：设置（稳健版）---
 with st.sidebar:
@@ -601,26 +611,31 @@ with st.sidebar:
     else:
         book_options = list(library.keys())
         
-        # 逻辑 2: 初始化 Session State (防止 KeyError)
-        if 'selected_book' not in st.session_state:
+        # 逻辑 2: 确保 selected_book 有效（如果还没有设置或无效）
+        if not st.session_state.selected_book or st.session_state.selected_book not in book_options:
             st.session_state.selected_book = book_options[0]
-        if 'current_index' not in st.session_state:
-            st.session_state.current_index = 0
-            
-        # 逻辑 3: 书卷选择器 (去掉复杂的 index 计算，改用简单逻辑)
-        # 我们用 on_change 回调来处理重置，而不是在主循环里 rerun
+        
+        # 逻辑 3: 书卷选择器
         def on_book_change():
             st.session_state.current_index = 0
             st.session_state.feedback = None
-            # 这里的 book_selector 是下面 selectbox 的 key
             st.session_state.selected_book = st.session_state.book_selector
 
+        # 计算当前选中项的索引
+        current_index_value = 0
+        if st.session_state.selected_book in book_options:
+            current_index_value = book_options.index(st.session_state.selected_book)
+        
         selected_book = st.selectbox(
             "📚 书卷",
             options=book_options,
+            index=current_index_value,
             key="book_selector",
             on_change=on_book_change
         )
+        
+        # 🔧 修复：确保 selected_book 与 book_selector 同步
+        st.session_state.selected_book = st.session_state.book_selector
         
         # 逻辑 4: 确保 book_data 始终有效
         book_data = library.get(st.session_state.selected_book, [])
@@ -642,23 +657,38 @@ with st.sidebar:
 
 # --- 1. 数据同步保障 ---
 # 检查 book_data 是否为空，或者是否与当前选中的书卷不匹配
-if not st.session_state.get('book_data') or st.session_state.get('last_loaded_book') != st.session_state.selected_book:
+if st.session_state.selected_book and (not st.session_state.get('book_data') or st.session_state.get('last_loaded_book') != st.session_state.selected_book):
     # 强制重新从 library 加载
-    st.session_state.book_data = library.get(st.session_state.selected_book, [])
-    st.session_state.last_loaded_book = st.session_state.selected_book
-    st.session_state.current_index = 0  # 确保索引重置
+    if st.session_state.selected_book in library:
+        st.session_state.book_data = library.get(st.session_state.selected_book, [])
+        st.session_state.last_loaded_book = st.session_state.selected_book
+        st.session_state.current_index = 0  # 确保索引重置
+    else:
+        st.session_state.book_data = []
 
 # --- 2. 获取当前题目卡片 (稳健版) ---
 book_data = st.session_state.book_data
 
-if book_data and 0 <= st.session_state.current_index < len(book_data):
-    current_card = book_data[st.session_state.current_index]
-else:
-    # 如果还是没有数据，给出一个友好的提示而不是直接 stop
-    st.warning(f"⚠️ 正在尝试加载 {st.session_state.selected_book} 的数据...")
+# 🔧 修复：如果 selected_book 为 None 或 book_data 为空，显示友好提示
+if not st.session_state.selected_book:
+    st.warning("⚠️ 请从侧边栏选择一本书卷开始训练")
+    st.info("💡 提示：点击左上角的 ➡️ 图标打开侧边栏")
+    st.stop()
+elif not book_data:
+    st.warning(f"⚠️ 书卷 '{st.session_state.selected_book}' 的数据为空，请检查 JSON 文件")
     if not library:
         st.error("❌ 严重错误：内存中的 library 为空，请检查文件路径！")
-    st.rerun() # 强制刷新一次以同步状态
+    st.stop()
+elif 0 <= st.session_state.current_index < len(book_data):
+    current_card = book_data[st.session_state.current_index]
+else:
+    # 索引超出范围，重置为 0
+    st.session_state.current_index = 0
+    if len(book_data) > 0:
+        current_card = book_data[0]
+    else:
+        st.warning(f"⚠️ 书卷 '{st.session_state.selected_book}' 没有可用数据")
+        st.stop()
 
 # 顶部导航栏（学院风导航）
 col_title, col_nav = st.columns([3, 1])
