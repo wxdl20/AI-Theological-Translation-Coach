@@ -656,7 +656,8 @@ else:
 # 顶部导航栏（学院风导航）
 col_title, col_nav = st.columns([3, 1])
 with col_title:
-    st.markdown(f"**{st.session_state.selected_book}** {current_card['ref']}")
+    ref_text = current_card.get('ref', 'No Ref')
+    st.markdown(f"**{st.session_state.selected_book}** {ref_text}")
 with col_nav:
     nav_col1, nav_col2 = st.columns(2)
     with nav_col1:
