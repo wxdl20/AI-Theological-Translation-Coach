@@ -115,7 +115,7 @@ st.set_page_config(
     page_title="Pulpit Power AI", 
     page_icon="🎙️", 
     layout="centered",  # 移动端友好：居中布局
-    initial_sidebar_state="collapsed"  # 默认收起侧边栏
+    initial_sidebar_state="expanded"  # 默认展开侧边栏
 )
 
 # 自定义深色“改革宗神学院”风格主题
@@ -174,10 +174,39 @@ h1, h2, h3, h4 {
   color: #F5E6C8;
 }
 
-/* 隐藏默认 Header / Footer */
+/* 隐藏默认 Header 内容，但保留侧边栏切换按钮 */
 header[data-testid="stHeader"] {
+  /* 不隐藏整个 header，保留侧边栏按钮 */
+  height: 3rem;
+  min-height: 3rem;
+  background-color: transparent;
+}
+
+/* 隐藏 header 中的标题等内容，但保留侧边栏切换按钮 */
+header[data-testid="stHeader"] > div:first-child {
   display: none;
 }
+
+/* 确保侧边栏切换按钮可见且明显 */
+button[data-testid="baseButton-header"],
+button[kind="header"],
+[data-testid="stHeader"] button,
+[data-testid="stHeader"] > div:last-child button {
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  background-color: rgba(212, 175, 55, 0.2) !important;
+  border: 1px solid rgba(212, 175, 55, 0.5) !important;
+  color: #D4AF37 !important;
+}
+
+/* 侧边栏切换按钮悬停效果 */
+button[data-testid="baseButton-header"]:hover,
+button[kind="header"]:hover {
+  background-color: rgba(212, 175, 55, 0.4) !important;
+  border-color: #D4AF37 !important;
+}
+
 footer {
   visibility: hidden;
 }
