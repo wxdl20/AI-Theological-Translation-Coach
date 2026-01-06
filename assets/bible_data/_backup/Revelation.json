@@ -1,5 +1,6 @@
 [
   {
+    "reference": "Rev 3:20",
     "chinese_phrase": "我站在门外**叩**门",
     "english_phrase": "I stand at the door and **knock**",
     "key_verb": "Knock",
@@ -10,10 +11,10 @@
     ],
     "sentence_context": "Behold, I stand at the door and knock. If anyone hears my voice and opens the door, I will come in to him and eat with him, and he with me.",
     "nuance_note": "Knock specifically refers to knocking on a door to seek entry, whereas Hit is merely striking.",
-    "id": 1,
-    "ref": "Rev 3:20"
+    "id": 1
   },
   {
+    "reference": "Rev 12:11",
     "chinese_phrase": "弟兄**胜过**它，是因羔羊的血",
     "english_phrase": "They have **conquered** him by the blood of the Lamb",
     "key_verb": "Conquered",
@@ -24,8 +25,7 @@
     ],
     "sentence_context": "And they have conquered him by the blood of the Lamb and by the word of their testimony, for they loved not their lives even unto death.",
     "nuance_note": "Conquered (Nikao) signifies complete conquest and victory (from the root of 'Nike'), whereas Beat is like winning a fight.",
-    "id": 2,
-    "ref": "Rev 12:11"
+    "id": 2
   },
   {
     "ref": "Revelation 1:5-6",
@@ -33,9 +33,7 @@
     "phrase_en": "and from Jesus Christ the faithful witness, the firstborn of the dead, and the ruler of kings on earth. To him who loves us and has freed us from our sins by his blood and made us a kingdom, priests to his God and Father.",
     "sentence_context": "and from Jesus Christ the faithful witness, the firstborn of the dead, and the ruler of kings on earth. To him who loves us and has freed us from our sins by his blood and made us a kingdom, priests to his God and Father, to him be glory and dominion forever and ever. Amen.",
     "key_term": "Freed (脱离)",
-    "trap": [
-      "Witness -> Looker"
-    ],
+    "trap": "Witness -> Looker",
     "nuance_note": "Christ's identity as the 'faithful witness' underscores the truth of His redemptive work and His ultimate authority as 'ruler of kings,' achieved through His blood.",
     "id": 3
   },
@@ -45,9 +43,7 @@
     "phrase_en": "The one who conquers, I will grant him to sit with me on my throne, as I also conquered and sat down with my Father on his throne.",
     "sentence_context": "The one who conquers, I will grant him to sit with me on my throne, as I also conquered and sat down with my Father on his throne.",
     "key_term": "Conquer (得胜)",
-    "trap": [
-      "Overcome -> Win"
-    ],
+    "trap": "Overcome -> Win",
     "nuance_note": "The promise of co-reigning with Christ is directly linked to His own prior victory, emphasizing shared triumph through His overcoming work.",
     "id": 4
   },
@@ -57,9 +53,7 @@
     "phrase_en": "Behold, the Lion of the tribe of Judah, the Root of David, has conquered, so that he can open the scroll and its seven seals.” And between the throne and the four living creatures and among the elders stood a Lamb, as though it had been slain.",
     "sentence_context": "And one of the elders said to me, “Weep no more; behold, the Lion of the tribe of Judah, the Root of David, has conquered, so that he can open the scroll and its seven seals.” And between the throne and the four living creatures and among the elders stood a Lamb, as though it had been slain, with seven horns and seven eyes, which are the seven spirits of God sent out into all the earth.",
     "key_term": "Conquered (得胜)",
-    "trap": [
-      "Lamb -> Sheep"
-    ],
+    "trap": "Lamb -> Sheep",
     "nuance_note": "The paradox of the 'Lion' who 'conquered' by being a 'Lamb, as though it had been slain,' reveals victory achieved through sacrificial death.",
     "id": 5
   },
@@ -69,9 +63,7 @@
     "phrase_en": "After this I looked, and behold, a great multitude that no one could number, from every nation, from all tribes and peoples and languages, standing before the throne and before the Lamb... crying out with a loud voice, “Salvation belongs to our God who sits on the throne, and to the Lamb!”",
     "sentence_context": "After this I looked, and behold, a great multitude that no one could number, from every nation, from all tribes and peoples and languages, standing before the throne and before the Lamb, clothed in white robes, with palm branches in their hands, and crying out with a loud voice, “Salvation belongs to our God who sits on the throne, and to the Lamb!”",
     "key_term": "Worship (喊着说/归于)",
-    "trap": [
-      "Lamb -> Goat"
-    ],
+    "trap": "Lamb -> Goat",
     "nuance_note": "The global, innumerable multitude worships God and the Lamb, attributing salvation to them, signifying the Lamb's universal triumph and worthiness.",
     "id": 6
   },
@@ -81,9 +73,7 @@
     "phrase_en": "And they have conquered him by the blood of the Lamb and by the word of their testimony, for they loved not their lives even unto death.",
     "sentence_context": "And I heard a loud voice in heaven, saying, “Now the salvation and the power and the kingdom of our God and the authority of his Christ have come, for the accuser of our brothers has been thrown down, who accuses them day and night before our God. And they have conquered him by the blood of the Lamb and by the word of their testimony, for they loved not their lives even unto death.”",
     "key_term": "Conquered (胜过)",
-    "trap": [
-      "Overcome -> Win"
-    ],
+    "trap": "Overcome -> Win",
     "nuance_note": "Believers' victory over the accuser is achieved through the Lamb's atoning blood and their steadfast testimony, even to martyrdom, reflecting Christ's own victory.",
     "id": 7
   },
@@ -93,9 +83,7 @@
     "phrase_en": "Then I looked, and behold, on Mount Zion stood the Lamb, and with him 144,000 who had his name and his Father’s name written on their foreheads... and they were singing a new song before the throne... and no one could learn that song except the 144,000 who had been redeemed from the earth.",
     "sentence_context": "Then I looked, and behold, on Mount Zion stood the Lamb, and with him 144,000 who had his name and his Father’s name written on their foreheads. And I heard a voice from heaven like the roar of many waters and like the sound of loud thunder. The voice I heard was like that of harpists playing on their harps, and they were singing a new song before the throne and before the four living creatures and before the elders; and no one could learn that song except the 144,000 who had been redeemed from the earth.",
     "key_term": "Redeemed (买来)",
-    "trap": [
-      "Lamb -> Sheep"
-    ],
+    "trap": "Lamb -> Sheep",
     "nuance_note": "The Lamb's presence on Mount Zion with His redeemed, marked by His name, signifies His protective reign and their unique worship as a result of His redemptive work.",
     "id": 8
   },
@@ -105,9 +93,7 @@
     "phrase_en": "And I saw what appeared to be a sea of glass mingled with fire—and also those who had conquered the beast and its image... And they sing the song of Moses... and the song of the Lamb, saying, “Great and amazing are your deeds... All nations will come and worship you, for your righteous acts have been revealed.”",
     "sentence_context": "And I saw what appeared to be a sea of glass mingled with fire—and also those who had conquered the beast and its image and the number of its name, standing beside the sea of glass with harps of God in their hands. And they sing the song of Moses, the servant of God, and the song of the Lamb, saying, “Great and amazing are your deeds, O Lord God the Almighty! Just and true are your ways, O King of the nations! Who will not fear, O Lord, and glorify your name? For you alone are holy. All nations will come and worship you, for your righteous acts have been revealed.”",
     "key_term": "Conquered (胜了)",
-    "trap": [
-      "Overcome -> Success"
-    ],
+    "trap": "Overcome -> Success",
     "nuance_note": "Believers who 'conquer' the beast join in worship, singing the 'song of the Lamb,' testifying to God's righteous acts and the Lamb's ultimate victory that draws all nations to worship.",
     "id": 9
   },
@@ -117,9 +103,7 @@
     "phrase_en": "They will make war on the Lamb, and the Lamb will conquer them, for he is Lord of lords and King of kings, and those with him are called and chosen and faithful.",
     "sentence_context": "They will make war on the Lamb, and the Lamb will conquer them, for he is Lord of lords and King of kings, and those with him are called and chosen and faithful.",
     "key_term": "Conquer (胜过)",
-    "trap": [
-      "Overcome -> Win"
-    ],
+    "trap": "Overcome -> Win",
     "nuance_note": "This verse directly declares the Lamb's invincible power and ultimate victory over all adversaries, asserting His supreme reign as 'Lord of lords and King of kings.'",
     "id": 10
   },
@@ -129,9 +113,7 @@
     "phrase_en": "Then I heard what seemed to be the voice of a great multitude... crying out, “Hallelujah! For the Lord our God the Almighty reigns. Let us rejoice and exult and give him the glory, for the marriage of the Lamb has come, and his Bride has made herself ready;",
     "sentence_context": "Then I heard what seemed to be the voice of a great multitude, like the roar of many waters and like the sound of mighty thunder, crying out, “Hallelujah! For the Lord our God the Almighty reigns. Let us rejoice and exult and give him the glory, for the marriage of the Lamb has come, and his Bride has made herself ready;",
     "key_term": "Reigns (作王)",
-    "trap": [
-      "Lamb -> Goat"
-    ],
+    "trap": "Lamb -> Goat",
     "nuance_note": "The announcement of God's sovereign reign and the 'marriage of the Lamb' signifies the culmination of salvation history and the ultimate victorious union with Christ.",
     "id": 11
   },
@@ -141,9 +123,7 @@
     "phrase_en": "And I saw no temple in the city, for its temple is the Lord God the Almighty and the Lamb. And the city has no need of sun or moon to shine on it, for the glory of God gives it light, and its lamp is the Lamb.",
     "sentence_context": "And I saw no temple in the city, for its temple is the Lord God the Almighty and the Lamb. And the city has no need of sun or moon to shine on it, for the glory of God gives it light, and its lamp is the Lamb.",
     "key_term": "Lamb (羔羊)",
-    "trap": [
-      "Lamb -> Sheep"
-    ],
+    "trap": "Lamb -> Sheep",
     "nuance_note": "The Lamb's presence as the 'temple' and 'lamp' of the New Jerusalem signifies His intimate, eternal presence and illuminating glory in the new creation, a result of His ultimate victory.",
     "id": 12
   },
@@ -153,9 +133,7 @@
     "phrase_en": "Hide us from the face of him who is seated on the throne, and from the wrath of the Lamb, for the great day of their wrath has come, and who can stand?",
     "sentence_context": "They called to the mountains and rocks, “Fall on us and hide us from the face of him who is seated on the throne, and from the wrath of the Lamb, for the great day of their wrath has come, and who can stand?”",
     "key_term": "Judge (审判)",
-    "trap": [
-      "Sheep"
-    ],
+    "trap": "Sheep",
     "nuance_note": "The 'wrath of the Lamb' highlights His divine authority and role in executing judgment, far beyond a passive or weak 'sheep'.",
     "id": 13
   },
@@ -165,9 +143,7 @@
     "phrase_en": "and all who dwell on earth will worship it, everyone whose name has not been written before the foundation of the world in the book of life of the Lamb who was slain.",
     "sentence_context": "And all who dwell on earth will worship it, everyone whose name has not been written before the foundation of the world in the book of life of the Lamb who was slain.",
     "key_term": "Worship (敬拜)",
-    "trap": [
-      "Sheep"
-    ],
+    "trap": "Sheep",
     "nuance_note": "The 'Lamb who was slain' is the object of ultimate worship, emphasizing His redemptive sacrifice as the basis for salvation and eternal life.",
     "id": 14
   },
@@ -177,9 +153,7 @@
     "phrase_en": "These are the ones who follow the Lamb wherever he goes. These have been redeemed from mankind as firstfruits for God and the Lamb,",
     "sentence_context": "It is these who have not defiled themselves with women, for they are virgins. These are the ones who follow the Lamb wherever he goes. These have been redeemed from mankind as firstfruits for God and the Lamb,",
     "key_term": "Endure (忍耐)",
-    "trap": [
-      "Goat"
-    ],
+    "trap": "Goat",
     "nuance_note": "'Follow the Lamb wherever he goes' denotes unwavering loyalty and perseverance through all circumstances, a mark of victory through enduring faith.",
     "id": 15
   },
@@ -189,9 +163,7 @@
     "phrase_en": "he also will drink the wine of God's wrath, poured full strength into the cup of his indignation, and he will be tormented with fire and sulfur in the presence of the holy angels and in the presence of the Lamb.",
     "sentence_context": "He also will drink the wine of God's wrath, poured full strength into the cup of his indignation, and he will be tormented with fire and sulfur in the presence of the holy angels and in the presence of the Lamb.",
     "key_term": "Judge (审判)",
-    "trap": [
-      "Sheep"
-    ],
+    "trap": "Sheep",
     "nuance_note": "The Lamb's active presence during the torment of the wicked underscores His role as a divine and righteous judge, not merely a sacrificial victim.",
     "id": 16
   },
@@ -201,9 +173,7 @@
     "phrase_en": "Blessed and holy is the one who shares in the first resurrection! Over such the second death has no power, but they will be priests of God and of Christ, and they will reign with him for a thousand years.",
     "sentence_context": "Blessed and holy is the one who shares in the first resurrection! Over such the second death has no power, but they will be priests of God and of Christ, and they will reign with him for a thousand years.",
     "key_term": "Reign (作王)",
-    "trap": [
-      "Success"
-    ],
+    "trap": "Success",
     "nuance_note": "Sharing in the 'first resurrection' and reigning with Christ signifies ultimate victory over death and a participation in His sovereign rule, far beyond mere 'success'.",
     "id": 17
   },
@@ -213,9 +183,7 @@
     "phrase_en": "Then came one of the seven angels who had the seven bowls full of the seven last plagues and spoke to me, saying, “Come, I will show you the Bride, the wife of the Lamb.”",
     "sentence_context": "Then came one of the seven angels who had the seven bowls full of the seven last plagues and spoke to me, saying, “Come, I will show you the Bride, the wife of the Lamb.”",
     "key_term": "Come (来)",
-    "trap": [
-      "Goat"
-    ],
+    "trap": "Goat",
     "nuance_note": "'The Bride, the wife of the Lamb' represents the purified church, demonstrating the Lamb's ultimate victory in securing and presenting His people for eternal union.",
     "id": 18
   },
@@ -225,9 +193,7 @@
     "phrase_en": "And the wall of the city had twelve foundations, and on them were twelve names of the twelve apostles of the Lamb.",
     "sentence_context": "And the wall of the city had twelve foundations, and on them were twelve names of the twelve apostles of the Lamb.",
     "key_term": "Reign (作王)",
-    "trap": [
-      "Sheep"
-    ],
+    "trap": "Sheep",
     "nuance_note": "The 'apostles of the Lamb' on the foundations of the New Jerusalem signify the Lamb's established authority and the foundational role of His chosen messengers in His victorious kingdom.",
     "id": 19
   },
@@ -237,9 +203,7 @@
     "phrase_en": "Then the angel showed me the river of the water of life, bright as crystal, flowing from the throne of God and of the Lamb through the middle of the street of the city.",
     "sentence_context": "Then the angel showed me the river of the water of life, bright as crystal, flowing from the throne of God and of the Lamb through the middle of the street of the city.",
     "key_term": "Reign (作王)",
-    "trap": [
-      "Sheep"
-    ],
+    "trap": "Sheep",
     "nuance_note": "The 'throne of God and of the Lamb' symbolizes their shared, supreme authority and the source of eternal life within their victorious reign.",
     "id": 20
   },
@@ -249,9 +213,7 @@
     "phrase_en": "No longer will there be anything accursed, but the throne of God and of the Lamb will be in it, and his servants will worship him.",
     "sentence_context": "No longer will there be anything accursed, but the throne of God and of the Lamb will be in it, and his servants will worship him.",
     "key_term": "Worship (敬拜)",
-    "trap": [
-      "Goat"
-    ],
+    "trap": "Goat",
     "nuance_note": "The worship of 'God and of the Lamb' in the New Jerusalem confirms their co-equal divinity and the ultimate triumph over sin and curse.",
     "id": 21
   },
@@ -261,9 +223,7 @@
     "phrase_en": "They will see his face, and his name will be on their foreheads.",
     "sentence_context": "They will see his face, and his name will be on their foreheads.",
     "key_term": "Conquer (得胜)",
-    "trap": [
-      "Looker"
-    ],
+    "trap": "Looker",
     "nuance_note": "'Seeing his face' represents the ultimate intimacy and reward for those who have conquered through faith, a clear mark of the Lamb's victory in their lives, far beyond just being a 'looker'.",
     "id": 22
   },
@@ -273,9 +233,7 @@
     "phrase_en": "The one who conquers will be clothed thus in white garments, and I will never blot his name out of the book of life. I will confess his name before my Father and before his angels.",
     "sentence_context": "The one who conquers will be clothed thus in white garments, and I will never blot his name out of the book of life. I will confess his name before my Father and before his angels.",
     "key_term": "Conquer (得胜)",
-    "trap": [
-      "得胜 (conquer) vs. 成功 (success)"
-    ],
+    "trap": "得胜 (conquer) vs. 成功 (success)",
     "nuance_note": "得胜 (conquer) implies triumph over spiritual adversaries and trials, rather than mere worldly success or achievement, signifying a victory enabled by Christ.",
     "id": 23
   },
@@ -285,9 +243,7 @@
     "phrase_en": "And they sang a new song, saying, 'Worthy are you to take the scroll and to open its seals, for you were slain, and by your blood you ransomed people for God from every tribe and language and people and nation; and you have made them a kingdom and priests to our God, and they shall reign on the earth.'",
     "sentence_context": "And they sang a new song, saying, 'Worthy are you to take the scroll and to open its seals, for you were slain, and by your blood you ransomed people for God from every tribe and language and people and nation; and you have made them a kingdom and priests to our God, and they shall reign on the earth.'",
     "key_term": "Reign (作王)",
-    "trap": [
-      "执掌王权 (reign) vs. 管理 (manage)"
-    ],
+    "trap": "执掌王权 (reign) vs. 管理 (manage)",
     "nuance_note": "执掌王权 (reign) signifies sovereign authority and rule, distinguishing from simply managing affairs. It emphasizes the royal and priestly status of the redeemed.",
     "id": 24
   },
@@ -297,9 +253,7 @@
     "phrase_en": "saying with a loud voice, 'Worthy is the Lamb who was slain, to receive power and wealth and wisdom and might and honor and glory and blessing!'",
     "sentence_context": "saying with a loud voice, 'Worthy is the Lamb who was slain, to receive power and wealth and wisdom and might and honor and glory and blessing!'",
     "key_term": "Worship (颂赞)",
-    "trap": [
-      "羔羊 (Lamb) vs. 绵羊 (Sheep)"
-    ],
+    "trap": "羔羊 (Lamb) vs. 绵羊 (Sheep)",
     "nuance_note": "羔羊 (Lamb) specifically refers to Christ's sacrificial role and divine identity, not just a generic sheep. 颂赞 (blessing/praise) is an act of worship acknowledging His supreme worthiness.",
     "id": 25
   },
@@ -309,9 +263,7 @@
     "phrase_en": "For the Lamb in the midst of the throne will be their shepherd, and he will guide them to springs of living water, and God will wipe away every tear from their eyes.",
     "sentence_context": "For the Lamb in the midst of the throne will be their shepherd, and he will guide them to springs of living water, and God will wipe away every tear from their eyes.",
     "key_term": "Lamb (羔羊)",
-    "trap": [
-      "牧养 (shepherd) vs. 喂养 (feed)"
-    ],
+    "trap": "牧养 (shepherd) vs. 喂养 (feed)",
     "nuance_note": "牧养 (shepherd) encompasses comprehensive care, guidance, and protection for the flock, not just providing food. The Lamb acts as a divine protector and provider.",
     "id": 26
   },
@@ -321,9 +273,7 @@
     "phrase_en": "Another angel, a second, followed, saying, 'Fallen, fallen is Babylon the great, she who made all nations drink the wine of the passion of her sexual immorality.'",
     "sentence_context": "Another angel, a second, followed, saying, 'Fallen, fallen is Babylon the great, she who made all nations drink the wine of the passion of her sexual immorality.'",
     "key_term": "Judge (审判)",
-    "trap": [
-      "巴比伦 (Babylon) vs. 伊拉克 (Iraq)"
-    ],
+    "trap": "巴比伦 (Babylon) vs. 伊拉克 (Iraq)",
     "nuance_note": "巴比伦 (Babylon) here is symbolic of a corrupt global system opposing God and His people, representing its ultimate judgment and downfall, not the literal ancient city or modern Iraq.",
     "id": 27
   },
@@ -333,9 +283,7 @@
     "phrase_en": "From his mouth comes a sharp sword with which to strike down the nations, and he will rule them with a rod of iron. He will tread the winepress of the fury of the wrath of God the Almighty. On his robe and on his thigh he has a name written, King of Kings and Lord of Lords.",
     "sentence_context": "From his mouth comes a sharp sword with which to strike down the nations, and he will rule them with a rod of iron. He will tread the winepress of the fury of the wrath of God the Almighty. On his robe and on his thigh he has a name written, King of Kings and Lord of Lords.",
     "key_term": "Reign (作王)",
-    "trap": [
-      "辖管 (rule) vs. 管理 (manage)"
-    ],
+    "trap": "辖管 (rule) vs. 管理 (manage)",
     "nuance_note": "辖管 (rule) conveys absolute, authoritative control and dominion, signifying a kingly reign with power and judgment, distinct from mere administrative management.",
     "id": 28
   },
@@ -345,9 +293,7 @@
     "phrase_en": "But nothing unclean will ever enter it, nor anyone who does what is detestable or false, but only those who are written in the Lamb's book of life.",
     "sentence_context": "But nothing unclean will ever enter it, nor anyone who does what is detestable or false, but only those who are written in the Lamb's book of life.",
     "key_term": "Lamb (羔羊)",
-    "trap": [
-      "生命册 (book of life) vs. 登记簿 (registry book)"
-    ],
+    "trap": "生命册 (book of life) vs. 登记簿 (registry book)",
     "nuance_note": "羔羊生命册 (Lamb's book of life) is a divine record of those redeemed by Christ's victory, signifying eternal salvation and citizenship in the New Jerusalem, not a common registry.",
     "id": 29
   },
@@ -357,9 +303,7 @@
     "phrase_en": "fell down before the Lamb",
     "sentence_context": "And when he had taken the scroll, the four living creatures and the twenty-four elders fell down before the Lamb, each holding a harp, and golden bowls full of incense, which are the prayers of the saints.",
     "key_term": "Worship (敬拜)",
-    "trap": [
-      "Lamb (羔羊) misinterpreted as a literal sheep."
-    ],
+    "trap": "Lamb (羔羊) misinterpreted as a literal sheep.",
     "nuance_note": "The Lamb (羔羊) in Revelation consistently refers to Jesus Christ, symbolizing His sacrificial death and triumphant resurrection. The act of falling down signifies profound worship and recognition of His divine authority, not bowing to an animal.",
     "id": 30
   }

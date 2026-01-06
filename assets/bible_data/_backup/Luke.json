@@ -33,9 +33,7 @@
     "phrase_en": "I have not come to call the righteous but sinners to repentance.",
     "sentence_context": "And Jesus answered them, “Those who are well have no need of a physician, but those who are sick. I have not come to call the righteous but sinners to repentance.”",
     "key_term": "Repent (悔改)",
-    "trap": [
-      "Sinner: Bad person"
-    ],
+    "trap": "Sinner: Bad person",
     "nuance_note": "The verb 'call' (καλέω) implies an invitation to a new way of life and transformation, not merely a summons.",
     "id": 3
   },
@@ -45,9 +43,7 @@
     "phrase_en": "Just so, I tell you, there will be more joy in heaven over one sinner who repents than over ninety-nine righteous persons who need no repentance.",
     "sentence_context": "Just so, I tell you, there will be more joy in heaven over one sinner who repents than over ninety-nine righteous persons who need no repentance.",
     "key_term": "Rejoice (欢喜)",
-    "trap": [
-      "Sinner: Criminal"
-    ],
+    "trap": "Sinner: Criminal",
     "nuance_note": "'Joy in heaven' (χαρὰ ἐν τῷ οὐρανῷ) emphasizes the divine delight and celebration over spiritual conversion.",
     "id": 4
   },
@@ -57,9 +53,7 @@
     "phrase_en": "For the Son of Man came to seek and to save the lost.",
     "sentence_context": "And Zacchaeus stood and said to the Lord, “Behold, Lord, the half of my goods I give to the poor. And if I have defrauded anyone of anything, I restore it fourfold.” And Jesus said to him, “Today salvation has come to this house, since he also is a son of Abraham. For the Son of Man came to seek and to save the lost.”",
     "key_term": "Seek and save (寻找拯救)",
-    "trap": [
-      "Lost: Disappeared"
-    ],
+    "trap": "Lost: Disappeared",
     "nuance_note": "'Lost' (ἀπολωλός) refers to those who are spiritually astray, condemned, or in danger of perishing, not merely misplaced.",
     "id": 5
   },
@@ -69,9 +63,7 @@
     "phrase_en": "“The Spirit of the Lord is upon me, because he has anointed me to proclaim good news to the poor. He has sent me to proclaim liberty to the captives and recovering of sight to the blind, to set at liberty those who are oppressed, to proclaim the year of the Lord's favor.”",
     "sentence_context": "And he unrolled the scroll and found the place where it was written: “The Spirit of the Lord is upon me, because he has anointed me to proclaim good news to the poor. He has sent me to proclaim liberty to the captives and recovering of sight to the blind, to set at liberty those who are oppressed, to proclaim the year of the Lord's favor.”",
     "key_term": "Proclaim (传福音)",
-    "trap": [
-      "Good News: Happy news"
-    ],
+    "trap": "Good News: Happy news",
     "nuance_note": "'Good news' (εὐαγγελίσασθαι) is the gospel message of salvation and liberation, not just generally pleasant information. 'Poor' (πτωχοῖς) includes those spiritually destitute.",
     "id": 6
   },
@@ -81,9 +73,7 @@
     "phrase_en": "Be merciful, even as your Father is merciful.",
     "sentence_context": "But love your enemies, and do good, and lend, expecting nothing in return, and your reward will be great, and you will be sons of the Most High, for he is kind to the ungrateful and the evil. Be merciful, even as your Father is merciful.",
     "key_term": "Forgive (赦免)",
-    "trap": [
-      "Merciful: Kind"
-    ],
+    "trap": "Merciful: Kind",
     "nuance_note": "'Merciful' (οἰκτίρμων) denotes deep compassion and pity that motivates active help and forgiveness, reflecting God's character.",
     "id": 7
   },
@@ -93,9 +83,7 @@
     "phrase_en": "But the tax collector, standing far off, would not even lift up his eyes to heaven, but beat his breast, saying, ‘God, be merciful to me, a sinner!’",
     "sentence_context": "But the tax collector, standing far off, would not even lift up his eyes to heaven, but beat his breast, saying, ‘God, be merciful to me, a sinner!’ I tell you, this man went down to his house justified, rather than the other. For everyone who exalts himself will be humbled, but the one who humbles himself will be exalted.”",
     "key_term": "Pray (祷告)",
-    "trap": [
-      "Sinner: Bad person"
-    ],
+    "trap": "Sinner: Bad person",
     "nuance_note": "'Be merciful' (ἱλάσκομαι) in this context is a plea for propitiation or atonement, seeking God's forgiveness for sin.",
     "id": 8
   },
@@ -105,9 +93,7 @@
     "phrase_en": "No, I tell you; but unless you repent, you will all likewise perish.",
     "sentence_context": "No, I tell you; but unless you repent, you will all likewise perish.",
     "key_term": "Repent (悔改)",
-    "trap": [
-      "Perish: Die"
-    ],
+    "trap": "Perish: Die",
     "nuance_note": "'Repent' (μετανοέω) signifies a fundamental change of mind, attitude, and direction in life, leading to spiritual transformation.",
     "id": 9
   },
@@ -117,9 +103,7 @@
     "phrase_en": "Just so, I tell you, there is joy before the angels of God over one sinner who repents.”",
     "sentence_context": "And when she has found it, she calls together her friends and neighbors, saying, ‘Rejoice with me, for I have found the coin that I had lost.’ Just so, I tell you, there is joy before the angels of God over one sinner who repents.”",
     "key_term": "Rejoice (欢喜)",
-    "trap": [
-      "Sinner: Criminal"
-    ],
+    "trap": "Sinner: Criminal",
     "nuance_note": "'Joy before the angels' (χαρὰ ἐνώπιον τῶν ἀγγέλων) indicates the divine approval and celebration of a sinner's turning to God.",
     "id": 10
   },
@@ -129,9 +113,7 @@
     "phrase_en": "and that repentance and forgiveness of sins should be proclaimed in his name to all nations, beginning from Jerusalem.",
     "sentence_context": "Then he opened their minds to understand the Scriptures, and said to them, “Thus it is written, that the Christ should suffer and on the third day rise from the dead, and that repentance and forgiveness of sins should be proclaimed in his name to all nations, beginning from Jerusalem. You are witnesses of these things.",
     "key_term": "Proclaim (传福音)",
-    "trap": [
-      "Sins: Bad things"
-    ],
+    "trap": "Sins: Bad things",
     "nuance_note": "'Proclaimed' (κηρύσσειν) implies an authoritative, public declaration of the message of salvation. 'Forgiveness' (ἄφεσιν) means remission or release from the penalty and power of sins.",
     "id": 11
   },
@@ -141,9 +123,7 @@
     "phrase_en": "Therefore I tell you, her sins, which are many, are forgiven—for she loved much. But he who is forgiven little, loves little.”",
     "sentence_context": "Therefore I tell you, her sins, which are many, are forgiven—for she loved much. But he who is forgiven little, loves little.”",
     "key_term": "Forgive (赦免)",
-    "trap": [
-      "Sins: Bad things"
-    ],
+    "trap": "Sins: Bad things",
     "nuance_note": "'Forgiven' (ἀφέωνται) denotes a complete cancellation of debt or offense, leading to reconciliation and restoration.",
     "id": 12
   },
@@ -153,9 +133,7 @@
     "phrase_en": "to give knowledge of salvation to his people in the forgiveness of their sins,",
     "sentence_context": "And you, child, will be called the prophet of the Most High; for you will go before the Lord to prepare his ways, to give knowledge of salvation to his people in the forgiveness of their sins,",
     "key_term": "Forgive (赦免)",
-    "trap": [
-      "Sinner (罪人) -> Bad person"
-    ],
+    "trap": "Sinner (罪人) -> Bad person",
     "nuance_note": "Knowledge of salvation (拯救知识) is intrinsically linked with the forgiveness of sins (罪得赦免).",
     "id": 13
   },
@@ -165,9 +143,7 @@
     "phrase_en": "And the angel said to them, “Fear not, for behold, I bring you good news of great joy that will be for all the people.",
     "sentence_context": "And the angel said to them, “Fear not, for behold, I bring you good news of great joy that will be for all the people.",
     "key_term": "Proclaim (传福音)",
-    "trap": [
-      "Good News (好消息) -> Happy news"
-    ],
+    "trap": "Good News (好消息) -> Happy news",
     "nuance_note": "The 'good news' (福音) is not merely 'happy news' but the divinely revealed message of salvation for all humanity.",
     "id": 14
   },
@@ -177,9 +153,7 @@
     "phrase_en": "Bear fruits in keeping with repentance.",
     "sentence_context": "Bear fruits in keeping with repentance. Do not begin to say to yourselves, ‘We have Abraham as our father.’ For I tell you, God is able from these stones to raise up children for Abraham.”",
     "key_term": "Repent (悔改)",
-    "trap": [
-      "Sinner (罪人) -> Criminal"
-    ],
+    "trap": "Sinner (罪人) -> Criminal",
     "nuance_note": "'Fruits' (果子) here signifies outward actions that demonstrate an internal change of heart and mind (μετάνοια).",
     "id": 15
   },
@@ -189,9 +163,7 @@
     "phrase_en": "But he said to them, “I must preach the good news of the kingdom of God to the other towns as well; for I was sent for this purpose.”",
     "sentence_context": "But he said to them, “I must preach the good news of the kingdom of God to the other towns as well; for I was sent for this purpose.”",
     "key_term": "Proclaim (传福音)",
-    "trap": [
-      "Good News (好消息) -> Happy news"
-    ],
+    "trap": "Good News (好消息) -> Happy news",
     "nuance_note": "Jesus' divine 'purpose' (目的) is to 'proclaim' (传扬) the specific 'good news' (福音) of God's kingdom, not merely pleasant tidings.",
     "id": 16
   },
@@ -201,9 +173,7 @@
     "phrase_en": "And he said to the woman, “Your faith has saved you; go in peace.”",
     "sentence_context": "And he said to the woman, “Your faith has saved you; go in peace.”",
     "key_term": "Seek and save (寻找拯救)",
-    "trap": [
-      "Sinner (罪人) -> Bad person"
-    ],
+    "trap": "Sinner (罪人) -> Bad person",
     "nuance_note": "'Saved' (拯救) here refers to spiritual salvation and the forgiveness of sins, not just physical rescue.",
     "id": 17
   },
@@ -213,9 +183,7 @@
     "phrase_en": "For the Son of Man came not to destroy people's lives but to save them.”",
     "sentence_context": "And they went on to another village. For the Son of Man came not to destroy people's lives but to save them.”",
     "key_term": "Seek and save (寻找拯救)",
-    "trap": [
-      "Sinner (罪人) -> Criminal"
-    ],
+    "trap": "Sinner (罪人) -> Criminal",
     "nuance_note": "This verse directly states the mission of the 'Son of Man' (人子) to 'save' (拯救) humanity, contrasting with destruction.",
     "id": 18
   },
@@ -225,9 +193,7 @@
     "phrase_en": "In that same hour he rejoiced in the Holy Spirit and said, “I thank you, Father, Lord of heaven and earth, that you have hidden these things from the wise and understanding and revealed them to little children; yes, Father, for such was your gracious will.”",
     "sentence_context": "In that same hour he rejoiced in the Holy Spirit and said, “I thank you, Father, Lord of heaven and earth, that you have hidden these things from the wise and understanding and revealed them to little children; yes, Father, for such was your gracious will.”",
     "key_term": "Rejoice (欢喜)",
-    "trap": [
-      "Poor (穷人) -> No money"
-    ],
+    "trap": "Poor (穷人) -> No money",
     "nuance_note": "Jesus' 'rejoicing' (欢喜) is a profound spiritual joy over God's sovereign choice to reveal truth to the humble, likened to children, rather than the self-proclaimed wise.",
     "id": 19
   },
@@ -237,9 +203,7 @@
     "phrase_en": "No, I tell you; but unless you repent, you will all likewise perish.”",
     "sentence_context": "No, I tell you; but unless you repent, you will all likewise perish.”",
     "key_term": "Repent (悔改)",
-    "trap": [
-      "Sinner (罪人) -> Bad person"
-    ],
+    "trap": "Sinner (罪人) -> Bad person",
     "nuance_note": "'Perish' (灭亡) implies eternal destruction, emphasizing the urgency and necessity of 'repentance' (μετάνοια).",
     "id": 20
   },
@@ -249,9 +213,7 @@
     "phrase_en": "For this my son was dead, and is alive again; he was lost, and is found.’ And they began to celebrate.",
     "sentence_context": "For this my son was dead, and is alive again; he was lost, and is found.’ And they began to celebrate.",
     "key_term": "Rejoice (欢喜)",
-    "trap": [
-      "Sinner (罪人) -> Bad person"
-    ],
+    "trap": "Sinner (罪人) -> Bad person",
     "nuance_note": "The 'lost and found' (失而复得) motif powerfully illustrates the spiritual renewal of a 'sinner' (罪人) and the accompanying divine 'celebration' (欢庆).",
     "id": 21
   },
@@ -261,9 +223,7 @@
     "phrase_en": "And Jesus said, “Father, forgive them, for they know not what they do.”",
     "sentence_context": "And Jesus said, “Father, forgive them, for they know not what they do.” And they cast lots to divide his garments.",
     "key_term": "Forgive (赦免)",
-    "trap": [
-      "Sinner (罪人) -> Criminal"
-    ],
+    "trap": "Sinner (罪人) -> Criminal",
     "nuance_note": "Jesus' prayer for 'forgiveness' (赦免) for his executioners exemplifies the ultimate expression of divine mercy, even in suffering.",
     "id": 22
   },
@@ -273,9 +233,7 @@
     "phrase_en": "forgive us our sins",
     "sentence_context": "And forgive us our sins, for we ourselves forgive everyone who is indebted to us. And lead us not into temptation.”",
     "key_term": "Forgive (赦免)",
-    "trap": [
-      "Sinner -> Bad person"
-    ],
+    "trap": "Sinner -> Bad person",
     "nuance_note": "'Sins' (ἁμαρτίας, hamartias) are more than just 'bad actions'; they represent falling short of God's perfect standard.",
     "id": 23
   },
@@ -285,9 +243,7 @@
     "phrase_en": "Blessed are you who are poor",
     "sentence_context": "And he lifted up his eyes on his disciples, and said: “Blessed are you who are poor, for yours is the kingdom of God.",
     "key_term": "Proclaim (传福音)",
-    "trap": [
-      "Poor -> No money"
-    ],
+    "trap": "Poor -> No money",
     "nuance_note": "'Poor' (πτωχοί, ptōchoi) here often refers to spiritual destitution and dependence on God, not solely material lack.",
     "id": 24
   },
@@ -297,9 +253,7 @@
     "phrase_en": "they will repent",
     "sentence_context": "And he said, ‘No, father Abraham, but if someone goes to them from the dead, they will repent.’",
     "key_term": "Repent (悔改)",
-    "trap": [
-      "Sinner -> Criminal"
-    ],
+    "trap": "Sinner -> Criminal",
     "nuance_note": "'Repent' (μετανοέω, metanoeō) means a fundamental change of mind, heart, and direction, not just feeling sorry for sin.",
     "id": 25
   },
@@ -309,9 +263,7 @@
     "phrase_en": "all the people rejoiced at all the glorious things that were done by him",
     "sentence_context": "As he said these things, all his adversaries were put to shame, and all the people rejoiced at all the glorious things that were done by him.",
     "key_term": "Rejoice (欢喜)",
-    "trap": [
-      "Good News -> Happy news"
-    ],
+    "trap": "Good News -> Happy news",
     "nuance_note": "'Rejoiced' (ἔχαιρον, echairon) indicates a deep, spiritual joy and affirmation of God's powerful work, not just superficial happiness.",
     "id": 26
   },
@@ -321,9 +273,7 @@
     "phrase_en": "And he sent them out to proclaim the kingdom of God and to heal",
     "sentence_context": "And he sent them out to proclaim the kingdom of God and to heal.",
     "key_term": "Proclaim (传福音)",
-    "trap": [
-      "Good News -> Happy news"
-    ],
+    "trap": "Good News -> Happy news",
     "nuance_note": "'Proclaim' (κηρύσσειν, kēryssein) is an authoritative announcement, a declaration of God's redemptive rule, often accompanied by signs like healing.",
     "id": 27
   },
@@ -333,9 +283,7 @@
     "phrase_en": "you must forgive him",
     "sentence_context": "And if he sins against you seven times in the day, and turns to you seven times, saying, ‘I repent,’ you must forgive him.”",
     "key_term": "Forgive (赦免)",
-    "trap": [
-      "Sinner -> Bad person"
-    ],
+    "trap": "Sinner -> Bad person",
     "nuance_note": "The command to 'forgive' (ἀφίετε, aphiete) extends the divine principle of grace and reconciliation to human relationships.",
     "id": 28
   },
@@ -345,9 +293,7 @@
     "phrase_en": "invite the poor, the crippled, the lame, the blind,",
     "sentence_context": "But when you give a feast, invite the poor, the crippled, the lame, the blind, and you will be blessed, because they cannot repay you. For you will be repaid at the resurrection of the just.",
     "key_term": "Invite (请)",
-    "trap": [
-      "Poor (贫穷的) -> No money"
-    ],
+    "trap": "Poor (贫穷的) -> No money",
     "nuance_note": "The term 'poor' (πτωχός) in this context refers to those lacking not just wealth but also social standing and physical ability, often marginalized from society. 'Invite' (καλέω) here implies a proactive seeking out and inclusion.",
     "id": 29
   },
@@ -357,9 +303,7 @@
     "phrase_en": "proclaiming and bringing the good news of the kingdom of God.",
     "sentence_context": "Soon afterward he went on through cities and villages, proclaiming and bringing the good news of the kingdom of God. And the twelve were with him,",
     "key_term": "Proclaim (宣讲)",
-    "trap": [
-      "Good News (福音) -> Happy news"
-    ],
+    "trap": "Good News (福音) -> Happy news",
     "nuance_note": "The term 'Good News' (εὐαγγέλιον) refers to the authoritative message of salvation and the inauguration of God's kingdom through Jesus, not merely 'happy news' in a generic sense. 'Proclaiming' (εὐαγγελίζω) highlights its active and purposeful declaration.",
     "id": 30
   }

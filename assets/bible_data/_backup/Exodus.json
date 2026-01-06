@@ -1,5 +1,6 @@
 [
   {
+    "reference": "Ex 12:13",
     "chinese_phrase": "我见这血，就**越过**你们去",
     "english_phrase": "I will **pass over** you",
     "key_focus_term": "Pass over",
@@ -10,10 +11,10 @@
     ],
     "sentence_context": "The blood shall be a sign for you, on the houses where you are. And when I see the blood, I will **pass over** you, and no plague will befall you to destroy you, when I strike the land of Egypt.",
     "nuance_note": "Pass over (Pasach) 是救赎历史专有名词，Skip 太随意。",
-    "id": 1,
-    "ref": "Ex 12:13"
+    "id": 1
   },
   {
+    "reference": "Ex 14:13",
     "chinese_phrase": "只管**站住**！看耶和华...施行救恩",
     "english_phrase": "**Stand firm** and see the salvation",
     "key_focus_term": "Stand firm",
@@ -24,8 +25,7 @@
     ],
     "sentence_context": "And Moses said to the people, “Do not be afraid; **stand firm**, and see the salvation of the Lord, which he will work for you today. For the Egyptians whom you see today, you shall never see again.",
     "nuance_note": "Stand firm 带有军事意味（坚守阵地），Stand there 只是发呆。",
-    "id": 2,
-    "ref": "Ex 14:13"
+    "id": 2
   },
   {
     "ref": "Exodus 3:8",
@@ -33,9 +33,7 @@
     "phrase_en": "I have come down to deliver them out of the hand of the Egyptians",
     "sentence_context": "and I have come down to deliver them out of the hand of the Egyptians and to bring them up out of that land to a good and broad land, a land flowing with milk and honey, to the place of the Canaanites, the Hittites, the Amorites, the Perizzites, the Hivites, and the Jebusites.",
     "key_term": "Deliver (拯救)",
-    "trap": [
-      "Save (money/time), Rescue (a lost item)"
-    ],
+    "trap": "Save (money/time), Rescue (a lost item)",
     "nuance_note": "“拯救” (Deliver) here means to rescue from oppression and slavery through divine intervention, not merely to 'save money' or 'rescue a lost item'.",
     "id": 3
   },
@@ -45,9 +43,7 @@
     "phrase_en": "I will harden his heart",
     "sentence_context": "And the LORD said to Moses, “When you go back to Egypt, see that you do before Pharaoh all the wonders that I have put in your power. But I will harden his heart, so that he will not let the people go.",
     "key_term": "Harden (使...刚硬)",
-    "trap": [
-      "Let be hard, Allow"
-    ],
+    "trap": "Let be hard, Allow",
     "nuance_note": "“使...刚硬” (Harden) refers to spiritual stubbornness and resistance to God's will and commands, not merely 'allowing' something to be difficult.",
     "id": 4
   },
@@ -57,9 +53,7 @@
     "phrase_en": "Let my people go, that they may serve me",
     "sentence_context": "And you shall say to him, ‘The LORD, the God of the Hebrews, sent me to you, saying, “Let my people go, that they may serve me in the wilderness,” and behold, you have not listened by now.",
     "key_term": "Serve (事奉)",
-    "trap": [
-      "Serve (food), Serve (a sentence)"
-    ],
+    "trap": "Serve (food), Serve (a sentence)",
     "nuance_note": "“事奉” (Serve) implies worship, obedience, and devotion to God as a covenantal relationship, distinct from serving food or serving time.",
     "id": 5
   },
@@ -69,9 +63,7 @@
     "phrase_en": "I will redeem you with an outstretched arm",
     "sentence_context": "Say therefore to the people of Israel, ‘I am the LORD, and I will bring you out from under the burdens of the Egyptians, and I will deliver you from slavery to them, and I will redeem you with an outstretched arm and with great acts of judgment.",
     "key_term": "Redeem (救赎)",
-    "trap": [
-      "Buy back, Save money"
-    ],
+    "trap": "Buy back, Save money",
     "nuance_note": "“救赎” (Redeem) signifies God's powerful act of liberation and taking ownership of His people, not a commercial transaction or saving money.",
     "id": 6
   },
@@ -81,9 +73,7 @@
     "phrase_en": "And let them make me a sanctuary, that I may dwell in their midst",
     "sentence_context": "“They shall make a sanctuary for me, and I will dwell in their midst. Exactly as I show you concerning the pattern of the tabernacle, and all its furniture, so you shall make it.",
     "key_term": "Dwell (居住)",
-    "trap": [
-      "Live (in a house), Reside (temporarily)"
-    ],
+    "trap": "Live (in a house), Reside (temporarily)",
     "nuance_note": "“居住” (Dwell) here denotes God's covenantal and intimate presence among His people, not mere physical cohabitation or temporary residence.",
     "id": 7
   },
@@ -93,9 +83,7 @@
     "phrase_en": "Moreover, you shall make the tabernacle with ten curtains",
     "sentence_context": "“Moreover, you shall make the tabernacle with ten curtains of fine twined linen and blue and purple and scarlet yarns; you shall make them with cherubim skillfully worked into them.",
     "key_term": "Tabernacle (会幕)",
-    "trap": [
-      "Tent, House"
-    ],
+    "trap": "Tent, House",
     "nuance_note": "“会幕” (Tabernacle) is a sacred, portable sanctuary meticulously designed by God for His dwelling among Israel, far more significant than a common 'tent' or 'house'.",
     "id": 8
   },
@@ -105,9 +93,7 @@
     "phrase_en": "This day shall be to you a memorial",
     "sentence_context": "“This day shall be to you a memorial, and you shall keep it as a feast to the LORD; throughout your generations, you shall keep it as an ordinance forever.",
     "key_term": "Remember (纪念)",
-    "trap": [
-      "Recall (a fact), Keep in mind (a task)"
-    ],
+    "trap": "Recall (a fact), Keep in mind (a task)",
     "nuance_note": "“纪念” (Memorial/Remember) signifies an active, commemorative observance that reinforces the covenant and God's saving acts, not just a passive recollection of a fact.",
     "id": 9
   },
@@ -117,9 +103,7 @@
     "phrase_en": "I will give you the tablets of stone, with the law and the commandment",
     "sentence_context": "The LORD said to Moses, “Come up to me on the mountain and wait there, that I may give you the tablets of stone, with the law and the commandment, which I have written for their instruction.”",
     "key_term": "Law (律法)",
-    "trap": [
-      "Rules, Regulations"
-    ],
+    "trap": "Rules, Regulations",
     "nuance_note": "“律法” (Torah) encompasses God's divine instruction, covenant, and way of life, not merely a set of 'rules' or 'regulations'.",
     "id": 10
   },
@@ -129,9 +113,7 @@
     "phrase_en": "Moses told his father-in-law all that the LORD had done to Pharaoh and to the Egyptians for Israel's sake, all the hardship that had come upon them in the way, and how the LORD had delivered them.",
     "sentence_context": "Moses told his father-in-law all that the LORD had done to Pharaoh and to the Egyptians for Israel's sake, all the hardship that had come upon them in the way, and how the LORD had delivered them.",
     "key_term": "Deliver (拯救)",
-    "trap": [
-      "Get out of trouble, Escape (a situation)"
-    ],
+    "trap": "Get out of trouble, Escape (a situation)",
     "nuance_note": "“拯救” (Deliver) here emphasizes God's mighty and supernatural intervention in rescuing His people from overwhelming oppression, not just 'getting out of trouble'.",
     "id": 11
   },
@@ -141,9 +123,7 @@
     "phrase_en": "You shall serve the LORD your God",
     "sentence_context": "You shall serve the LORD your God, and he will bless your bread and your water, and I will take sickness away from among you.",
     "key_term": "Serve (事奉)",
-    "trap": [
-      "Work for, Be useful to"
-    ],
+    "trap": "Work for, Be useful to",
     "nuance_note": "“事奉” (Serve) implies active devotion, obedience, and worship as a response to God's covenant, rather than simply 'working for' or being 'useful to' someone.",
     "id": 12
   },
@@ -153,9 +133,7 @@
     "phrase_en": "You have led in your steadfast love the people whom you have **redeemed**;",
     "sentence_context": "You have led in your steadfast love the people whom you have redeemed; you have guided them by your strength to your holy abode.",
     "key_term": "Redeem (救赎)",
-    "trap": [
-      "Buy back"
-    ],
+    "trap": "Buy back",
     "nuance_note": "The Hebrew verb גָּאַל (ga'al) denotes acting as a kinsman-redeemer, involving liberation and restoration, not just a financial transaction.",
     "id": 13
   },
@@ -165,9 +143,7 @@
     "phrase_en": "I will **dwell** among the people of Israel and will be their God.",
     "sentence_context": "I will dwell among the people of Israel and will be their God.",
     "key_term": "Dwell (居住)",
-    "trap": [
-      "House"
-    ],
+    "trap": "House",
     "nuance_note": "The verb שָׁכַן (shakan) describes God's immanent presence, specifically in the Tabernacle (His dwelling place), signifying His covenant relationship with His people.",
     "id": 14
   },
@@ -177,9 +153,7 @@
     "phrase_en": "**Remember** the Sabbath day, to keep it holy.",
     "sentence_context": "Remember the Sabbath day, to keep it holy.",
     "key_term": "Remember (纪念)",
-    "trap": [
-      "Rules"
-    ],
+    "trap": "Rules",
     "nuance_note": "The command to זָכַר (zakhar) means more than mental recall; it implies active observance and commemoration, making the Sabbath a distinct sign of the covenant.",
     "id": 15
   },
@@ -189,9 +163,7 @@
     "phrase_en": "But the Lord **hardened** the heart of Pharaoh, and he did not listen to them,",
     "sentence_context": "But the Lord hardened the heart of Pharaoh, and he did not listen to them, just as the Lord had spoken to Moses.",
     "key_term": "Harden (使...刚硬)",
-    "trap": [
-      "Allow"
-    ],
+    "trap": "Allow",
     "nuance_note": "The Hebrew verb חָזַק (khazaq) here means God actively strengthened Pharaoh's resolve, demonstrating divine sovereignty even over human will, fulfilling prophetic declaration.",
     "id": 16
   },
@@ -201,9 +173,7 @@
     "phrase_en": "and see the **salvation** of the Lord, which he will work for you today.",
     "sentence_context": "And Moses said to the people, “Do not be afraid; stand firm, and see the salvation of the Lord, which he will work for you today. For the Egyptians whom you see today, you shall never see again.”",
     "key_term": "Deliver (拯救)",
-    "trap": [
-      "Save money"
-    ],
+    "trap": "Save money",
     "nuance_note": "The Hebrew יְשׁוּעָה (yeshu'ah) refers to a comprehensive act of rescue and victory, not just saving from a difficult situation but bringing to safety and freedom.",
     "id": 17
   },
@@ -213,9 +183,7 @@
     "phrase_en": "and the glory of the Lord filled the **tabernacle**.",
     "sentence_context": "Then the cloud covered the tent of meeting, and the glory of the Lord filled the tabernacle.",
     "key_term": "Dwell (居住)",
-    "trap": [
-      "Tent"
-    ],
+    "trap": "Tent",
     "nuance_note": "The מִשְׁכָּן (mishkan) is more than a temporary tent; it is a divinely designed dwelling place for God's glory among His people, symbolizing His covenant presence.",
     "id": 18
   },
@@ -225,9 +193,7 @@
     "phrase_en": "Let the men go, that they may **serve** the Lord their God.",
     "sentence_context": "Then Pharaoh's servants said to him, “How long shall this man be a snare to us? Let the men go, that they may serve the Lord their God. Do you not yet understand that Egypt is ruined?”",
     "key_term": "Serve (事奉)",
-    "trap": [
-      "Regulations"
-    ],
+    "trap": "Regulations",
     "nuance_note": "The Hebrew עָבַד (avad) means to serve or worship, implying obedience, devotion, and labor offered to God, distinguishing Israel from their bondage in Egypt.",
     "id": 19
   },
@@ -237,9 +203,7 @@
     "phrase_en": "Now these are the **rules** that you shall set before them.",
     "sentence_context": "Now these are the rules that you shall set before them.",
     "key_term": "Law",
-    "trap": [
-      "Rules"
-    ],
+    "trap": "Rules",
     "nuance_note": "The Hebrew מִשְׁפָּטִים (mishpatim) refers to legal judgments or ordinances, specific applications of the broader Torah (Law), designed to govern societal and individual behavior.",
     "id": 20
   },
@@ -249,9 +213,7 @@
     "phrase_en": "Every firstborn of a donkey you shall **redeem** with a lamb,",
     "sentence_context": "Every firstborn of a donkey you shall redeem with a lamb, or if you will not redeem it you shall break its neck. Every firstborn of man among your sons you shall redeem.",
     "key_term": "Redeem (救赎)",
-    "trap": [
-      "Buy back"
-    ],
+    "trap": "Buy back",
     "nuance_note": "This commandment illustrates the principle of substitutionary redemption (פָּדָה padah), where a life (lamb) is offered to claim another (donkey's firstborn), pointing to a greater spiritual redemption.",
     "id": 21
   },
@@ -261,9 +223,7 @@
     "phrase_en": "**Remember** this day in which you came out from Egypt, from the house of slavery,",
     "sentence_context": "Then Moses said to the people, “Remember this day in which you came out from Egypt, from the house of slavery, for by a strong hand the Lord brought you out from this place. No leavened bread shall be eaten.”",
     "key_term": "Remember (纪念)",
-    "trap": [
-      "Let be hard"
-    ],
+    "trap": "Let be hard",
     "nuance_note": "The imperative זָכַר (zakhar) here is a call to active commemoration of God's mighty deliverance (יָד חֲזָקָה), ensuring the historical event shapes future identity and obedience.",
     "id": 22
   },
@@ -273,9 +233,7 @@
     "phrase_en": "and all the firstborn of my sons I redeem.",
     "sentence_context": "For when Pharaoh stubbornly refused to let us go, the Lord killed all the firstborn in the land of Egypt, both the firstborn of man and the firstborn of animal. Therefore I sacrifice to the Lord all the males that first open the womb, and all the firstborn of my sons I redeem.",
     "key_term": "Redeem (救赎)",
-    "trap": [
-      "Buy back"
-    ],
+    "trap": "Buy back",
     "nuance_note": "The act of 'redeeming' the firstborn son signifies God's ownership and Israel's deliverance, requiring a symbolic payment.",
     "id": 23
   },
@@ -285,9 +243,7 @@
     "phrase_en": "But I will harden Pharaoh's heart",
     "sentence_context": "But I will harden Pharaoh's heart, and though I multiply my signs and my wonders in the land of Egypt...",
     "key_term": "Harden (使...刚硬)",
-    "trap": [
-      "Let be hard"
-    ],
+    "trap": "Let be hard",
     "nuance_note": "God's active role in 'hardening' Pharaoh's heart demonstrates His sovereignty and judgment, not merely passive permission.",
     "id": 24
   },
@@ -297,9 +253,7 @@
     "phrase_en": "Thus the Lord saved Israel that day from the hand of the Egyptians",
     "sentence_context": "Thus the Lord saved Israel that day from the hand of the Egyptians, and Israel saw the Egyptians dead on the seashore.",
     "key_term": "Deliver (拯救)",
-    "trap": [
-      "Save money"
-    ],
+    "trap": "Save money",
     "nuance_note": "The 'deliverance' (salvation) of Israel was a powerful, miraculous act of God, establishing His covenant faithfulness.",
     "id": 25
   },
@@ -309,9 +263,7 @@
     "phrase_en": "Let my son go that he may serve me.",
     "sentence_context": "Then you shall say to Pharaoh, ‘Thus says the Lord, Israel is my firstborn son, and I say to you, “Let my son go that he may serve me.” If you refuse to let him go, behold, I will kill your firstborn son.’",
     "key_term": "Serve (事奉)",
-    "trap": [
-      "Just serve"
-    ],
+    "trap": "Just serve",
     "nuance_note": "To 'serve' God implies worship and obedience, a profound allegiance distinct from slavery or generic service.",
     "id": 26
   },
@@ -321,9 +273,7 @@
     "phrase_en": "that I might dwell among them",
     "sentence_context": "And they shall know that I am the Lord their God, who brought them out of the land of Egypt that I might dwell among them; I am the Lord their God.",
     "key_term": "Dwell (居住)",
-    "trap": [
-      "Live among"
-    ],
+    "trap": "Live among",
     "nuance_note": "God's 'dwelling' among His people signifies His holy, covenantal presence and desire for intimate relationship, not just physical proximity.",
     "id": 27
   },
@@ -333,9 +283,7 @@
     "phrase_en": "as a memorial between your eyes",
     "sentence_context": "And it shall be to you as a sign on your hand and as a memorial between your eyes, that the law of the Lord may be in your mouth. For with a strong hand the Lord has brought you out of Egypt.",
     "key_term": "Remember (纪念)",
-    "trap": [
-      "Just remember"
-    ],
+    "trap": "Just remember",
     "nuance_note": "The 'memorial' serves as a perpetual, commanded reminder of God's powerful deliverance and Israel's obligation to obey His Law.",
     "id": 28
   },
@@ -345,9 +293,7 @@
     "phrase_en": "if you will indeed obey my voice and keep my covenant",
     "sentence_context": "Now therefore, if you will indeed obey my voice and keep my covenant, you shall be my treasured possession among all peoples, for all the earth is mine.",
     "key_term": "Keep (遵守)",
-    "trap": [
-      "Follow rules"
-    ],
+    "trap": "Follow rules",
     "nuance_note": "'Keeping' the covenant involves a deep commitment and obedience to God's commands, establishing Israel's unique relationship with Him.",
     "id": 29
   },
@@ -357,9 +303,7 @@
     "phrase_en": "And everyone who sought the Lord would go out to the tent of meeting",
     "sentence_context": "Now Moses used to take the tent and pitch it outside the camp, far off from the camp, and he called it the tent of meeting. And everyone who sought the Lord would go out to the tent of meeting, which was outside the camp.",
     "key_term": "Sought (寻求)",
-    "trap": [
-      "Look for"
-    ],
+    "trap": "Look for",
     "nuance_note": "'Seeking the Lord' at the Tent of Meeting implies an intentional act of worship and communion, desiring His presence and guidance.",
     "id": 30
   }

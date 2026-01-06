@@ -33,9 +33,7 @@
     "phrase_en": "that the Son of Man must suffer many things and be rejected by the elders and the chief priests and the scribes and be killed, and after three days rise again.",
     "sentence_context": "And he began to teach them that the Son of Man must suffer many things and be rejected by the elders and the chief priests and the scribes and be killed, and after three days rise again.",
     "key_term": "Suffer (受苦)",
-    "trap": [
-      "must suffer (必须受苦) -> have to endure / certainly experience pain"
-    ],
+    "trap": "must suffer (必须受苦) -> have to endure / certainly experience pain",
     "nuance_note": "The Greek word *dei* (必须) conveys divine necessity or destiny, not merely a human obligation or a strong likelihood. '受苦' implies enduring hardship and pain for a purpose, not just feeling bad.",
     "id": 3
   },
@@ -45,9 +43,7 @@
     "phrase_en": "If anyone would come after me, let him deny himself and take up his cross and follow me.",
     "sentence_context": "And calling the crowd to him with his disciples, he said to them, 'If anyone would come after me, let him deny himself and take up his cross and follow me.'",
     "key_term": "Deny himself (舍己)",
-    "trap": [
-      "舍己 (deny himself) -> give up oneself / sacrifice oneself"
-    ],
+    "trap": "舍己 (deny himself) -> give up oneself / sacrifice oneself",
     "nuance_note": "While 'sacrifice' is related, '舍己' (*aparneomai*) specifically means to disown or renounce oneself, one's own will and desires, in favor of Christ's will. It's a radical reorientation of self.",
     "id": 4
   },
@@ -57,9 +53,7 @@
     "phrase_en": "And they compelled a passerby, Simon of Cyrene, who was coming in from the country, the father of Alexander and Rufus, to carry his cross.",
     "sentence_context": "And they compelled a passerby, Simon of Cyrene, who was coming in from the country, the father of Alexander and Rufus, to carry his cross.",
     "key_term": "Take up cross (背起十字架)",
-    "trap": [
-      "背十字架 (carry cross) -> bear the burden / suffer difficulties"
-    ],
+    "trap": "背十字架 (carry cross) -> bear the burden / suffer difficulties",
     "nuance_note": "Though Simon physically carried Jesus' cross, the act symbolizes identifying with Christ's suffering and impending death, not just any general hardship. It's a literal and symbolic act.",
     "id": 5
   },
@@ -69,9 +63,7 @@
     "phrase_en": "And he sat down and called the twelve. And he said to them, 'If anyone would be first, he must be last of all and servant of all.'",
     "sentence_context": "And he sat down and called the twelve. And he said to them, 'If anyone would be first, he must be last of all and servant of all.'",
     "key_term": "Serve (服事)",
-    "trap": [
-      "用人 (servant) -> employee / helper"
-    ],
+    "trap": "用人 (servant) -> employee / helper",
     "nuance_note": "'用人' (*diakonos*) implies humble, selfless service and ministry, often in a position of low status, rather than merely a contractual employee or casual helper. It's a core aspect of discipleship.",
     "id": 6
   },
@@ -81,9 +73,7 @@
     "phrase_en": "And immediately they left their nets and followed him.",
     "sentence_context": "And Jesus said to them, 'Follow me, and I will make you become fishers of men.' And immediately they left their nets and followed him.",
     "key_term": "Immediately (立刻)",
-    "trap": [
-      "立刻 (immediately) -> very fast / right now"
-    ],
+    "trap": "立刻 (immediately) -> very fast / right now",
     "nuance_note": "Mark's frequent use of '立刻' (*euthys*) emphasizes the urgency, decisiveness, and supernatural power of Jesus' call and the disciples' swift, unconditional response, not just quickness.",
     "id": 7
   },
@@ -93,9 +83,7 @@
     "phrase_en": "And Jesus said to him, 'If you can! All things are possible for one who believes.'",
     "sentence_context": "And Jesus said to him, 'If you can! All things are possible for one who believes.' Immediately the father of the child cried out and said, 'I believe; help my unbelief!'",
     "key_term": "Believe (信)",
-    "trap": [
-      "信 (believe) -> think it's true / agree with"
-    ],
+    "trap": "信 (believe) -> think it's true / agree with",
     "nuance_note": "'信' (*pistis*) in this context means more than intellectual assent; it implies active trust, reliance, and confidence in God's power and ability to act, particularly for miraculous intervention.",
     "id": 8
   },
@@ -105,9 +93,7 @@
     "phrase_en": "then, when tribulation or persecution arises on account of the word, immediately they fall away.",
     "sentence_context": "And since they have no root in themselves, they endure for a little while; then, when tribulation or persecution arises on account of the word, immediately they fall away.",
     "key_term": "Suffer (受苦)",
-    "trap": [
-      "跌倒 (fall away) -> trip and fall / make a mistake"
-    ],
+    "trap": "跌倒 (fall away) -> trip and fall / make a mistake",
     "nuance_note": "'跌倒' (*skandalizō*) here refers to spiritual stumbling or apostasy, abandoning one's faith under pressure or persecution, rather than a physical fall or minor error.",
     "id": 9
   },
@@ -117,9 +103,7 @@
     "phrase_en": "And if your hand causes you to sin, cut it off. It is better for you to enter life crippled than with two hands to go to hell, to the unquenchable fire.",
     "sentence_context": "And if your hand causes you to sin, cut it off. It is better for you to enter life crippled than with two hands to go to hell, to the unquenchable fire.",
     "key_term": "Deny himself (舍己)",
-    "trap": [
-      "砍下来 (cut it off) -> remove it / discard it"
-    ],
+    "trap": "砍下来 (cut it off) -> remove it / discard it",
     "nuance_note": "This is hyperbole emphasizing the radical, painful, and decisive action required to eliminate anything that causes spiritual stumbling or leads to sin, even if it means extreme self-sacrifice. It's a vivid call to deny self.",
     "id": 10
   },
@@ -129,9 +113,7 @@
     "phrase_en": "And Jesus, looking at him, loved him, and said to him, 'You lack one thing: go, sell all that you have and give to the poor, and you will have treasure in heaven; and come, follow me.'",
     "sentence_context": "And Jesus, looking at him, loved him, and said to him, 'You lack one thing: go, sell all that you have and give to the poor, and you will have treasure in heaven; and come, follow me.'",
     "key_term": "Serve (服事)",
-    "trap": [
-      "跟从我 (follow me) -> come with me / go after me"
-    ],
+    "trap": "跟从我 (follow me) -> come with me / go after me",
     "nuance_note": "'跟从我' (*akoloutheō*) means more than physical accompaniment; it signifies becoming a disciple, adopting Jesus' way of life, committing to his teachings, and serving his mission, often involving personal sacrifice.",
     "id": 11
   },
@@ -141,9 +123,7 @@
     "phrase_en": "And you will be hated by all for my name's sake. But the one who endures to the end will be saved.",
     "sentence_context": "And you will be hated by all for my name's sake. But the one who endures to the end will be saved.",
     "key_term": "Suffer (受苦)",
-    "trap": [
-      "忍耐到底 (endures to the end) -> wait until the end / be patient to the finish"
-    ],
+    "trap": "忍耐到底 (endures to the end) -> wait until the end / be patient to the finish",
     "nuance_note": "'忍耐到底' (*hypomenō eis telos*) implies active, steadfast perseverance and endurance through trials and persecutions, not merely passive waiting. It's a resilient continuance in faith despite suffering.",
     "id": 12
   },
@@ -153,9 +133,7 @@
     "phrase_en": "immediately coming up out of the water",
     "sentence_context": "And immediately coming up out of the water, he saw the heavens being torn open and the Spirit descending on him like a dove.",
     "key_term": "Immediately (立刻)",
-    "trap": [
-      "Immediately (Now)"
-    ],
+    "trap": "Immediately (Now)",
     "nuance_note": "The Greek εὐθύς (euthys), translated as 'immediately', is a characteristic stylistic feature of Mark, emphasizing the swift, urgent nature of Jesus' ministry, not just 'now' but with purpose.",
     "id": 13
   },
@@ -165,9 +143,7 @@
     "phrase_en": "immediately on the Sabbath he entered the synagogue and was teaching",
     "sentence_context": "And they went into Capernaum, and immediately on the Sabbath he entered the synagogue and was teaching.",
     "key_term": "Immediately (立刻)",
-    "trap": [
-      "Immediately (Fast)"
-    ],
+    "trap": "Immediately (Fast)",
     "nuance_note": "The repeated use of 'immediately' highlights the rapid pace and authority of Jesus' actions, indicating a powerful, 'fast' onset of his public ministry.",
     "id": 14
   },
@@ -177,9 +153,7 @@
     "phrase_en": "the Son of Man that he must suffer many things",
     "sentence_context": "And he said to them, “Elijah does come first to restore all things. And how is it written of the Son of Man that he must suffer many things and be treated with contempt?",
     "key_term": "Suffer (受苦)",
-    "trap": [
-      "Deny (Refuse)"
-    ],
+    "trap": "Deny (Refuse)",
     "nuance_note": "Jesus' suffering is a divinely ordained necessity, fulfilling prophecy. Disciples often found this truth difficult to accept, effectively 'refusing' to understand the path of the Suffering Servant.",
     "id": 15
   },
@@ -189,9 +163,7 @@
     "phrase_en": "whoever would be great among you must be your servant",
     "sentence_context": "But whoever would be great among you must be your servant,",
     "key_term": "Serve (服事)",
-    "trap": [
-      "Deny (Refuse)"
-    ],
+    "trap": "Deny (Refuse)",
     "nuance_note": "Jesus redefines greatness from worldly power to humble service. This discipleship principle requires a 'refusal' of self-exaltation and a commitment to serving others.",
     "id": 16
   },
@@ -201,9 +173,7 @@
     "phrase_en": "whatever you ask in prayer, believe that you have received it",
     "sentence_context": "Therefore I tell you, whatever you ask in prayer, believe that you have received it, and it will be yours.",
     "key_term": "Believe (信)",
-    "trap": [
-      "Deny (Say no)"
-    ],
+    "trap": "Deny (Say no)",
     "nuance_note": "Genuine belief (faith) is essential for effective prayer. A lack of faith can be seen as 'saying no' to God's ability or willingness to answer.",
     "id": 17
   },
@@ -213,9 +183,7 @@
     "phrase_en": "Whoever believes and is baptized will be saved",
     "sentence_context": "Whoever believes and is baptized will be saved, but whoever does not believe will be condemned.",
     "key_term": "Believe (信)",
-    "trap": [
-      "Deny (Refuse)"
-    ],
+    "trap": "Deny (Refuse)",
     "nuance_note": "Belief and baptism are presented as essential for salvation. To 'refuse' to believe is to reject the path to salvation and face condemnation.",
     "id": 18
   },
@@ -225,9 +193,7 @@
     "phrase_en": "for my sake",
     "sentence_context": "“But be on your guard. For they will deliver you over to councils, and you will be beaten in synagogues, and you will stand before governors and kings for my sake, to bear witness before them.",
     "key_term": "Suffer (受苦)",
-    "trap": [
-      "Deny (Say no)"
-    ],
+    "trap": "Deny (Say no)",
     "nuance_note": "Discipleship involves bearing witness to Christ even through persecution and suffering. There will be temptation to 'say no' to Christ to avoid hardship, highlighting the cost of following Jesus.",
     "id": 19
   },
@@ -237,9 +203,7 @@
     "phrase_en": "he came and took her by the hand and lifted her up, and the fever left her, and she began to serve them",
     "sentence_context": "And he came and took her by the hand and lifted her up, and the fever left her, and she began to serve them.",
     "key_term": "Serve (服事)",
-    "trap": [
-      "Immediately (Now)"
-    ],
+    "trap": "Immediately (Now)",
     "nuance_note": "An immediate response to healing is an act of service, demonstrating gratitude and restored capacity 'now' without delay, embodying practical discipleship.",
     "id": 20
   },
@@ -249,9 +213,7 @@
     "phrase_en": "the flow of blood dried up immediately",
     "sentence_context": "And immediately the flow of blood dried up, and she felt in her body that she was healed of her affliction.",
     "key_term": "Immediately (立刻)",
-    "trap": [
-      "Immediately (Fast)"
-    ],
+    "trap": "Immediately (Fast)",
     "nuance_note": "The instantaneous nature of the healing emphasizes Jesus' divine power and authority, acting 'fast' and decisively in response to faith.",
     "id": 21
   },
@@ -261,9 +223,7 @@
     "phrase_en": "whoever does not receive the kingdom of God like a child will not enter it",
     "sentence_context": "Truly, I say to you, whoever does not receive the kingdom of God like a child will not enter it.",
     "key_term": "Believe (信)",
-    "trap": [
-      "Kingdom is at hand (Coming soon)"
-    ],
+    "trap": "Kingdom is at hand (Coming soon)",
     "nuance_note": "Receiving the Kingdom like a child implies humble faith and trust, a 'belief' essential for entry. The Kingdom, though 'coming soon', requires a present, childlike readiness.",
     "id": 22
   },
@@ -273,9 +233,7 @@
     "phrase_en": "The Spirit immediately drove him out into the wilderness.",
     "sentence_context": "The Spirit immediately drove him out into the wilderness. And he was in the wilderness forty days, being tempted by Satan. And he was with the wild animals, and the angels were ministering to him.",
     "key_term": "Immediately (立刻)",
-    "trap": [
-      "“立刻” (Lìkè) often translated as \"now\" or \"fast,\" potentially missing the divine compulsion."
-    ],
+    "trap": "“立刻” (Lìkè) often translated as \"now\" or \"fast,\" potentially missing the divine compulsion.",
     "nuance_note": "\"Immediately\" (εὐθύς) in Mark often signals divine urgency and the rapid unfolding of God's plan, not merely speed.",
     "id": 23
   },
@@ -285,9 +243,7 @@
     "phrase_en": "For the Son of Man goes as it is written of him, but woe to that man by whom the Son of Man is betrayed! It would have been better for that man if he had not been born.”",
     "sentence_context": "For the Son of Man goes as it is written of him, but woe to that man by whom the Son of Man is betrayed! It would have been better for that man if he had not been born.” And as they were eating, he took bread, and after blessing it broke it and gave it to them, and said, “Take; this is my body.”",
     "key_term": "Betrayed / Goes as written (出卖 / 照经上所写)",
-    "trap": [
-      "“照经上所写的” (Zhào jīng shàng suǒ xiě de) could be misunderstood as passive fate rather than active divine purpose."
-    ],
+    "trap": "“照经上所写的” (Zhào jīng shàng suǒ xiě de) could be misunderstood as passive fate rather than active divine purpose.",
     "nuance_note": "\"Goes as it is written\" (καθὼς γέγραπται περὶ αὐτοῦ) emphasizes the fulfillment of God's redemptive plan through prophecy, not a simple historical event.",
     "id": 24
   },
@@ -297,9 +253,7 @@
     "phrase_en": "Peter began to say to him, “See, we have left everything and followed you.”",
     "sentence_context": "Peter began to say to him, “See, we have left everything and followed you.” Jesus said, “Truly, I say to you, there is no one who has left house or brothers or sisters or mother or father or children or lands, for my sake and for the gospel, who will not receive a hundredfold now in this time, houses and brothers and sisters and mothers and children and lands, with persecutions, and in the age to come eternal life.",
     "key_term": "Left everything / Followed (撇下 / 跟从)",
-    "trap": [
-      "“撇下” (Piēxià) can be seen as just \"giving up\" rather than a radical, complete renunciation."
-    ],
+    "trap": "“撇下” (Piēxià) can be seen as just \"giving up\" rather than a radical, complete renunciation.",
     "nuance_note": "\"Left everything\" (ἀφέντες πάντα) signifies a costly, comprehensive commitment of discipleship, prioritizing Christ above all earthly attachments.",
     "id": 25
   },
@@ -309,9 +263,7 @@
     "phrase_en": "But they stayed silent, for on the way they had argued with one another about who was the greatest.",
     "sentence_context": "But they stayed silent, for on the way they had argued with one another about who was the greatest. And he sat down and called the twelve. And he said to them, “If anyone would be first, he must be last of all and servant of all.”",
     "key_term": "Greatest / Servant (最大 / 服事)",
-    "trap": [
-      "“谁是最大的” (Shéi shì zuì dà de) might be interpreted as a simple hierarchy dispute, rather than a deeper misunderstanding of Kingdom values."
-    ],
+    "trap": "“谁是最大的” (Shéi shì zuì dà de) might be interpreted as a simple hierarchy dispute, rather than a deeper misunderstanding of Kingdom values.",
     "nuance_note": "The disciples' argument about \"who was the greatest\" (τίς μείζων) reveals a worldly mindset, which Jesus corrects by redefining true greatness as humble service (διάκονος).",
     "id": 26
   },
@@ -321,9 +273,7 @@
     "phrase_en": "And brother will deliver brother over to death, and the father his child, and children will rise against parents and have them put to death.",
     "sentence_context": "And brother will deliver brother over to death, and the father his child, and children will rise against parents and have them put to death. And you will be hated by all for my name's sake. But the one who endures to the end will be saved.",
     "key_term": "Deliver over to death / Hated (置于死地 / 憎恨)",
-    "trap": [
-      "“出卖” (Chūmài) could be softened to mere \"betrayal\" without conveying the ultimate consequence of death."
-    ],
+    "trap": "“出卖” (Chūmài) could be softened to mere \"betrayal\" without conveying the ultimate consequence of death.",
     "nuance_note": "\"Deliver over to death\" (παραδώσουσιν θανάτῳ) underscores the severe persecution and ultimate sacrifice that disciples may face for Christ's name.",
     "id": 27
   },
@@ -333,9 +283,7 @@
     "phrase_en": "But overhearing what they said, Jesus said to the ruler of the synagogue, “Do not fear, only believe.”",
     "sentence_context": "But overhearing what they said, Jesus said to the ruler of the synagogue, “Do not fear, only believe.” And he allowed no one to follow him except Peter and James and John the brother of James.",
     "key_term": "Believe (信)",
-    "trap": [
-      "“信” (Xìn) is often limited to intellectual assent (\"know it is true\") rather than active, trusting reliance."
-    ],
+    "trap": "“信” (Xìn) is often limited to intellectual assent (\"know it is true\") rather than active, trusting reliance.",
     "nuance_note": "\"Only believe\" (μόνον πίστευε) is a command for active, unwavering trust (πίστις) in God's power and Christ's authority, especially in dire circumstances.",
     "id": 28
   },
@@ -345,9 +293,7 @@
     "phrase_en": "And he said to them, “To you has been given the secret of the kingdom of God, but for those outside everything is in parables,”",
     "sentence_context": "And he said to them, “To you has been given the secret of the kingdom of God, but for those outside everything is in parables,” so that “they may indeed see but not perceive, and may indeed hear but not understand, lest they should turn and be forgiven.”",
     "key_term": "Kingdom of God / Secret (神的国 / 奥秘)",
-    "trap": [
-      "“神的国” (Shén de guó) can be seen as a future, ethereal heaven, rather than God's present, active reign."
-    ],
+    "trap": "“神的国” (Shén de guó) can be seen as a future, ethereal heaven, rather than God's present, active reign.",
     "nuance_note": "The \"secret of the kingdom of God\" (μυστήριον τῆς βασιλείας τοῦ θεοῦ) refers to the inaugurated reality of God's sovereign rule in Christ, understood only by those granted spiritual insight.",
     "id": 29
   },
@@ -357,9 +303,7 @@
     "phrase_en": "And Jesus said to him, “Truly, I tell you, this very night, before the rooster crows twice, you will deny me three times.”",
     "sentence_context": "And Jesus said to him, “Truly, I tell you, this very night, before the rooster crows twice, you will deny me three times.” But Peter kept saying emphatically, “If I must die with you, I will not deny you.” And they all said the same.",
     "key_term": "Deny (不认)",
-    "trap": [
-      "“不认” (Bù rèn) might be understood as simply \"not admitting\" rather than a strong act of disowning or disavowal."
-    ],
+    "trap": "“不认” (Bù rèn) might be understood as simply \"not admitting\" rather than a strong act of disowning or disavowal.",
     "nuance_note": "\"Deny me\" (ἀπαρνήσῃ με) signifies a public rejection or disavowal of relationship, a severe betrayal of allegiance in the face of pressure.",
     "id": 30
   }

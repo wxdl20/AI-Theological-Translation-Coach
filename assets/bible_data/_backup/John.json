@@ -33,9 +33,7 @@
     "phrase_en": "This, the first of his signs, Jesus did at Cana in Galilee, and manifested his glory. And his disciples believed in him.",
     "sentence_context": "This, the first of his signs, Jesus did at Cana in Galilee, and manifested his glory. And his disciples believed in him.",
     "key_term": "manifested (显出), believed (信)",
-    "trap": [
-      "Sign (Miracle)"
-    ],
+    "trap": "Sign (Miracle)",
     "nuance_note": "A 'sign' (σημεῖον) is not just a miracle, but an act that points to a deeper spiritual truth about Jesus's identity and mission.",
     "id": 3
   },
@@ -45,9 +43,7 @@
     "phrase_en": "Jesus answered him, “Truly, truly, I say to you, unless one is born again he cannot see the kingdom of God.”",
     "sentence_context": "Jesus answered him, “Truly, truly, I say to you, unless one is born again he cannot see the kingdom of God.” Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother's womb and be born?”",
     "key_term": "born again (重生)",
-    "trap": [
-      "Born again (Reborn)"
-    ],
+    "trap": "Born again (Reborn)",
     "nuance_note": "'Born again' (ἄνωθεν) carries the double meaning of 'born anew' and 'born from above,' emphasizing divine origin.",
     "id": 4
   },
@@ -57,9 +53,7 @@
     "phrase_en": "For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him.",
     "sentence_context": "For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him. Whoever believes in him is not condemned, but whoever does not believe is condemned already, because he has not believed in the name of the only Son of God.",
     "key_term": "sent (差遣), saved (得救)",
-    "trap": [
-      "Sent (Dispatched)"
-    ],
+    "trap": "Sent (Dispatched)",
     "nuance_note": "The verb 'sent' (ἀπέστειλεν) highlights God's purposeful commission of Jesus for the specific mission of salvation.",
     "id": 5
   },
@@ -69,9 +63,7 @@
     "phrase_en": "He came as a witness, to bear witness about the light, that all might believe through him.",
     "sentence_context": "He came as a witness, to bear witness about the light, that all might believe through him. He was not the light, but came to bear witness about the light.",
     "key_term": "witness (见证), believe (信)",
-    "trap": [
-      "Witness (Testify)"
-    ],
+    "trap": "Witness (Testify)",
     "nuance_note": "To 'bear witness' (μαρτυρέω) implies a legal, authoritative testimony about truth, not just a casual observation.",
     "id": 6
   },
@@ -81,9 +73,7 @@
     "phrase_en": "Whoever feeds on my flesh and drinks my blood abides in me, and I in him.",
     "sentence_context": "Whoever feeds on my flesh and drinks my blood abides in me, and I in him. As the living Father sent me, and I live because of the Father, so whoever feeds on me, he also will live because of me.",
     "key_term": "abides (常在), feeds (吃)",
-    "trap": [
-      "Flesh (Meat)"
-    ],
+    "trap": "Flesh (Meat)",
     "nuance_note": "'Abides' (μένει) signifies a deep, continuous, and mutual indwelling, essential for spiritual life, not mere proximity.",
     "id": 7
   },
@@ -93,9 +83,7 @@
     "phrase_en": "When Jesus had spoken these words, he lifted up his eyes to heaven, and said, “Father, the hour has come; glorify your Son that the Son may glorify you,”",
     "sentence_context": "When Jesus had spoken these words, he lifted up his eyes to heaven, and said, “Father, the hour has come; glorify your Son that the Son may glorify you, since you have given him authority over all flesh, to give eternal life to all whom you have given him.”",
     "key_term": "glorify (荣耀)",
-    "trap": [
-      "Glorify (Praise)"
-    ],
+    "trap": "Glorify (Praise)",
     "nuance_note": "'Glorify' (δοξάζω) means to reveal the inherent majesty, honor, and splendor of God/Christ, not just to laud.",
     "id": 8
   },
@@ -105,9 +93,7 @@
     "phrase_en": "Jesus said to him, “Go; your son will live.” The man believed the word that Jesus spoke to him and went on his way.",
     "sentence_context": "Jesus said to him, “Go; your son will live.” The man believed the word that Jesus spoke to him and went on his way. As he was going down, his servants met him and told him that his son was recovering.",
     "key_term": "believed (信), live (活)",
-    "trap": [
-      "Word (Speech)"
-    ],
+    "trap": "Word (Speech)",
     "nuance_note": "Belief in Jesus's specific 'word' (ῥῆμα), rather than just a general idea, immediately results in a tangible outcome.",
     "id": 9
   },
@@ -117,9 +103,7 @@
     "phrase_en": "So Jesus said to them, “Truly, truly, I say to you, unless you eat the flesh of the Son of Man and drink his blood, you have no life in you.”",
     "sentence_context": "So Jesus said to them, “Truly, truly, I say to you, unless you eat the flesh of the Son of Man and drink his blood, you have no life in you. Whoever feeds on my flesh and drinks my blood has eternal life, and I will raise him up on the last day.”",
     "key_term": "eat (吃), drink (喝), life (生命)",
-    "trap": [
-      "Flesh (Body)"
-    ],
+    "trap": "Flesh (Body)",
     "nuance_note": "'Flesh' (σάρξ) here emphasizes Jesus's humanity and sacrificial offering, which are spiritually consumed for eternal life.",
     "id": 10
   },
@@ -129,9 +113,7 @@
     "phrase_en": "But the Helper, the Holy Spirit, whom the Father will send in my name, he will teach you all things and bring to your remembrance all that I have said to you.",
     "sentence_context": "But the Helper, the Holy Spirit, whom the Father will send in my name, he will teach you all things and bring to your remembrance all that I have said to you. Peace I leave with you; my peace I give to you. Not as the world gives do I give to you. Let not your hearts be troubled, neither let them be afraid.",
     "key_term": "send (差来), teach (指教), bring to remembrance (想起)",
-    "trap": [
-      "Helper (Assistant)"
-    ],
+    "trap": "Helper (Assistant)",
     "nuance_note": "'Helper' (Παράκλητος, Paraclete) denotes the Holy Spirit as an advocate, counselor, and comforter, not merely an assistant.",
     "id": 11
   },
@@ -141,9 +123,7 @@
     "phrase_en": "Now when he was in Jerusalem at the Passover Feast, many believed in his name when they saw the signs that he was doing.",
     "sentence_context": "Now when he was in Jerusalem at the Passover Feast, many believed in his name when they saw the signs that he was doing.",
     "key_term": "Believe (信)",
-    "trap": [
-      "Miracle"
-    ],
+    "trap": "Miracle",
     "nuance_note": "The term 'signs' (σημεῖα) in John points to a deeper spiritual reality and meaning, serving as evidence of Jesus's divine identity, not just a supernatural event.",
     "id": 12
   },
@@ -153,9 +133,7 @@
     "phrase_en": "Jesus answered, “Truly, truly, I say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God.",
     "sentence_context": "Jesus answered, “Truly, truly, I say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God.",
     "key_term": "Born again (重生)",
-    "trap": [
-      "Body"
-    ],
+    "trap": "Body",
     "nuance_note": "To be 'born of the Spirit' (γεννηθῇ ἐκ πνεύματος) refers to a spiritual regeneration, a new birth from above, distinct from physical birth or mere human effort.",
     "id": 13
   },
@@ -165,9 +143,7 @@
     "phrase_en": "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.",
     "sentence_context": "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.",
     "key_term": "Love (爱)",
-    "trap": [
-      "None directly from list, but 'gave' could be weakened to 'give out'."
-    ],
+    "trap": "None directly from list, but 'gave' could be weakened to 'give out'.",
     "nuance_note": "God's 'love' (ἀγαπάω) here is a sacrificial, active love, leading to the ultimate act of giving His Son, demonstrating immense divine initiative.",
     "id": 14
   },
@@ -177,9 +153,7 @@
     "phrase_en": "He was not the light, but came to bear witness about the light.",
     "sentence_context": "He was not the light, but came to bear witness about the light.",
     "key_term": "Witness (见证)",
-    "trap": [
-      "None specific from list, but 'bear witness' could be simplified to 'talk about'."
-    ],
+    "trap": "None specific from list, but 'bear witness' could be simplified to 'talk about'.",
     "nuance_note": "To 'bear witness' (μαρτυρέω) implies an authoritative and truthful testimony, establishing the identity and significance of Jesus as 'the light'.",
     "id": 15
   },
@@ -189,9 +163,7 @@
     "phrase_en": "And Jesus answered them, “The hour has come for the Son of Man to be glorified.”",
     "sentence_context": "And Jesus answered them, “The hour has come for the Son of Man to be glorified.”",
     "key_term": "Glorify (荣耀)",
-    "trap": [
-      "None direct, but 'glorified' could be misconstrued as 'made famous'."
-    ],
+    "trap": "None direct, but 'glorified' could be misconstrued as 'made famous'.",
     "nuance_note": "To 'be glorified' (δοξασθῇ) in this context refers to Christ's exaltation through his crucifixion, resurrection, and ascension, revealing his divine glory and redemptive purpose.",
     "id": 16
   },
@@ -201,9 +173,7 @@
     "phrase_en": "I am the vine; you are the branches. Whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing.",
     "sentence_context": "I am the vine; you are the branches. Whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing.",
     "key_term": "Abide (常在)",
-    "trap": [
-      "None direct, but 'abide' could be weakly translated as 'stay' or 'live'."
-    ],
+    "trap": "None direct, but 'abide' could be weakly translated as 'stay' or 'live'.",
     "nuance_note": "To 'abide' (μένω) signifies a continuous, intimate, and dependent relationship with Christ, essential for spiritual fruitfulness and life.",
     "id": 17
   },
@@ -213,9 +183,7 @@
     "phrase_en": "Truly, truly, I say to you, whoever hears my word and believes him who sent me has eternal life. He does not come into judgment, but has passed from death to life.",
     "sentence_context": "Truly, truly, I say to you, whoever hears my word and believes him who sent me has eternal life. He does not come into judgment, but has passed from death to life.",
     "key_term": "Believe (信)",
-    "trap": [
-      "None direct, but 'hears my word' could be weakened to merely 'listens'."
-    ],
+    "trap": "None direct, but 'hears my word' could be weakened to merely 'listens'.",
     "nuance_note": "The act of 'believing' (πιστεύω) here is not merely intellectual assent but a profound trust and reliance on God, resulting in the present possession of eternal life and deliverance from judgment.",
     "id": 18
   },
@@ -225,9 +193,7 @@
     "phrase_en": "It is the Spirit who gives life; the flesh is no help at all. The words that I have spoken to you are spirit and life.",
     "sentence_context": "It is the Spirit who gives life; the flesh is no help at all. The words that I have spoken to you are spirit and life.",
     "key_term": "Word (话)",
-    "trap": [
-      "Meat"
-    ],
+    "trap": "Meat",
     "nuance_note": "The 'words' (ῥήματα) of Jesus are not just human speech but carry divine, life-giving power through the Spirit, sharply contrasted with the impotence of 'flesh' (σάρξ).",
     "id": 19
   },
@@ -237,9 +203,7 @@
     "phrase_en": "Many of the Jews therefore, who had come with Mary and had seen what he did, believed in him.",
     "sentence_context": "Many of the Jews therefore, who had come with Mary and had seen what he did, believed in him.",
     "key_term": "Believe (信)",
-    "trap": [
-      "Miracle"
-    ],
+    "trap": "Miracle",
     "nuance_note": "The 'things he did' (ἃ ἐποίησεν) refer to Jesus's miraculous signs, particularly raising Lazarus, which served as powerful and convincing evidence, leading many to 'believe' (πιστεύω) in him.",
     "id": 20
   },
@@ -249,7 +213,7 @@
     "phrase_en": "But to all who did receive him, who believed in his name, he gave the right to become children of God,",
     "sentence_context": "But to all who did receive him, who believed in his name, he gave the right to become children of God,",
     "key_term": "Believe (信)",
-    "trap": [],
+    "trap": null,
     "nuance_note": "“信他名” (Xìn tā míng) implies placing trust and commitment in Jesus' person and authority, leading to adoption as children of God.",
     "id": 21
   },
@@ -259,9 +223,7 @@
     "phrase_en": "So Jesus said to him, “Unless you see signs and wonders, you will not believe.”",
     "sentence_context": "So Jesus said to him, “Unless you see signs and wonders, you will not believe.”",
     "key_term": "Believe (信) / Signs (神迹)",
-    "trap": [
-      "Sign (神迹) → Miracle, Magic"
-    ],
+    "trap": "Sign (神迹) → Miracle, Magic",
     "nuance_note": "“神迹奇事” (Shénjì qíshì) are divine demonstrations of power meant to reveal truth and evoke faith, not mere 'magic tricks' or spectacles.",
     "id": 22
   },
@@ -271,7 +233,7 @@
     "phrase_en": "You search the Scriptures because you think that in them you have eternal life; and it is they that bear witness about me,",
     "sentence_context": "You search the Scriptures because you think that in them you have eternal life; and it is they that bear witness about me,",
     "key_term": "Witness (见证) / Eternal Life (永生)",
-    "trap": [],
+    "trap": null,
     "nuance_note": "“作见证” (Zuò jiànzhèng) highlights the prophetic role of the Scriptures in testifying about Christ as the source of eternal life.",
     "id": 23
   },
@@ -281,7 +243,7 @@
     "phrase_en": "Jesus said to them, “I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst.”",
     "sentence_context": "Jesus said to them, “I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst.”",
     "key_term": "Believe (信) / Bread of Life (生命的粮)",
-    "trap": [],
+    "trap": null,
     "nuance_note": "“生命的粮” (Shēngmìng de liáng) is a metaphor for Jesus as the essential spiritual sustenance that satisfies and gives eternal life.",
     "id": 24
   },
@@ -291,7 +253,7 @@
     "phrase_en": "Again Jesus spoke to them, saying, “I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life.”",
     "sentence_context": "Again Jesus spoke to them, saying, “I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life.”",
     "key_term": "Light (光) / Follows (跟从)",
-    "trap": [],
+    "trap": null,
     "nuance_note": "“世界的光” (Shìjiè de guāng) proclaims Jesus as the ultimate source of spiritual and moral illumination, guiding humanity out of sin and ignorance.",
     "id": 25
   },
@@ -301,7 +263,7 @@
     "phrase_en": "The thief comes only to steal and kill and destroy. I came that they may have life and have it abundantly.",
     "sentence_context": "The thief comes only to steal and kill and destroy. I came that they may have life and have it abundantly.",
     "key_term": "Life (生命) / Abundantly (丰盛)",
-    "trap": [],
+    "trap": null,
     "nuance_note": "“丰盛的生命” (Fēngshèng de shēngmìng) describes the complete, rich, and eternal quality of life provided by Christ, contrasting with the thief's destructive intent.",
     "id": 26
   },
@@ -311,7 +273,7 @@
     "phrase_en": "Jesus said to her, “I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live, and everyone who lives and believes in me shall never die. Do you believe this?”",
     "sentence_context": "Jesus said to her, “I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live, and everyone who lives and believes in me shall never die. Do you believe this?”",
     "key_term": "Believe (信) / Resurrection (复活) / Life (生命)",
-    "trap": [],
+    "trap": null,
     "nuance_note": "“复活和生命” (Fùhuó hé shēngmìng) declares Jesus as the embodiment and source of victory over death and the giver of eternal existence.",
     "id": 27
   },
@@ -321,9 +283,7 @@
     "phrase_en": "Jesus said to him, “I am the way, and the truth, and the life. No one comes to the Father except through me.”",
     "sentence_context": "Jesus said to him, “I am the way, and the truth, and the life. No one comes to the Father except through me.”",
     "key_term": "Way (道路) / Truth (真理) / Life (生命)",
-    "trap": [
-      "Word (道) → Way, Tao, Speech"
-    ],
+    "trap": "Word (道) → Way, Tao, Speech",
     "nuance_note": "“道路、真理、生命” (Dàolù, zhēnlǐ, shēngmìng) are not abstract principles but are personified in Jesus as the exclusive path, ultimate reality, and source of existence to the Father.",
     "id": 28
   },
@@ -333,9 +293,7 @@
     "phrase_en": "Nevertheless, I tell you the truth: it is to your advantage that I go away, for if I do not go away, the Helper will not come to you. But if I go, I will send him to you.",
     "sentence_context": "Nevertheless, I tell you the truth: it is to your advantage that I go away, for if I do not go away, the Helper will not come to you. But if I go, I will send him to you.",
     "key_term": "Helper (保惠师) / Sent (差)",
-    "trap": [
-      "Helper (保惠师) → Assistant, Servant"
-    ],
+    "trap": "Helper (保惠师) → Assistant, Servant",
     "nuance_note": "“保惠师” (Bǎohuìshī, Paraclete) denotes the Holy Spirit as an active Advocate, Comforter, and Counselor, not a mere subordinate 'assistant'.",
     "id": 29
   },
@@ -345,9 +303,7 @@
     "phrase_en": "but these are written so that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in his name.",
     "sentence_context": "Now Jesus did many other signs in the presence of the disciples, which are not written in this book; but these are written so that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in his name.",
     "key_term": "Believe (信)",
-    "trap": [
-      "Sign"
-    ],
+    "trap": "Sign",
     "nuance_note": "The Greek term for 'signs' (σημεῖον), though not explicitly in v.31 but in the preceding v.30 and context, refers to Jesus' miraculous works. These are not just 'miracles' (奇迹) or 'magic' (魔术), but deliberate actions that point to (signify) his divine identity and purpose. The intended outcome is 'belief' (πίστις) in Jesus as the Christ, which leads to 'life' (ζωή).",
     "id": 30
   }
