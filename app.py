@@ -640,13 +640,25 @@ with st.sidebar:
             st.progress((st.session_state.current_index + 1) / len(book_data))
 # --- 主界面：训练区（移动端优化）---
 
-# 获取当前题目卡片
-if st.session_state.book_data and st.session_state.current_index < len(st.session_state.book_data):
-    current_card = st.session_state.book_data[st.session_state.current_index]
-    book_data = st.session_state.book_data
+# --- 1. 数据同步保障 ---
+# 检查 book_data 是否为空，或者是否与当前选中的书卷不匹配
+if not st.session_state.get('book_data') or st.session_state.get('last_loaded_book') != st.session_state.selected_book:
+    # 强制重新从 library 加载
+    st.session_state.book_data = library.get(st.session_state.selected_book, [])
+    st.session_state.last_loaded_book = st.session_state.selected_book
+    st.session_state.current_index = 0  # 确保索引重置
+
+# --- 2. 获取当前题目卡片 (稳健版) ---
+book_data = st.session_state.book_data
+
+if book_data and 0 <= st.session_state.current_index < len(book_data):
+    current_card = book_data[st.session_state.current_index]
 else:
-    st.error("❌ 没有可用的题目数据！")
-    st.stop()
+    # 如果还是没有数据，给出一个友好的提示而不是直接 stop
+    st.warning(f"⚠️ 正在尝试加载 {st.session_state.selected_book} 的数据...")
+    if not library:
+        st.error("❌ 严重错误：内存中的 library 为空，请检查文件路径！")
+    st.rerun() # 强制刷新一次以同步状态
 
 # 顶部导航栏（学院风导航）
 col_title, col_nav = st.columns([3, 1])
