@@ -5,3 +5,8 @@ backgroundColor = "#0E1117"
 secondaryBackgroundColor = "#1E232B"
 textColor = "#E0E0E0"
 font = "serif"
+
+# 👇 新增这些显式定义，消除报错
+widgetBackgroundColor = "#161B22"
+widgetBorderColor = "#D4AF37"
+skeletonBackgroundColor = "#1E232B"
