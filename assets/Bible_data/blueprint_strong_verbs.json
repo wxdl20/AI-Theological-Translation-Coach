@@ -1,0 +1,541 @@
+[
+    {
+      "book": "Genesis",
+      "theme": "Origins, Covenant & Providence",
+      "key_verbs": [
+        "Create (创造 - Heb: Bara)",
+        "Cut a covenant (立约 - Heb: Karat)",
+        "Counted/Accounted (算为 - Imputation)",
+        "Swore (起誓)",
+        "Bless (赐福)",
+        "Walk with God (与神同行)"
+      ],
+      "key_terms": [
+        "Image of God (神的形象)",
+        "Seed/Offspring (后裔)",
+        "Favor/Grace (蒙恩)",
+        "Faith (信)",
+        "Scepter (圭)",
+        "Providence (护理)"
+      ],
+      "chinglish_traps": {
+        "Create": ["Make", "Build"],
+        "Covenant": ["Contract", "Deal"],
+        "Seed": ["Children", "Kids"],
+        "Providence": ["Luck", "Fate"]
+      },
+      "strong_verb_focus": [
+        {
+          "ref": "Gen 50:20",
+          "phrase_cn": "神的意思原是好的 (是为了**保全**许多人的性命)",
+          "phrase_en": "To **preserve** many people alive",
+          "key_term": "Preserve (保全)",
+          "weak_trap": ["Keep", "Save", "Protect"],
+          "nuance": "Preserve (Hachayot) 强调在危机中‘维持生命存续’，比 Save 更具体。"
+        },
+        {
+          "ref": "Gen 15:6",
+          "phrase_cn": "这就**算为**他的义",
+          "phrase_en": "It was **counted/reckoned** to him as righteousness",
+          "key_term": "Counted",
+          "weak_trap": ["Thought", "Considered", "Made"],
+          "nuance": "Counted (Chashav) 是会计/法庭术语（归算），Considered 太主观。"
+        }
+      ]
+    },
+    {
+      "book": "Exodus",
+      "theme": "Redemption, Law & Presence",
+      "key_verbs": [
+        "Redeem (救赎)",
+        "Harden (使...刚硬)",
+        "Deliver (拯救)",
+        "Serve (事奉)",
+        "Dwell (居住)",
+        "Remember (纪念)"
+      ],
+      "key_terms": [
+        "I AM (我是)",
+        "Passover (逾越节)",
+        "Firstborn (长子)",
+        "Kingdom of priests (祭司的国度)",
+        "Law (律法)",
+        "Glory (荣耀)",
+        "Tabernacle (帐幕)"
+      ],
+      "chinglish_traps": {
+        "Redeem": ["Buy back", "Save money"],
+        "Harden": ["Let be hard", "Allow"],
+        "Tabernacle": ["Tent", "House"],
+        "Law": ["Rules", "Regulations"]
+      },
+      "strong_verb_focus": [
+        {
+          "ref": "Ex 12:13",
+          "phrase_cn": "我见这血，就**越过**你们去",
+          "phrase_en": "I will **pass over** you",
+          "key_term": "Pass over",
+          "weak_trap": ["Skip", "Go past", "Miss"],
+          "nuance": "Pass over (Pasach) 是救赎历史专有名词，Skip 太随意。"
+        },
+        {
+          "ref": "Ex 14:13",
+          "phrase_cn": "只管**站住**！看耶和华...施行救恩",
+          "phrase_en": "**Stand firm** and see the salvation",
+          "key_term": "Stand firm",
+          "weak_trap": ["Stand there", "Wait", "Stop moving"],
+          "nuance": "Stand firm 带有军事意味（坚守阵地），Stand there 只是发呆。"
+        }
+      ]
+    },
+    {
+      "book": "Psalms",
+      "theme": "Anatomy of the Soul",
+      "key_verbs": [
+        "Meditate (昼夜思想)",
+        "Take Refuge (投靠)",
+        "Praise (赞美)",
+        "Lament (哀求)",
+        "Confess (承认)",
+        "Wait for (等候)"
+      ],
+      "key_terms": [
+        "Steadfast love (慈爱 - Hesed)",
+        "Anointed (受膏者)",
+        "Rock (磐石)",
+        "Fear of the LORD (敬畏)",
+        "Righteous (义人)",
+        "Wicked (恶人)",
+        "Refuge (避难所)"
+      ],
+      "chinglish_traps": {
+        "Steadfast love": ["Love", "Mercy"],
+        "Meditate": ["Think", "Guess"],
+        "Lament": ["Complain", "Sadness"],
+        "Fear": ["Scared", "Afraid"]
+      },
+      "strong_verb_focus": [
+        {
+          "ref": "Ps 51:1",
+          "phrase_cn": "求你**涂抹**我的过犯",
+          "phrase_en": "**Blot out** my transgressions",
+          "key_term": "Blot out",
+          "weak_trap": ["Clean", "Erase", "Wipe"],
+          "nuance": "Blot out 指从法庭记录册上彻底‘抹去’罪债，Erase 力度不够。"
+        },
+        {
+          "ref": "Ps 42:1",
+          "phrase_cn": "我的心**切慕**你",
+          "phrase_en": "My soul **pants for** you",
+          "key_term": "Pants for",
+          "weak_trap": ["Misses", "Wants", "Likes"],
+          "nuance": "Pants for (Arag) 描绘鹿干渴时的气喘吁吁，Misses 只是情感想念。"
+        }
+      ]
+    },
+    {
+      "book": "Isaiah",
+      "theme": "Judgment & New Creation",
+      "key_verbs": [
+        "Comfort (安慰)",
+        "Bear (担当)",
+        "Wait for (等候)",
+        "Trust (倚靠)",
+        "Rebel (悖逆)",
+        "Proclaim (宣告)"
+      ],
+      "key_terms": [
+        "Holy, Holy, Holy (圣哉)",
+        "Servant of the LORD (仆人)",
+        "Remnant (余民)",
+        "Virgin (童女)",
+        "Immanuel (以马内利)",
+        "New Heavens and New Earth (新天新地)",
+        "Spirit (灵)"
+      ],
+      "chinglish_traps": {
+        "Bear": ["Carry", "Hold"],
+        "Remnant": ["Leftovers"],
+        "Comfort": ["Relax"],
+        "Virgin": ["Young woman"]
+      },
+      "strong_verb_focus": [
+        {
+          "ref": "Is 53:4",
+          "phrase_cn": "他诚然**担当**了我们的忧患",
+          "phrase_en": "Surely he has **borne** our griefs",
+          "key_term": "Borne",
+          "weak_trap": ["Took", "Carried", "Had"],
+          "nuance": "Borne (Nasa) 暗示背负重担或刑罚，Took 只是拿走。"
+        },
+        {
+          "ref": "Is 40:31",
+          "phrase_cn": "必如鹰**展翅上腾**",
+          "phrase_en": "Shall **mount up** with wings like eagles",
+          "key_term": "Mount up",
+          "weak_trap": ["Fly up", "Go up", "Rise"],
+          "nuance": "Mount up 描绘借助气流强力攀升的宏大画面，Fly 太普通。"
+        }
+      ]
+    },
+    {
+      "book": "Matthew",
+      "theme": "King & Kingdom Fulfilled",
+      "key_verbs": [
+        "Fulfill (应验)",
+        "Repent (悔改)",
+        "Make disciples (使...作门徒)",
+        "Follow (跟从)",
+        "Interpret (告诉你们)",
+        "Endure (忍耐)"
+      ],
+      "key_terms": [
+        "Kingdom of Heaven (天国)",
+        "Son of David (大卫的子孙)",
+        "Righteousness (义)",
+        "Law and Prophets (律法和先知)",
+        "Blessed (有福)",
+        "Authority (权柄)",
+        "Great Commission (大使命)"
+      ],
+      "chinglish_traps": {
+        "Fulfill": ["Finish", "Come true"],
+        "Kingdom of Heaven": ["Heaven Country"],
+        "Blessed": ["Happy", "Lucky"],
+        "Law": ["Rules"]
+      },
+      "strong_verb_focus": [
+        {
+          "ref": "Matt 28:19",
+          "phrase_cn": "**使**万民**作门徒**",
+          "phrase_en": "**Make disciples of** all nations",
+          "key_term": "Make disciples of",
+          "weak_trap": ["Bring disciples", "Teach students", "Let them be disciples"],
+          "nuance": "这是一个固定动词短语 (Matheteuo)，不能拆解为 Bring/Teach。"
+        },
+        {
+          "ref": "Matt 16:24",
+          "phrase_cn": "就当**舍**己",
+          "phrase_en": "Let him **deny** himself",
+          "key_term": "Deny",
+          "weak_trap": ["Give up", "Forget", "Leave"],
+          "nuance": "Deny (Aparneomai) 意为‘否认关联/不再认自己为主’，比 Give up 深刻。"
+        }
+      ]
+    },
+    {
+      "book": "Mark",
+      "theme": "Suffering Servant & Discipleship",
+      "key_verbs": [
+        "Immediately (立刻)",
+        "Deny himself (舍己)",
+        "Serve (服事)",
+        "Suffer (受苦)",
+        "Take up cross (背起十字架)",
+        "Believe (信)"
+      ],
+      "key_terms": [
+        "Kingdom of God is at hand (神的国近了)",
+        "Son of Man (人子)",
+        "Ransom (赎价)",
+        "Gospel (福音)",
+        "Authority (权柄)",
+        "Unbelief (不信)",
+        "Messianic Secret (弥赛亚秘密)"
+      ],
+      "chinglish_traps": {
+        "Kingdom is at hand": ["Coming soon", "Near by"],
+        "Ransom": ["Price", "Money"],
+        "Immediately": ["Now", "Fast"],
+        "Deny": ["Refuse", "Say no"]
+      },
+      "strong_verb_focus": [
+        {
+          "ref": "Mark 1:15",
+          "phrase_cn": "神的国**近了**",
+          "phrase_en": "The kingdom of God **is at hand**",
+          "key_term": "Is at hand",
+          "weak_trap": ["Is coming", "Is near", "Is close"],
+          "nuance": "At hand (Engiken) 是完成时，表示触手可及的紧迫感，Coming 是将来时。"
+        },
+        {
+          "ref": "Mark 10:45",
+          "phrase_cn": "要**舍**命作多人的赎价",
+          "phrase_en": "To **give** his life as a **ransom**",
+          "key_term": "Ransom",
+          "weak_trap": ["Price", "Pay", "Cost"],
+          "nuance": "Ransom (Lytron) 是特定神学术语（代赎金），Price 只是商业价格。"
+        }
+      ]
+    },
+    {
+      "book": "Luke",
+      "theme": "Son of Man Seeking the Lost",
+      "key_verbs": [
+        "Seek and save (寻找拯救)",
+        "Rejoice (欢喜)",
+        "Proclaim (传福音)",
+        "Pray (祷告)",
+        "Repent (悔改)",
+        "Forgive (赦免)"
+      ],
+      "key_terms": [
+        "Good News (福音)",
+        "Sinner (罪人)",
+        "Holy Spirit (圣灵)",
+        "Poor (穷人)",
+        "Compassion (怜悯)",
+        "Salvation (救恩)",
+        "Kingdom of God (神的国)"
+      ],
+      "chinglish_traps": {
+        "Good News": ["Happy news"],
+        "Sinner": ["Bad person", "Criminal"],
+        "Poor": ["No money"]
+      },
+      "strong_verb_focus": [
+        {
+          "ref": "Luke 24:49",
+          "phrase_cn": "直到你们**领受**从上头来的能力",
+          "phrase_en": "Until you are **clothed with** power from on high",
+          "key_term": "Clothed with",
+          "weak_trap": ["Get", "Receive", "Have"],
+          "nuance": "Clothed with 形象地描绘能力像外衣一样‘穿戴’在身上，Get 太干瘪。"
+        },
+        {
+          "ref": "Luke 15:17",
+          "phrase_cn": "他**醒悟过来**",
+          "phrase_en": "But when he **came to himself**",
+          "key_term": "Came to himself",
+          "weak_trap": ["Woke up", "Realized", "Understood"],
+          "nuance": "Came to himself 是极佳的习语，表示恢复理智，Woke up 像是刚睡醒。"
+        }
+      ]
+    },
+    {
+      "book": "John",
+      "theme": "Incarnation, Signs & Belief",
+      "key_verbs": [
+        "Believe (信)",
+        "Abide (常在)",
+        "Born again (重生)",
+        "Glorify (荣耀)",
+        "Love (爱)",
+        "Sent (差遣)",
+        "Witness (见证)"
+      ],
+      "key_terms": [
+        "Word (道)",
+        "I AM (我是)",
+        "Sign (神迹)",
+        "Flesh (肉身)",
+        "Truth (真理)",
+        "Light/Life (光/生命)",
+        "Advocate (保惠师)"
+      ],
+      "chinglish_traps": {
+        "Word": ["Way", "Tao", "Speech"],
+        "Sign": ["Miracle", "Magic"],
+        "Helper": ["Assistant", "Servant"],
+        "Flesh": ["Meat", "Body"]
+      },
+      "strong_verb_focus": [
+        {
+          "ref": "John 1:14",
+          "phrase_cn": "道成了肉身，**住**在我们中间",
+          "phrase_en": "And the Word became flesh and **dwelt** among us",
+          "key_term": "Dwelt",
+          "weak_trap": ["Lived", "Stayed", "Was"],
+          "nuance": "Dwelt (Skienoo) 原意是‘支搭帐幕’，呼应出埃及记神的同在，Lived 毫无神学色彩。"
+        },
+        {
+          "ref": "John 15:4",
+          "phrase_cn": "你们要**常在**我里面",
+          "phrase_en": "**Abide** in me",
+          "key_term": "Abide",
+          "weak_trap": ["Stay", "Live", "Remain"],
+          "nuance": "Abide 强调生命的持续连接（像葡萄枝），Stay 比较像住旅馆。"
+        }
+      ]
+    },
+    {
+      "book": "Acts",
+      "theme": "Spirit, Church & Mission",
+      "key_verbs": [
+        "Witness (作见证)",
+        "Filled (被充满)",
+        "Proclaim (传讲)",
+        "Turn (归向)",
+        "Baptize (施洗)",
+        "Suffer (受苦)"
+      ],
+      "key_terms": [
+        "Holy Spirit (圣灵)",
+        "Kingdom of God (神的国)",
+        "Boldness (胆量)",
+        "Ends of the earth (地极)",
+        "The Way (这道)",
+        "Church (教会)",
+        "Grace (恩典)"
+      ],
+      "chinglish_traps": {
+        "Witness": ["See", "Looker"],
+        "Church": ["Building", "Temple"],
+        "The Way": ["Road", "Method"]
+      },
+      "strong_verb_focus": [
+        {
+          "ref": "Acts 4:29",
+          "phrase_cn": "叫你的仆人大**放**胆量讲你的道",
+          "phrase_en": "To continue to speak your word with all **boldness**",
+          "key_term": "Boldness",
+          "weak_trap": ["Brave", "Courage", "Strongly"],
+          "nuance": "Boldness (Parrhesia) 指公开发言的坦率和自由，Brave 只是心理状态。"
+        },
+        {
+          "ref": "Acts 17:28",
+          "phrase_cn": "我们生活、**动作**...都在乎他",
+          "phrase_en": "In him we live and **move** and **have our being**",
+          "key_term": "Move / Have our being",
+          "weak_trap": ["Act", "Do", "Exist"],
+          "nuance": "Have our being 是极具哲学深度和神学张力的表达，Exist 太干瘪。"
+        }
+      ]
+    },
+    {
+      "book": "Romans",
+      "theme": "The Righteousness of God",
+      "key_verbs": [
+        "Justify (称义)",
+        "Impute (算为)",
+        "Present (献上)",
+        "Call (呼召)",
+        "Condemn (定罪)",
+        "Groan (叹息)"
+      ],
+      "key_terms": [
+        "Righteousness of God (神的义)",
+        "Wrath of God (神的忿怒)",
+        "Propitiation (挽回祭)",
+        "Flesh (肉体)",
+        "Adoption (儿子的名分)",
+        "Remnant (余民)",
+        "Grace (恩典)",
+        "Law (律法)"
+      ],
+      "chinglish_traps": {
+        "Justify": ["Make righteous", "Do right"],
+        "Propitiation": ["Pay back", "Sacrifice"],
+        "Adoption": ["Pick up child"],
+        "Flesh": ["Meat", "Skin"]
+      },
+      "strong_verb_focus": [
+        {
+          "ref": "Rom 1:18",
+          "phrase_cn": "**阻挡**真理",
+          "phrase_en": "**Suppress** the truth",
+          "key_term": "Suppress",
+          "weak_trap": ["Stop", "Block", "Hold"],
+          "nuance": "Suppress (Katecho) 意为‘用力按压’（像按住弹簧），生动表现罪人主动压制良知。"
+        },
+        {
+          "ref": "Rom 12:1",
+          "phrase_cn": "将身体**献上**",
+          "phrase_en": "**Present** your bodies",
+          "key_term": "Present",
+          "weak_trap": ["Give", "Offer", "Put"],
+          "nuance": "Present (Paristēmi) 是祭司术语，指将祭物正式呈在坛前供神检阅，Give 太随意。"
+        }
+      ]
+    },
+    {
+      "book": "Ephesians",
+      "theme": "Union with Christ & Cosmic Church",
+      "key_verbs": [
+        "Predestine (预定)",
+        "Walk (行事为人)",
+        "Submit (顺服)",
+        "Sealed (受印记)",
+        "Reconcile (和好)",
+        "Stand firm (站立得稳)"
+      ],
+      "key_terms": [
+        "In Christ (在基督里)",
+        "Mystery (奥秘)",
+        "Grace (恩典)",
+        "One Body (一个身体)",
+        "Armor of God (全副军装)",
+        "Principality (执政的)",
+        "Cornerstone (房角石)"
+      ],
+      "chinglish_traps": {
+        "Predestine": ["Fate", "Destiny"],
+        "Mystery": ["Secret", "Puzzle"],
+        "Walk": ["Go", "Run"],
+        "Principality": ["Government", "Leader"]
+      },
+      "strong_verb_focus": [
+        {
+          "ref": "Eph 4:1",
+          "phrase_cn": "既然蒙召，**行事为人**就当与蒙召的恩相称",
+          "phrase_en": "**Walk in a manner worthy** of the calling",
+          "key_term": "Walk in a manner",
+          "weak_trap": ["Live good", "Act good", "Do good"],
+          "nuance": "Walk (Peripateo) 是希伯来习语，指整个生活方式的每一步，Live/Act 没这种动感。"
+        },
+        {
+          "ref": "Eph 6:11",
+          "phrase_cn": "要**穿戴**神所赐的全副军装",
+          "phrase_en": "**Put on** the whole armor of God",
+          "key_term": "Put on",
+          "weak_trap": ["Wear", "Dress", "Have"],
+          "nuance": "Put on (Endyō) 强调动作的决绝和整装待发，Wear 只是状态。"
+        }
+      ]
+    },
+    {
+      "book": "Revelation",
+      "theme": "The Lamb's Victory",
+      "key_verbs": [
+        "Conquer (得胜)",
+        "Worship (敬拜)",
+        "Reign (作王)",
+        "Endure (忍耐)",
+        "Come (来)",
+        "Judge (审判)"
+      ],
+      "key_terms": [
+        "Lamb (羔羊)",
+        "Throne (宝座)",
+        "Alpha and Omega (始与终)",
+        "Babylon (巴比伦)",
+        "New Jerusalem (新耶路撒冷)",
+        "Witness (见证人)",
+        "Lake of fire (火湖)"
+      ],
+      "chinglish_traps": {
+        "Lamb": ["Sheep", "Goat"],
+        "Overcome": ["Win", "Success"],
+        "Witness": ["Looker"],
+        "Babylon": ["Iraq"]
+      },
+      "strong_verb_focus": [
+        {
+          "ref": "Rev 3:20",
+          "phrase_cn": "我站在门外**叩**门",
+          "phrase_en": "I stand at the door and **knock**",
+          "key_term": "Knock",
+          "weak_trap": ["Hit", "Beat", "Touch"],
+          "nuance": "Knock 专门指敲门寻求进入，Hit 只是敲打。"
+        },
+        {
+          "ref": "Rev 12:11",
+          "phrase_cn": "弟兄**胜过**它，是因羔羊的血",
+          "phrase_en": "They have **conquered** him by the blood of the Lamb",
+          "key_term": "Conquered",
+          "weak_trap": ["Beat", "Won", "Defeated"],
+          "nuance": "Conquered (Nikao) 是彻底的征服和得胜（Nike的词源），Beat 像打架赢了。"
+        }
+      ]
+    }
+  ]

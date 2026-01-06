@@ -1,0 +1,310 @@
+[
+  {
+    "ref": "Gen 50:20",
+    "key_term": "Preserve (保全)",
+    "phrase_cn": "神的意思原是好的 (是为了**保全**许多人的性命)",
+    "phrase_en": "To **preserve** many people alive",
+    "trap": [
+      "Keep",
+      "Save",
+      "Protect"
+    ],
+    "sentence_context": "As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today.",
+    "nuance_note": "Preserve (Hachayot) 强调在危机中‘维持生命存续’，比 Save 更具体。",
+    "id": 1
+  },
+  {
+    "ref": "Gen 15:6",
+    "key_term": "Counted",
+    "phrase_cn": "这就**算为**他的义",
+    "phrase_en": "It was **counted/reckoned** to him as righteousness",
+    "trap": [
+      "Thought",
+      "Considered",
+      "Made"
+    ],
+    "sentence_context": "And he believed the Lord, and he counted it to him as righteousness.",
+    "nuance_note": "Counted (Chashav) 是会计/法庭术语（归算），Considered 太主观。",
+    "id": 2
+  },
+  {
+    "ref": "Gen 1:1",
+    "phrase_cn": "起初，神创造天地。",
+    "phrase_en": "In the beginning, God created the heavens and the earth.",
+    "sentence_context": "In the beginning, God created the heavens and the earth. The earth was without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters.",
+    "key_term": "Create (创造 - Heb: Bara)",
+    "trap": "Make",
+    "nuance_note": "The Hebrew 'bara' (创造) signifies creation *ex nihilo*, from nothing, a unique divine act, distinct from merely 'making' or 'building' with pre-existing materials.",
+    "id": 3
+  },
+  {
+    "ref": "Gen 12:2",
+    "phrase_cn": "我必叫你成为大国。我必赐福给你，叫你的名为大；你也要叫别人得福。",
+    "phrase_en": "And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing.",
+    "sentence_context": "Now the Lord said to Abram, 'Go from your country and your kindred and your father's house to the land that I will show you. And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing.'",
+    "key_term": "Bless (赐福)",
+    "trap": "Contract",
+    "nuance_note": "God's promise to Abram is an unconditional divine initiative, a blessing that establishes a covenant, far surpassing a mere human 'contract' with conditions.",
+    "id": 4
+  },
+  {
+    "ref": "Gen 6:9",
+    "phrase_cn": "挪亚是个义人，在当时的世代是个完全人。挪亚与神同行。",
+    "phrase_en": "These are the generations of Noah. Noah was a righteous man, blameless in his generation; Noah walked with God.",
+    "sentence_context": "These are the generations of Noah. Noah was a righteous man, blameless in his generation; Noah walked with God. And Noah had three sons, Shem, Ham, and Japheth.",
+    "key_term": "Walk with God (与神同行)",
+    "trap": "Luck",
+    "nuance_note": "'Walking with God' denotes a deep, intimate, and obedient relationship, not a coincidental 'luck' or fortunate circumstance, leading to his unique position before the flood.",
+    "id": 5
+  },
+  {
+    "ref": "Gen 22:17",
+    "phrase_cn": "论福，我必赐大福给你；论子孙，我必叫你的子孙多起来，如同天上的星，海边的沙。",
+    "phrase_en": "I will surely bless you, and I will surely multiply your offspring as the stars of heaven and as the sand that is on the seashore.",
+    "sentence_context": "I will surely bless you, and I will surely multiply your offspring as the stars of heaven and as the sand that is on the seashore. And your offspring shall possess the gate of his enemies, and in your offspring all the nations of the earth shall be blessed, because you have obeyed my voice.",
+    "key_term": "Swore (起誓)",
+    "trap": "Children",
+    "nuance_note": "God's promise to multiply Abraham's 'seed' (子孙) is an oath sworn by God Himself (Gen 22:16), referring to both physical descendants and the spiritual lineage leading to Christ, not just immediate 'children'.",
+    "id": 6
+  },
+  {
+    "ref": "Gen 1:27",
+    "phrase_cn": "神就照着自己的形像创造人，乃是照着他的形像创造男和女。",
+    "phrase_en": "So God created man in his own image, in the image of God he created him; male and female he created them.",
+    "sentence_context": "Then God said, 'Let us make man in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.' So God created man in his own image, in the image of God he created him; male and female he created them.",
+    "key_term": "Create (创造 - Heb: Bara)",
+    "trap": "Build",
+    "nuance_note": "The term 'created' (创造) emphasizes God's unique act of bringing humanity into existence in His image, distinct from merely 'building' or assembling parts.",
+    "id": 7
+  },
+  {
+    "ref": "Gen 28:15",
+    "phrase_cn": "我与你同在。你无论往哪里去，我必保佑你，领你归回这地，总不离弃你，直到我成全了向你所应许的。",
+    "phrase_en": "Behold, I am with you and will keep you wherever you go, and will bring you back to this land. For I will not leave you until I have done what I have promised you.",
+    "sentence_context": "The land on which you lie I will give to you and to your offspring. Your offspring shall be like the dust of the earth, and you shall spread abroad to the west and to the east and to the north and to the south, and in you and your offspring all the families of the earth shall be blessed. Behold, I am with you and will keep you wherever you go, and will bring you back to this land. For I will not leave you until I have done what I have promised you.",
+    "key_term": "Swore (起誓)",
+    "trap": "Fate",
+    "nuance_note": "God's declaration to Jacob is a solemn promise, akin to an oath, assuring His active presence and faithfulness, entirely distinct from impersonal 'fate' or chance.",
+    "id": 8
+  },
+  {
+    "ref": "Gen 9:9",
+    "phrase_cn": "我与你们和你们的后裔立约。",
+    "phrase_en": "Behold, I establish my covenant with you and your offspring after you,",
+    "sentence_context": "Then God said to Noah and to his sons with him, 'Behold, I establish my covenant with you and your offspring after you, and with every living creature that is with you, the birds, the livestock, and every beast of the earth with you, as many as came out of the ark; it is for every animal of the earth.'",
+    "key_term": "Cut a covenant (立约 - Heb: Karat)",
+    "trap": "Deal",
+    "nuance_note": "God 'establishes' or 'cuts' (立约 - Karat) a covenant with Noah, signifying a binding, unilateral commitment from God, not a negotiated 'deal' between equals.",
+    "id": 9
+  },
+  {
+    "ref": "Gen 22:14",
+    "phrase_cn": "亚伯拉罕给那地方起名叫耶和华以勒，直到今日人还说：“在耶和华的山上必有预备。”",
+    "phrase_en": "So Abraham called the name of that place, 'The Lord will provide'; as it is said to this day, 'On the mount of the Lord it shall be provided.'",
+    "sentence_context": "And Abraham lifted up his eyes and looked, and behold, behind him was a ram, caught in a thicket by his horns. And Abraham went and took the ram and offered it up as a burnt offering instead of his son. So Abraham called the name of that place, 'The Lord will provide'; as it is said to this day, 'On the mount of the Lord it shall be provided.'",
+    "key_term": "Bless (赐福)",
+    "trap": "Luck",
+    "nuance_note": "The provision of the ram was a direct, sovereign act of God's 'blessing' and foresight, not a stroke of 'luck', demonstrating His active providence in Abraham's life.",
+    "id": 10
+  },
+  {
+    "ref": "Gen 13:15",
+    "phrase_cn": "凡你所看见的一切地，我都要赐给你和你的后裔，直到永远。",
+    "phrase_en": "for all the land that you see I will give to you and to your offspring forever.",
+    "sentence_context": "The Lord said to Abram, after Lot had separated from him, 'Lift up your eyes and look from the place where you are, northward and southward and eastward and westward, for all the land that you see I will give to you and to your offspring forever. I will make your offspring as the dust of the earth, so that if one can count the dust of the earth, your offspring also can be counted.'",
+    "key_term": "Bless (赐福)",
+    "trap": "Contract",
+    "nuance_note": "God's promise of land and descendants to Abram is an unconditional 'blessing' and a covenant commitment, not a conditional 'contract' dependent on human performance.",
+    "id": 11
+  },
+  {
+    "ref": "Gen 39:2",
+    "phrase_cn": "约瑟住在主人埃及人的家里，耶和华与他同在，他就百事顺利。",
+    "phrase_en": "The Lord was with Joseph, and he became a successful man, and he was in the house of his Egyptian master.",
+    "sentence_context": "Now Joseph had been brought down to Egypt, and Potiphar, an officer of Pharaoh, the captain of the guard, an Egyptian, had bought him from the Ishmaelites who had brought him down there. The Lord was with Joseph, and he became a successful man, and he was in the house of his Egyptian master.",
+    "key_term": "Bless (赐福)",
+    "trap": "Fate",
+    "nuance_note": "Joseph's success (百事顺利) is attributed to the Lord being 'with' him, a divine 'blessing' and active providence, not predetermined 'fate' or his own inherent abilities alone.",
+    "id": 12
+  },
+  {
+    "ref": "Gen 2:7",
+    "phrase_cn": "耶和华神用地上的尘土造人，将生气吹在他鼻孔里，他就成了有灵的活人。",
+    "phrase_en": "then the LORD God formed the man of dust from the ground and breathed into his nostrils the breath of life, and the man became a living creature.",
+    "sentence_context": "then the LORD God formed the man of dust from the ground and breathed into his nostrils the breath of life, and the man became a living creature.",
+    "key_term": "formed (塑造/创造)",
+    "trap": "Make",
+    "nuance_note": "Emphasizes God's direct and intentional work in forming humanity from dust and imbuing life, highlighting divine craftsmanship over mere 'making'.",
+    "id": 13
+  },
+  {
+    "ref": "Gen 12:3",
+    "phrase_cn": "为你祝福的，我必赐福与他；那咒诅你的，我必咒诅他。地上的万族都要因你得福。",
+    "phrase_en": "I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed.",
+    "sentence_context": "I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed.",
+    "key_term": "blessed (赐福)",
+    "trap": "Deal",
+    "nuance_note": "A foundational covenant promise extending God's favor and salvation through Abraham to all nations, far beyond a simple 'deal'.",
+    "id": 14
+  },
+  {
+    "ref": "Gen 26:3",
+    "phrase_cn": "你寄居在这地，我必与你同在，赐福给你，因为我要将这一切的地都赐给你和你的后裔，我必坚定我向你父亲亚伯拉罕所起的誓。",
+    "phrase_en": "Sojourn in this land, and I will be with you and will bless you, for to you and to your offspring I will give all these lands, and I will establish the oath that I swore to Abraham your father.",
+    "sentence_context": "Sojourn in this land, and I will be with you and will bless you, for to you and to your offspring I will give all these lands, and I will establish the oath that I swore to Abraham your father.",
+    "key_term": "swore (起誓)",
+    "trap": "Contract",
+    "nuance_note": "God's solemn oath underscores the immutable certainty and divine authority of His covenant promises, not a mere 'contract'.",
+    "id": 15
+  },
+  {
+    "ref": "Gen 24:40",
+    "phrase_cn": "他对我说：‘耶和华，我所事奉的神，必差遣祂的使者与你同去，使你的道路通达，你就可以在我父家，我本族中，给我的儿子娶妻。’",
+    "phrase_en": "He said to me, ‘The LORD before whom I have walked will send his angel with you and prosper your way. You shall take a wife for my son from my relatives and from my father's house.'",
+    "sentence_context": "He said to me, ‘The LORD before whom I have walked will send his angel with you and prosper your way. You shall take a wife for my son from my relatives and from my father's house.'",
+    "key_term": "walked with God (与神同行)",
+    "trap": "Luck",
+    "nuance_note": "Abraham's faithful 'walk with God' implies a deep, obedient relationship, which is the basis of God's providential guidance, not 'luck'.",
+    "id": 16
+  },
+  {
+    "ref": "Gen 17:10",
+    "phrase_cn": "你们所有的男子都要受割礼，这就是我与你并你的后裔所立的约，是你们所当遵守的。",
+    "phrase_en": "This is my covenant, which you shall keep, between me and you and your offspring after you: Every male among you shall be circumcised.",
+    "sentence_context": "This is my covenant, which you shall keep, between me and you and your offspring after you: Every male among you shall be circumcised.",
+    "key_term": "covenant (立约)",
+    "trap": "Contract",
+    "nuance_note": "The term 'covenant' signifies a sacred, binding agreement initiated by God, far more profound and enduring than a human 'contract'.",
+    "id": 17
+  },
+  {
+    "ref": "Gen 3:19",
+    "phrase_cn": "你必汗流满面才得糊口，直到你归了土；因为你是从土而出的。你本是尘土，仍要归于尘土。",
+    "phrase_en": "By the sweat of your face you shall eat bread, till you return to the ground, for out of it you were taken; for you are dust, and to dust you shall return.",
+    "sentence_context": "By the sweat of your face you shall eat bread, till you return to the ground, for out of it you were taken; for you are dust, and to dust you shall return.",
+    "key_term": "return (归回)",
+    "trap": "Fate",
+    "nuance_note": "This verse describes the consequence of sin, marking humanity's ultimate physical return to the dust from which it was formed, not an arbitrary 'fate'.",
+    "id": 18
+  },
+  {
+    "ref": "Gen 21:20",
+    "phrase_cn": "神与那孩子同在，他就渐长，住在旷野，成了弓箭手。",
+    "phrase_en": "And God was with the boy, and he grew up. He lived in the wilderness and became an expert with the bow.",
+    "sentence_context": "And God was with the boy, and he grew up. He lived in the wilderness and became an expert with the bow.",
+    "key_term": "God was with (神与他同在)",
+    "trap": "Luck",
+    "nuance_note": "God's active presence and benevolent care, signifying His providential safeguarding and blessing, distinguishes it from mere 'luck'.",
+    "id": 19
+  },
+  {
+    "ref": "Gen 18:25",
+    "phrase_cn": "将义人与恶人同杀，将义人与恶人一样看待，这断不是你所行的。审判全地的主岂不行公义吗？",
+    "phrase_en": "Far be it from you to do such a thing, to put the righteous to death with the wicked, so that the righteous fare as the wicked! Far be that from you! Shall not the Judge of all the earth do what is just?",
+    "sentence_context": "Far be it from you to do such a thing, to put the righteous to death with the wicked, so that the righteous fare as the wicked! Far be that from you! Shall not the Judge of all the earth do what is just?",
+    "key_term": "Judge (审判)",
+    "trap": "Deal",
+    "nuance_note": "God as 'Judge' implies His perfect righteousness and justice in all His dealings, not a negotiation or 'deal'.",
+    "id": 20
+  },
+  {
+    "ref": "Gen 1:28",
+    "phrase_cn": "神就赐福给他们，又对他们说：要生养众多，遍满地面，治理这地，也要管理海里的鱼、空中的鸟，和地上各样行动的活物。",
+    "phrase_en": "And God blessed them. And God said to them, “Be fruitful and multiply and fill the earth and subdue it and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.”",
+    "sentence_context": "And God blessed them. And God said to them, “Be fruitful and multiply and fill the earth and subdue it and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.”",
+    "key_term": "dominion (管理/治理)",
+    "trap": "Build",
+    "nuance_note": "Humanity's God-given role of 'dominion' is a stewardship mandate to govern and care for creation, not merely to 'build' or exploit it.",
+    "id": 21
+  },
+  {
+    "ref": "Gen 8:1",
+    "phrase_cn": "神记念挪亚和挪亚方舟里的一切走兽牲畜。神叫风吹地，水势渐落。",
+    "phrase_en": "But God remembered Noah and all the beasts and all the livestock that were with him in the ark. And God made a wind blow over the earth, and the waters subsided.",
+    "sentence_context": "But God remembered Noah and all the beasts and all the livestock that were with him in the ark. And God made a wind blow over the earth, and the waters subsided.",
+    "key_term": "remembered (记念)",
+    "trap": "Luck",
+    "nuance_note": "God's 'remembrance' is an active, covenantal act of faithfulness and providential care, indicating His purposeful intervention, not mere 'luck'.",
+    "id": 22
+  },
+  {
+    "ref": "Gen 2:3",
+    "phrase_cn": "神赐福给第七日，定为圣日，因为在这日，神歇了他一切创造的工，就安息了。",
+    "phrase_en": "So God blessed the seventh day and made it holy, because on it God rested from all his work that he had done in creation.",
+    "sentence_context": "So God blessed the seventh day and made it holy, because on it God rested from all his work that he had done in creation.",
+    "key_term": "Bless (赐福), Create (创造)",
+    "trap": "Make (for Create)",
+    "nuance_note": "'Creation' (בְּרִיאָה - b'riyah) refers to God's divine act of bringing things into existence from nothing, distinct from 'making' something from pre-existing material.",
+    "id": 23
+  },
+  {
+    "ref": "Gen 5:24",
+    "phrase_cn": "以诺与神同行，神将他取去，他就不在世了。",
+    "phrase_en": "Enoch walked with God, and he was not, for God took him.",
+    "sentence_context": "Enoch walked with God, and he was not, for God took him.",
+    "key_term": "Walk with God (与神同行)",
+    "trap": "Luck (for Providence)",
+    "nuance_note": "'Walked with God' (הָלַךְ אֶת הָאֱלֹהִים - halakh et ha'elohim) signifies a close, obedient, and intimate relationship with God, guided by His will, a key aspect of divine providence.",
+    "id": 24
+  },
+  {
+    "ref": "Gen 6:18",
+    "phrase_cn": "我却要与你立约；你和你的儿子、你的妻子、你儿子的妻子都要进入方舟。",
+    "phrase_en": "But I will establish my covenant with you, and you shall come into the ark, you, your sons, your wife, and your sons' wives with you.",
+    "sentence_context": "But I will establish my covenant with you, and you shall come into the ark, you, your sons, your wife, and your sons' wives with you.",
+    "key_term": "Cut a covenant (立约)",
+    "trap": "Contract (for Covenant)",
+    "nuance_note": "'Establish my covenant' (הֵקִים בְּרִית - hekim berit) means to confirm and fulfill a solemn, binding agreement, not just a casual deal.",
+    "id": 25
+  },
+  {
+    "ref": "Gen 17:7",
+    "phrase_cn": "我必与你和你的后裔，在他们世世代代中坚定我的约，作永远的约，是要作你和你后裔的神。",
+    "phrase_en": "And I will establish my covenant between me and you and your offspring after you throughout their generations for an everlasting covenant, to be God to you and to your offspring after you.",
+    "sentence_context": "And I will establish my covenant between me and you and your offspring after you throughout their generations for an everlasting covenant, to be God to you and to your offspring after you.",
+    "key_term": "Cut a covenant (立约), Seed (后裔)",
+    "trap": "Deal (for Covenant), Children (for Seed)",
+    "nuance_note": "'Everlasting covenant' (בְּרִית עוֹלָם - berit 'olam) emphasizes its eternal and unchanging nature, passed through 'offspring' (seed), not merely a temporary contract or a group of kids.",
+    "id": 26
+  },
+  {
+    "ref": "Gen 22:16",
+    "phrase_cn": "说：“耶和华说：‘你既行了这事，不留下你的儿子，就是你独生的儿子，我便指着自己起誓：",
+    "phrase_en": "and said, 'By myself I have sworn, declares the Lord, because you have done this and have not withheld your son, your only son,'",
+    "sentence_context": "and said, 'By myself I have sworn, declares the Lord, because you have done this and have not withheld your son, your only son,'",
+    "key_term": "Swore (起誓)",
+    "trap": "Contract (for the implied promise)",
+    "nuance_note": "God's self-oath, 'By myself I have sworn' (נִשְׁבַּעְתִּי בִּי - nishba'ti bi), underscores the absolute certainty and immutability of His subsequent promise, foundational to His covenant faithfulness.",
+    "id": 27
+  },
+  {
+    "ref": "Gen 26:12",
+    "phrase_cn": "以撒在那地耕种，那一年有百倍的收成。耶和华赐福给他。",
+    "phrase_en": "When Isaac sowed in that land and reaped in the same year a hundredfold. The Lord blessed him.",
+    "sentence_context": "When Isaac sowed in that land and reaped in the same year a hundredfold. The Lord blessed him.",
+    "key_term": "Bless (赐福)",
+    "trap": "Luck (for the harvest)",
+    "nuance_note": "'The Lord blessed him' (וַיְבָרְכֵהוּ יְהוָה - vayvarekhehu YHWH) attributes Isaac's prosperity directly to divine favor and providence, not mere chance or good fortune.",
+    "id": 28
+  },
+  {
+    "ref": "Gen 30:27",
+    "phrase_cn": "拉班对他说：“我若在你眼前蒙恩，请你留下；我用占卜的方法得知，耶和华因你的缘故赐福与我。”",
+    "phrase_en": "But Laban said to him, 'If I have found favor in your eyes, please stay, for I have learned by divination that the Lord has blessed me because of you.'",
+    "sentence_context": "But Laban said to him, 'If I have found favor in your eyes, please stay, for I have learned by divination that the Lord has blessed me because of you.'",
+    "key_term": "Bless (赐福)",
+    "trap": "Fate (for divination and blessing)",
+    "nuance_note": "Laban's acknowledgment of being 'blessed because of you' (בַּעֲבוּרְךָ - ba'avurkha) highlights God's sovereign providence, extending blessing through His chosen individuals even to those outside the covenant.",
+    "id": 29
+  },
+  {
+    "ref": "Gen 45:7",
+    "phrase_cn": "神差我在你们以先来，为要给你们在世上存留余种，又大大蒙拯救，保全你们的生命。",
+    "phrase_en": "And God sent me before you to preserve for you a remnant on earth, and to keep alive for you many survivors.",
+    "sentence_context": "And God sent me before you to preserve for you a remnant on earth, and to keep alive for you many survivors.",
+    "key_term": "Sent (差)",
+    "trap": "Luck (for their survival)",
+    "nuance_note": "'God sent me' (וַיִּשְׁלָחֵנִי אֱלֹהִים - vayyishlakheni Elohim) demonstrates divine sovereignty actively orchestrating events (Joseph's hardships) for a redemptive purpose: the preservation of His covenant people.",
+    "id": 30
+  }
+]

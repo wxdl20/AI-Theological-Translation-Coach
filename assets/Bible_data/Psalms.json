@@ -1,0 +1,310 @@
+[
+  {
+    "ref": "Ps 51:1",
+    "focus_verb_cn": "涂抹",
+    "focus_verb_en": "Blot out",
+    "key_term": "Blot out",
+    "trap": [
+      "Clean",
+      "Erase",
+      "Wipe"
+    ],
+    "sentence_context": "To the choirmaster. A Psalm of David, when Nathan the prophet went to him, after he had gone in to Bathsheba. Have mercy on me, O God, according to your steadfast love; according to your abundant mercy blot out my transgressions.",
+    "nuance_note": "Blot out 指从法庭记录册上彻底‘抹去’罪债，Erase 力度不够。",
+    "id": 1
+  },
+  {
+    "ref": "Ps 42:1",
+    "focus_verb_cn": "切慕",
+    "focus_verb_en": "Pants for",
+    "key_term": "Pants for",
+    "trap": [
+      "Misses",
+      "Wants",
+      "Likes"
+    ],
+    "sentence_context": "To the choirmaster. A Maskil of the Sons of Korah. As a deer pants for flowing streams, so my soul pants for you, O God.",
+    "nuance_note": "Pants for (Arag) 描绘鹿干渴时的气喘吁吁，Misses 只是情感想念。",
+    "id": 2
+  },
+  {
+    "ref": "Ps 1:2",
+    "phrase_cn": "惟喜爱耶和华的律法，昼夜思想，这人便为有福！",
+    "phrase_en": "but his delight is in the law of the LORD, and on his law he meditates day and night.",
+    "sentence_context": "But his delight is in the law of the LORD, and on his law he meditates day and night.",
+    "key_term": "Meditate (昼夜思想)",
+    "trap": "Think",
+    "nuance_note": "“Meditate” (הָגָה hagah) implies a deep, continuous, and often vocalized rumination on God's word, absorbing it into one's being, not merely casual 'thinking' or intellectual processing.",
+    "id": 3
+  },
+  {
+    "ref": "Ps 107:8",
+    "phrase_cn": "但愿人因耶和华的慈爱和祂向人所行的奇事都称赞祂。",
+    "phrase_en": "Let them thank the LORD for his steadfast love, for his wondrous works to the children of man!",
+    "sentence_context": "Let them thank the LORD for his steadfast love, for his wondrous works to the children of man!",
+    "key_term": "Praise (赞美)",
+    "trap": "Love",
+    "nuance_note": "“Steadfast love” (חֶסֶד chesed) is a deep, covenantal loyalty and enduring kindness, far richer than a simple emotional 'love' or even 'mercy'.",
+    "id": 4
+  },
+  {
+    "ref": "Ps 112:1",
+    "phrase_cn": "你们要赞美耶和华！敬畏耶和华，甚喜爱他命令的，这人便为有福！",
+    "phrase_en": "Praise the LORD! Blessed is the man who fears the LORD, who greatly delights in his commandments!",
+    "sentence_context": "Praise the LORD! Blessed is the man who fears the LORD, who greatly delights in his commandments!",
+    "key_term": "Praise (赞美)",
+    "trap": "Scared",
+    "nuance_note": "“Fear the LORD” (יִרְאַת יְהוָה yirat Yahweh) signifies reverent awe, worshipful submission, and obedience, not merely being 'scared' or terrified.",
+    "id": 5
+  },
+  {
+    "ref": "Ps 30:2",
+    "phrase_cn": "耶和华我的神啊，我曾呼求你，你医治了我。",
+    "phrase_en": "O LORD my God, I cried to you for help, and you have healed me.",
+    "sentence_context": "O LORD my God, I cried to you for help, and you have healed me.",
+    "key_term": "Lament (哀求)",
+    "trap": "Sadness",
+    "nuance_note": "To 'cry for help' (שָׁוַע shava') is an active, often desperate, plea to God in distress, a form of honest lament, distinct from mere passive 'sadness'.",
+    "id": 6
+  },
+  {
+    "ref": "Ps 38:18",
+    "phrase_cn": "我要承认我的罪孽，我因我的罪忧愁。",
+    "phrase_en": "For I confess my iniquity; I am sorry for my sin.",
+    "sentence_context": "For I confess my iniquity; I am sorry for my sin.",
+    "key_term": "Confess (承认)",
+    "trap": "Sadness",
+    "nuance_note": "To 'confess' (יָדָה yadah) involves acknowledging truth and taking responsibility, often accompanied by genuine sorrow, which is deeper than general 'sadness' and leads to repentance.",
+    "id": 7
+  },
+  {
+    "ref": "Ps 7:1",
+    "phrase_cn": "耶和华我的神啊，我投靠你！求你救我脱离一切追赶我的人，将我救拔出来！",
+    "phrase_en": "O LORD my God, in you do I take refuge; save me from all my pursuers and deliver me,",
+    "sentence_context": "O LORD my God, in you do I take refuge; save me from all my pursuers and deliver me,",
+    "key_term": "Take Refuge (投靠)",
+    "trap": "Afraid",
+    "nuance_note": "To 'take refuge' (חָסָה chasah) is an active act of trust and seeking protection, often in response to danger or 'fear,' rather than passively 'being afraid.'",
+    "id": 8
+  },
+  {
+    "ref": "Ps 33:20-22",
+    "phrase_cn": "我们的心等候耶和华；他是我们的帮助，我们的盾牌。我们的心要因他欢喜，因为我们倚靠他的圣名。耶和华啊，求你照着我们所仰望你的，向我们施行慈爱！",
+    "phrase_en": "Our soul waits for the LORD; he is our help and our shield. For our heart is glad in him, because we trust in his holy name. Let your steadfast love, O LORD, be upon us, even as we hope in you.",
+    "sentence_context": "Our soul waits for the LORD; he is our help and our shield. For our heart is glad in him, because we trust in his holy name. Let your steadfast love, O LORD, be upon us, even as we hope in you.",
+    "key_term": "Wait for (等候)",
+    "trap": "Mercy",
+    "nuance_note": "To 'wait for' (יָחַל yahal) implies patient endurance and hopeful expectation, often rooted in God's 'steadfast love' (חֶסֶד chesed), which is more profound than mere 'mercy' and speaks of covenant faithfulness.",
+    "id": 9
+  },
+  {
+    "ref": "Ps 48:9",
+    "phrase_cn": "神啊，我们在你的殿中想念你的慈爱。",
+    "phrase_en": "We have thought on your steadfast love, O God, in the midst of your temple.",
+    "sentence_context": "We have thought on your steadfast love, O God, in the midst of your temple.",
+    "key_term": "Meditate (思想)",
+    "trap": "Guess",
+    "nuance_note": "To 'think on' (דָּמָה damah) here implies contemplation and reflection, a form of meditation, rather than a mere 'guess' about God's character. His 'steadfast love' (חֶסֶד chesed) is a revealed truth, not an unknown.",
+    "id": 10
+  },
+  {
+    "ref": "Ps 77:1",
+    "phrase_cn": "我向神发声哀求；我向神发声，他必留心听我。",
+    "phrase_en": "I cry aloud to God, aloud to God, and he will hear me.",
+    "sentence_context": "I cry aloud to God, aloud to God, and he will hear me.",
+    "key_term": "Lament (哀求)",
+    "trap": "Complain",
+    "nuance_note": "To 'cry aloud' (צָעַק tsa'aq) is an earnest, often desperate, appeal to God in prayer, a form of lament that seeks God's intervention, distinct from mere 'complaining' without hope.",
+    "id": 11
+  },
+  {
+    "ref": "Ps 36:7",
+    "phrase_cn": "神啊，你的慈爱何其宝贵！世人投靠在你翅膀的荫下。",
+    "phrase_en": "How precious is your steadfast love, O God! The children of mankind take refuge in the shadow of your wings.",
+    "sentence_context": "How precious is your steadfast love, O God! The children of mankind take refuge in the shadow of your wings.",
+    "key_term": "Take Refuge (投靠)",
+    "trap": "Love",
+    "nuance_note": "To 'take refuge' (חָסָה chasah) is an act of trust and seeking shelter, motivated by God's 'steadfast love' (חֶסֶד chesed), which is a deeper concept of covenantal faithfulness than simple emotional 'love.'",
+    "id": 12
+  },
+  {
+    "ref": "Ps 57:1",
+    "phrase_cn": "我的心投靠你，我要投靠在你翅膀的荫下",
+    "phrase_en": "for in you my soul takes refuge; in the shadow of your wings I will take refuge",
+    "sentence_context": "Be merciful to me, O God, be merciful to me, for in you my soul takes refuge; in the shadow of your wings I will take refuge, till the storms of destruction pass by.",
+    "key_term": "Take Refuge (投靠)",
+    "trap": "Love",
+    "nuance_note": "The term 'take refuge' (חסה, *chasah*) implies finding shelter and protection, especially in times of distress, often linked to God's steadfast love (hesed).",
+    "id": 13
+  },
+  {
+    "ref": "Ps 63:6",
+    "phrase_cn": "我在床上记念你，在夜更的时候思想你",
+    "phrase_en": "when I remember you upon my bed, and meditate on you in the watches of the night",
+    "sentence_context": "when I remember you upon my bed, and meditate on you in the watches of the night;",
+    "key_term": "Meditate (昼夜思想)",
+    "trap": "Think",
+    "nuance_note": "To 'meditate' (הגה, *hagah*) is more than just thinking; it involves a deep, often vocal, pondering and internalizing of God's truth.",
+    "id": 14
+  },
+  {
+    "ref": "Ps 6:6",
+    "phrase_cn": "我因唉哼而困乏；我每夜使床榻漂浮，把我的床铺浸透了泪水。",
+    "phrase_en": "I am weary with my moaning; every night I flood my bed with tears; I drench my couch with my weeping.",
+    "sentence_context": "I am weary with my moaning; every night I flood my bed with tears; I drench my couch with my weeping. My eye is wasted from grief; it grows old because of all my foes.",
+    "key_term": "Lament (哀求)",
+    "trap": "Complain",
+    "nuance_note": "The Hebrew for 'moaning' (אנחה, *'anachah*) and 'weeping' (בכי, *bekhi*) conveys deep anguish and sorrow, a profound expression of the soul's distress, far beyond mere complaining.",
+    "id": 15
+  },
+  {
+    "ref": "Ps 138:2",
+    "phrase_cn": "我要向你的圣殿下拜，为你的慈爱和诚实称赞你的名",
+    "phrase_en": "I bow down toward your holy temple and give thanks to your name for your steadfast love and your faithfulness",
+    "sentence_context": "I bow down toward your holy temple and give thanks to your name for your steadfast love and your faithfulness, for you have exalted above all things your name and your word.",
+    "key_term": "Praise (赞美)",
+    "trap": "Love",
+    "nuance_note": "To 'give thanks' (ידה, *yadah*) is an act of acknowledging and praising God's character and deeds, especially His *hesed* (steadfast love) and faithfulness.",
+    "id": 16
+  },
+  {
+    "ref": "Ps 32:5",
+    "phrase_cn": "我向你陈明我的罪，不隐瞒我的恶。我说：「我要向耶和华承认我的过犯。」",
+    "phrase_en": "I acknowledged my sin to you, and I did not cover my iniquity; I said, 'I will confess my transgressions to the Lord,'",
+    "sentence_context": "I acknowledged my sin to you, and I did not cover my iniquity; I said, 'I will confess my transgressions to the Lord,' and you forgave the iniquity of my sin.",
+    "key_term": "Confess (承认)",
+    "trap": "Sadness",
+    "nuance_note": "To 'confess' (ידה, *yadah* in the Hiphil stem) involves fully owning one's sin before God, without excuses or concealment, often accompanied by genuine sorrow.",
+    "id": 17
+  },
+  {
+    "ref": "Ps 27:14",
+    "phrase_cn": "你要等候耶和华！要坚强，使你的心勇敢！你要等候耶和华！",
+    "phrase_en": "Wait for the Lord; be strong, and let your heart take courage; wait for the Lord!",
+    "sentence_context": "Wait for the Lord; be strong, and let your heart take courage; wait for the Lord!",
+    "key_term": "Wait for (等候)",
+    "trap": "Afraid",
+    "nuance_note": "To 'wait for' (קוה, *qavah*) implies more than passive waiting; it is an active, hopeful expectation and reliance on God, especially when facing circumstances that might make one afraid.",
+    "id": 18
+  },
+  {
+    "ref": "Ps 18:2",
+    "phrase_cn": "耶和华是我的岩石，我的山寨，我的拯救者，我的神，我的磐石，我所投靠的，我的盾牌，我救恩的角，我的高台。",
+    "phrase_en": "The Lord is my rock and my fortress and my deliverer, my God, my rock, in whom I take refuge, my shield, and the horn of my salvation, my stronghold.",
+    "sentence_context": "The Lord is my rock and my fortress and my deliverer, my God, my rock, in whom I take refuge, my shield, and the horn of my salvation, my stronghold.",
+    "key_term": "Take Refuge (投靠)",
+    "trap": "Mercy",
+    "nuance_note": "The imagery of 'rock,' 'fortress,' and 'shield' highlights God's unwavering strength and protective nature, reflecting His boundless mercy and making Him the ultimate sanctuary for the soul.",
+    "id": 19
+  },
+  {
+    "ref": "Ps 119:15",
+    "phrase_cn": "我要默想你的训词，看重你的道路。",
+    "phrase_en": "I will meditate on your precepts and fix my eyes on your ways.",
+    "sentence_context": "I will meditate on your precepts and fix my eyes on your ways.",
+    "key_term": "Meditate (昼夜思想)",
+    "trap": "Guess",
+    "nuance_note": "To 'meditate' (שיח, *siakh*, here meaning to muse or ponder) on God's precepts is to deeply ponder and internalize them, not just casually guess at their meaning or implications.",
+    "id": 20
+  },
+  {
+    "ref": "Ps 99:3",
+    "phrase_cn": "愿他们称赞你大而可畏的名！他是圣洁的！",
+    "phrase_en": "Let them praise your great and awesome name! Holy is he!",
+    "sentence_context": "Let them praise your great and awesome name! Holy is he!",
+    "key_term": "Praise (赞美)",
+    "trap": "Scared",
+    "nuance_note": "God's 'awesome' (נורא, *nora'*) name evokes not merely being 'scared,' but a profound sense of reverential awe and worship in the presence of His holiness and power.",
+    "id": 21
+  },
+  {
+    "ref": "Ps 130:1-2",
+    "phrase_cn": "耶和华啊，我从深处向你求告！主啊，求你听我的声音！愿你的耳朵留心听我恳求的声音！",
+    "phrase_en": "Out of the depths I cry to you, O Lord! O Lord, hear my voice! Let your ears be attentive to the voice of my pleas for mercy!",
+    "sentence_context": "Out of the depths I cry to you, O Lord! O Lord, hear my voice! Let your ears be attentive to the voice of my pleas for mercy!",
+    "key_term": "Lament (哀求)",
+    "trap": "Sadness",
+    "nuance_note": "The phrase 'out of the depths' (ממעמקים, *mima'amakim*) signifies a cry from profound despair or deep trouble, expressing the soul's intense longing for divine intervention beyond simple sadness.",
+    "id": 22
+  },
+  {
+    "ref": "Ps 2:12",
+    "phrase_cn": "投靠他的",
+    "phrase_en": "take refuge in him",
+    "sentence_context": "Kiss the Son, lest he be angry, and you perish in the way, for his wrath is quickly kindled. Blessed are all who take refuge in him.",
+    "key_term": "Take Refuge (投靠)",
+    "trap": "寻求庇护 (Seek shelter)",
+    "nuance_note": "To 'take refuge' (חָסָה, chasah) implies not just seeking shelter, but a complete and confident reliance on God's protection and provision, reflecting a deep trust of the soul.",
+    "id": 23
+  },
+  {
+    "ref": "Ps 107:15",
+    "phrase_cn": "称谢耶和华的慈爱",
+    "phrase_en": "thank the Lord for his steadfast love",
+    "sentence_context": "Let them thank the Lord for his steadfast love, for his wondrous works to the children of man!",
+    "key_term": "Praise (赞美)",
+    "trap": "为他的爱说谢谢 (Say thanks for his love)",
+    "nuance_note": "'Steadfast love' (חֶסֶד, hesed) is God's covenantal, loyal, and unfailing love, not merely an emotion. To 'thank' (יָדָה, yadah) means to actively confess and praise, often publicly, acknowledging His goodness.",
+    "id": 24
+  },
+  {
+    "ref": "Ps 142:2",
+    "phrase_cn": "我在他面前吐露我的苦情",
+    "phrase_en": "I pour out my complaint before him",
+    "sentence_context": "I pour out my complaint before him; I tell before him my trouble.",
+    "key_term": "Lament (哀求)",
+    "trap": "我向他抱怨 (I complain to him)",
+    "nuance_note": "'Pour out my complaint' (שִׂיחַ, siach) signifies a deep, heartfelt expression of distress and anguish to God, a form of prayer or meditation, not mere grumbling or casual complaining.",
+    "id": 25
+  },
+  {
+    "ref": "Ps 130:5",
+    "phrase_cn": "我等候耶和华，我的心等候",
+    "phrase_en": "I wait for the Lord, my soul waits",
+    "sentence_context": "I wait for the Lord, my soul waits, and in his word I hope.",
+    "key_term": "Wait for (等候)",
+    "trap": "我等候神，我的心等候 (I wait for God, my heart waits)",
+    "nuance_note": "'Wait for' (קָוָה, qavah) is not a passive waiting but an active, hopeful, and steadfast expectation, enduring with patience, like a rope stretched tight, demonstrating a deep posture of the soul.",
+    "id": 26
+  },
+  {
+    "ref": "Ps 9:1",
+    "phrase_cn": "我要一心称谢耶和华",
+    "phrase_en": "I will give thanks to the Lord with my whole heart",
+    "sentence_context": "I will give thanks to the Lord with my whole heart; I will recount all of your wonderful deeds.",
+    "key_term": "Praise (赞美)",
+    "trap": "我全心感谢神 (I thank God with all my heart)",
+    "nuance_note": "'Give thanks' (יָדָה, yadah) is an active and often public expression of gratitude and praise. 'Whole heart' (כָּל־לֵב, kol-lev) signifies a complete and undivided inner commitment of the person.",
+    "id": 27
+  },
+  {
+    "ref": "Ps 25:12",
+    "phrase_cn": "谁敬畏耶和华",
+    "phrase_en": "Who is the man who fears the Lord?",
+    "sentence_context": "Who is the man who fears the Lord? Him will he instruct in the way that he should choose.",
+    "key_term": "Fear (敬畏)",
+    "trap": "谁害怕神 (Who is scared of God?)",
+    "nuance_note": "'Fear' (יָרֵא, yare) in this context refers to reverential awe, profound respect, and obedient submission to God, rather than mere terror or being afraid. It's a deep posture of the soul towards divine authority.",
+    "id": 28
+  },
+  {
+    "ref": "Ps 13:5",
+    "phrase_cn": "但我倚靠你的慈爱",
+    "phrase_en": "But I have trusted in your steadfast love",
+    "sentence_context": "But I have trusted in your steadfast love; my heart shall rejoice in your salvation.",
+    "key_term": "Trust (倚靠)",
+    "trap": "但我依赖你的爱 (But I relied on your love)",
+    "nuance_note": "'Trusted' (בָּטַח, batach) implies a secure reliance and confident hope, a resting of the soul's weight upon God. 'Steadfast love' (חֶסֶד, hesed) is God's loyal, unfailing covenantal love, which forms the basis for this trust.",
+    "id": 29
+  },
+  {
+    "ref": "Psalm 34:9",
+    "phrase_cn": "你们当敬畏耶和华的圣民，因为敬畏他的一无所缺。",
+    "phrase_en": "Oh, fear the Lord, you his saints, for those who fear him have no lack!",
+    "sentence_context": "Oh, fear the Lord, you his saints, for those who fear him have no lack! The young lions suffer want and hunger; but those who seek the Lord lack no good thing.",
+    "key_term": "Fear (敬畏)",
+    "trap": "Scared",
+    "nuance_note": "The Hebrew word יִרְאָה (yir'ah) refers to a deep reverence, awe, and submission to God's authority and holiness, leading to obedience and trust, rather than mere terror or being 'scared'.",
+    "id": 30
+  }
+]

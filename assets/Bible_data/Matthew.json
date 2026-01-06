@@ -1,0 +1,310 @@
+[
+  {
+    "ref": "Matt 28:19",
+    "phrase_cn": "**使**万民**作门徒**",
+    "phrase_en": "**Make disciples of** all nations",
+    "key_term": "Make disciples of",
+    "trap": [
+      "Bring disciples",
+      "Teach students",
+      "Let them be disciples"
+    ],
+    "sentence_context": "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,",
+    "nuance_note": "这是一个固定动词短语 (Matheteuo)，不能拆解为 Bring/Teach。",
+    "id": 1
+  },
+  {
+    "ref": "Matt 16:24",
+    "phrase_cn": "就当**舍**己",
+    "phrase_en": "Let him **deny** himself",
+    "key_term": "Deny",
+    "trap": [
+      "Give up",
+      "Forget",
+      "Leave"
+    ],
+    "sentence_context": "Then Jesus told his disciples, “If anyone would come after me, let him deny himself and take up his cross and follow me.",
+    "nuance_note": "Deny (Aparneomai) 意为‘否认关联/不再认自己为主’，比 Give up 深刻。",
+    "id": 2
+  },
+  {
+    "ref": "Matt 1:22",
+    "phrase_cn": "这事成就，是要应验主藉先知所说的话",
+    "phrase_en": "All this took place to fulfill what the Lord had spoken by the prophet",
+    "sentence_context": "All this took place to fulfill what the Lord had spoken by the prophet: “Behold, the virgin shall conceive and bear a son, and they shall call his name Immanuel” (which means, God with us).",
+    "key_term": "Fulfill (应验)",
+    "trap": "Fulfill -> Come true",
+    "nuance_note": "To 'fulfill' (πληρόω) means to bring to completion or bring to its intended purpose, often in the context of prophecy, not merely 'come true' by chance.",
+    "id": 3
+  },
+  {
+    "ref": "Matt 2:15",
+    "phrase_cn": "为要应验主藉先知所说的话，说：“我从埃及召出我的儿子来。”",
+    "phrase_en": "This was to fulfill what the Lord had spoken by the prophet, “Out of Egypt I called my son.”",
+    "sentence_context": "He remained there until the death of Herod. This was to fulfill what the Lord had spoken by the prophet, “Out of Egypt I called my son.”",
+    "key_term": "Fulfill (应验)",
+    "trap": "Fulfill -> Finish",
+    "nuance_note": "Again, 'fulfill' (πληρόω) implies God's active hand in bringing about His prophetic word, not just completing a task.",
+    "id": 4
+  },
+  {
+    "ref": "Matt 4:17",
+    "phrase_cn": "天国近了，你们应当悔改！",
+    "phrase_en": "Repent, for the kingdom of heaven is at hand.",
+    "sentence_context": "From that time Jesus began to preach, saying, “Repent, for the kingdom of heaven is at hand.”",
+    "key_term": "Repent (悔改), Kingdom of Heaven",
+    "trap": "Kingdom of Heaven -> Heaven Country",
+    "nuance_note": "'Kingdom of Heaven' (βασιλεία τῶν οὐρανῶν) refers to God's sovereign rule and reign, not a physical country or geographical location. 'Repent' (μετανοέω) signifies a change of mind leading to a change of life direction.",
+    "id": 5
+  },
+  {
+    "ref": "Matt 5:3",
+    "phrase_cn": "虚心的人有福了，因为天国是他们的！",
+    "phrase_en": "“Blessed are the poor in spirit, for theirs is the kingdom of heaven.",
+    "sentence_context": "“Blessed are the poor in spirit, for theirs is the kingdom of heaven.",
+    "key_term": "Blessed (有福了), Kingdom of Heaven",
+    "trap": "Blessed -> Happy",
+    "nuance_note": "'Blessed' (μακάριος) denotes a state of divine favor and spiritual well-being, not merely emotional happiness. It describes those who are recipients of God's grace.",
+    "id": 6
+  },
+  {
+    "ref": "Matt 5:17",
+    "phrase_cn": "我来不是要废掉，乃是要成全。",
+    "phrase_en": "I have not come to abolish them but to fulfill them.",
+    "sentence_context": "“Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them.",
+    "key_term": "Fulfill (成全), Law",
+    "trap": "Law -> Rules",
+    "nuance_note": "Here 'fulfill' (πληρόω) means to bring the Law and Prophets to their ultimate meaning and purpose in Christ, not just to complete or obey rules. 'Law' (νόμος) refers to the divine revelation of God's will given to Israel, the Torah.",
+    "id": 7
+  },
+  {
+    "ref": "Matt 6:33",
+    "phrase_cn": "你们要先求他的国和他的义",
+    "phrase_en": "But seek first the kingdom of God and his righteousness",
+    "sentence_context": "But seek first the kingdom of God and his righteousness, and all these things will be added to you.",
+    "key_term": "Seek (求), Kingdom of God (国), Righteousness (义)",
+    "trap": "Kingdom of God -> God's country",
+    "nuance_note": "'Kingdom of God' (βασιλεία τοῦ θεοῦ), synonymous with 'Kingdom of Heaven' in Matthew, refers to God's active reign. 'Righteousness' (δικαιοσύνη) means conformity to God's holy character and will, both imputed and practiced.",
+    "id": 8
+  },
+  {
+    "ref": "Matt 8:22",
+    "phrase_cn": "你跟从我。",
+    "phrase_en": "Follow me",
+    "sentence_context": "Another of the disciples said to him, “Lord, let me first go and bury my father.” But Jesus said to him, “Follow me, and leave the dead to bury their own dead.”",
+    "key_term": "Follow (跟从)",
+    "trap": "Follow -> Walk behind",
+    "nuance_note": "'Follow' (ἀκολουθέω) in this context implies committed discipleship, obedience, and alignment with Jesus' mission, not just physical proximity.",
+    "id": 9
+  },
+  {
+    "ref": "Matt 10:22",
+    "phrase_cn": "惟有忍耐到底的，必然得救。",
+    "phrase_en": "But the one who endures to the end will be saved.",
+    "sentence_context": "And you will be hated by all for my name's sake. But the one who endures to the end will be saved.",
+    "key_term": "Endure (忍耐)",
+    "trap": "Endure -> Bear with",
+    "nuance_note": "'Endure' (ὑπομένω) signifies patient perseverance, steadfastness, and remaining faithful under trial and persecution, not just tolerating a difficult situation.",
+    "id": 10
+  },
+  {
+    "ref": "Matt 13:11",
+    "phrase_cn": "因为天国的奥秘只叫你们知道",
+    "phrase_en": "To you it has been given to know the secrets of the kingdom of heaven",
+    "sentence_context": "And he answered them, “To you it has been given to know the secrets of the kingdom of heaven, but for them it has not been given.",
+    "key_term": "Know (知道), Kingdom of Heaven",
+    "trap": "Kingdom of Heaven -> Heaven Country",
+    "nuance_note": "'Secrets' or 'mysteries' (μυστήρια) of the Kingdom refer to truths previously hidden but now revealed by God through Jesus, specifically concerning the nature and arrival of God's reign.",
+    "id": 11
+  },
+  {
+    "ref": "Matt 24:14",
+    "phrase_cn": "这天国的福音要传遍天下",
+    "phrase_en": "And this gospel of the kingdom will be proclaimed throughout the whole world",
+    "sentence_context": "And this gospel of the kingdom will be proclaimed throughout the whole world as a testimony to all nations, and then the end will come.",
+    "key_term": "Proclaim (传遍), Gospel of the Kingdom (天国的福音)",
+    "trap": "Gospel of the kingdom -> Good news of the heaven country",
+    "nuance_note": "'Gospel of the Kingdom' (εὐαγγέλιον τῆς βασιλείας) is the good news that God's reign has drawn near and is being inaugurated through Jesus Christ, requiring a response of faith and repentance. 'Proclaim' (κηρύσσω) implies an authoritative declaration.",
+    "id": 12
+  },
+  {
+    "ref": "Matt 2:23",
+    "phrase_cn": "这就应验了先知所说的话",
+    "phrase_en": "So was fulfilled what was said through the prophets",
+    "sentence_context": "And he went and lived in a town called Nazareth, so that what was spoken by the prophets might be fulfilled: 'He will be called a Nazarene.'",
+    "key_term": "Fulfill (应验)",
+    "trap": "Fulfill -> Come true",
+    "nuance_note": "“应验” (fulfill) denotes the precise realization of divine prophecy and God's sovereign plan, not merely an event 'coming true' coincidentally.",
+    "id": 13
+  },
+  {
+    "ref": "Matt 3:2",
+    "phrase_cn": "天国近了，你们应当悔改",
+    "phrase_en": "Repent, for the kingdom of heaven is at hand!",
+    "sentence_context": "In those days John the Baptist came preaching in the wilderness of Judea, 'Repent, for the kingdom of heaven is at hand!'",
+    "key_term": "Repent (悔改)",
+    "trap": "Kingdom of Heaven -> Heaven Country",
+    "nuance_note": "“天国” (Kingdom of Heaven) refers to God's sovereign rule and reign, which is now inaugurated, not a physical 'country' in the sky. “悔改” means a change of mind and direction.",
+    "id": 14
+  },
+  {
+    "ref": "Matt 5:4",
+    "phrase_cn": "哀恸的人有福了，因为他们必得安慰",
+    "phrase_en": "Blessed are those who mourn, for they shall be comforted.",
+    "sentence_context": "Blessed are those who mourn, for they shall be comforted.",
+    "key_term": "Blessed (有福)",
+    "trap": "Blessed -> Happy",
+    "nuance_note": "“有福” (Blessed) signifies spiritual favor and well-being from God, often implying an inner state independent of external circumstances, not just a feeling of 'happiness' or good fortune.",
+    "id": 15
+  },
+  {
+    "ref": "Matt 7:12",
+    "phrase_cn": "这就是律法和先知的道理",
+    "phrase_en": "for this is the Law and the Prophets.",
+    "sentence_context": "So whatever you wish that others would do to you, do also to them, for this is the Law and the Prophets.",
+    "key_term": "Law (律法)",
+    "trap": "Law -> Rules",
+    "nuance_note": "“律法” (Law) here encompasses the entire divine instruction and revelation given through Moses and the prophets, not merely a set of rigid 'rules' or regulations.",
+    "id": 16
+  },
+  {
+    "ref": "Matt 13:44",
+    "phrase_cn": "天国好像宝贝藏在地里",
+    "phrase_en": "The kingdom of heaven is like treasure hidden in a field",
+    "sentence_context": "The kingdom of heaven is like treasure hidden in a field, which a man found and hid; then in his joy he goes and sells all that he has and buys that field.",
+    "key_term": "Kingdom of Heaven (天国)",
+    "trap": "Kingdom of Heaven -> Heaven Country",
+    "nuance_note": "“天国” is portrayed as something of immeasurable value, demanding radical commitment, not a physical 'country' that one simply enters.",
+    "id": 17
+  },
+  {
+    "ref": "Matt 21:4",
+    "phrase_cn": "这事成就，是要应验先知的话",
+    "phrase_en": "This took place to fulfill what was said through the prophet",
+    "sentence_context": "This took place to fulfill what was said through the prophet, saying, 'Tell the daughter of Zion, 'Behold, your King is coming to you, humble, and mounted on a donkey, on a colt, the foal of a beast of burden.''",
+    "key_term": "Fulfill (应验)",
+    "trap": "Fulfill -> Finish",
+    "nuance_note": "“应验” (fulfill) emphasizes the divine purpose and prophetic confirmation of Jesus' actions, rather than merely 'finishing' an ordinary task.",
+    "id": 18
+  },
+  {
+    "ref": "Matt 11:6",
+    "phrase_cn": "凡不因我跌倒的，就有福了",
+    "phrase_en": "And blessed is the one who is not offended by me.",
+    "sentence_context": "And blessed is the one who is not offended by me.",
+    "key_term": "Blessed (有福)",
+    "trap": "Blessed -> Lucky",
+    "nuance_note": "“有福” (Blessed) conveys divine approval and spiritual well-being for those who maintain faith in Jesus, not random 'luck' or good fortune.",
+    "id": 19
+  },
+  {
+    "ref": "Matt 18:3",
+    "phrase_cn": "你们若不回转，变成小孩子的样式，断不得进天国",
+    "phrase_en": "unless you turn and become like children, you will never enter the kingdom of heaven.",
+    "sentence_context": "and said, 'Truly, I say to you, unless you turn and become like children, you will never enter the kingdom of heaven.'",
+    "key_term": "Kingdom of Heaven (天国)",
+    "trap": "Kingdom of Heaven -> Heaven Country",
+    "nuance_note": "“天国” refers to the realm of God's rule, entry into which requires humility and a childlike spirit, not merely a destination like a 'country.'",
+    "id": 20
+  },
+  {
+    "ref": "Matt 19:21",
+    "phrase_cn": "你还要来跟从我",
+    "phrase_en": "and come, follow me.",
+    "sentence_context": "Jesus said to him, 'If you would be perfect, go, sell what you possess and give to the poor, and you will have treasure in heaven; and come, follow me.'",
+    "key_term": "Follow (跟从)",
+    "trap": "Kingdom of Heaven -> Heaven Country",
+    "nuance_note": "“跟从” (Follow) implies radical discipleship and a complete reorientation of life around Jesus, not merely physical trailing. 'Treasure in heaven' relates to the true value within the Kingdom.",
+    "id": 21
+  },
+  {
+    "ref": "Matt 22:40",
+    "phrase_cn": "这一切律法和先知的道理都系于这两条诫命",
+    "phrase_en": "On these two commandments depend all the Law and the Prophets.",
+    "sentence_context": "On these two commandments depend all the Law and the Prophets.",
+    "key_term": "Law (律法)",
+    "trap": "Law -> Rules",
+    "nuance_note": "“律法” (Law) here signifies the entirety of God's revealed will and ethical teaching, grounded in love for God and neighbor, not just a collection of 'rules' to be obeyed.",
+    "id": 22
+  },
+  {
+    "ref": "Matt 4:14",
+    "phrase_cn": "这是要应验先知以赛亚所说的话",
+    "phrase_en": "This was to fulfill what was spoken by the prophet Isaiah",
+    "sentence_context": "and leaving Nazareth he went and lived in Capernaum by the sea, in the territory of Zebulun and Naphtali, 14 so that what was spoken by the prophet Isaiah might be fulfilled: 15 “The land of Zebulun and the land of Naphtali, the way of the sea, beyond the Jordan, Galilee of the Gentiles— 16 the people dwelling in darkness have seen a great light, and for those dwelling in the region and shadow of death, on them a light has dawned.”",
+    "key_term": "Fulfill (应验)",
+    "trap": "Fulfill --> Come true",
+    "nuance_note": "“Fulfill” (应验) carries the theological weight of divine purpose and the sovereign outworking of God’s plan in Christ, not merely a prediction coming to pass.",
+    "id": 23
+  },
+  {
+    "ref": "Matt 13:24",
+    "phrase_cn": "天国好像人撒好种在田里",
+    "phrase_en": "The kingdom of heaven may be compared to a man who sowed good seed in his field",
+    "sentence_context": "He put another parable before them, saying, “The kingdom of heaven may be compared to a man who sowed good seed in his field,",
+    "key_term": "Kingdom of Heaven (天国)",
+    "trap": "Kingdom of Heaven --> Heaven Country",
+    "nuance_note": "The 'Kingdom of Heaven' (βασιλεία τῶν οὐρανῶν) refers to God's sovereign rule and reign, present and future, not a geographical or political 'country' in the sky.",
+    "id": 24
+  },
+  {
+    "ref": "Matt 16:17",
+    "phrase_cn": "耶稣对他说：“西门·巴·约拿，你是有福的！因为这不是属血肉的指示你的，而是我在天上的父指示的。",
+    "phrase_en": "And Jesus answered him, “Blessed are you, Simon Bar-Jonah! For flesh and blood has not revealed this to you, but my Father who is in heaven.”",
+    "sentence_context": "And Jesus answered him, “Blessed are you, Simon Bar-Jonah! For flesh and blood has not revealed this to you, but my Father who is in heaven.”",
+    "key_term": "Blessed (有福)",
+    "trap": "Blessed --> Happy",
+    "nuance_note": "“Blessed” (μακάριος) signifies a state of divine favor and spiritual well-being, a deep inner joy that comes from God, not merely fleeting emotional 'happiness' or 'luck'.",
+    "id": 25
+  },
+  {
+    "ref": "Matt 23:23",
+    "phrase_cn": "你们这假冒为善的文士和法利赛人有祸了！因为你们将薄荷、茴香、芹菜献上十分之一，那律法上更重要的事，就是公义、怜悯、信实，反倒不行了。",
+    "phrase_en": "Woe to you, scribes and Pharisees, hypocrites! For you tithe mint and dill and cumin, and have neglected the weightier matters of the law: justice and mercy and faithfulness.",
+    "sentence_context": "Woe to you, scribes and Pharisees, hypocrites! For you tithe mint and dill and cumin, and have neglected the weightier matters of the law: justice and mercy and faithfulness. These you ought to have done, without neglecting the others.",
+    "key_term": "Law (律法)",
+    "trap": "Law --> Rules",
+    "nuance_note": "The 'Law' (νόμος) refers to God's divine revelation and ethical demands, embodying His character and will, far beyond a set of human 'rules' or external rituals.",
+    "id": 26
+  },
+  {
+    "ref": "Matt 21:32",
+    "phrase_cn": "因为约翰在公义的道路上来到你们这里，你们却不相信他；税吏和娼妓反倒相信了。你们看见了，后来还是不悔改，不相信他。",
+    "phrase_en": "For John came to you in the way of righteousness, and you did not believe him, but the tax collectors and the prostitutes believed him. And even when you saw it, you did not afterward change your minds and believe him.",
+    "sentence_context": "For John came to you in the way of righteousness, and you did not believe him, but the tax collectors and the prostitutes believed him. And even when you saw it, you did not afterward change your minds and believe him.",
+    "key_term": "Repent (悔改)",
+    "trap": "Law (implied by righteousness) --> Rules",
+    "nuance_note": "To 'change your minds' (μεταμέλομαι / μετανοέω) implies true repentance: a fundamental change of heart and direction that leads to a transformation of life, not just regret or a minor adjustment to 'rules'.",
+    "id": 27
+  },
+  {
+    "ref": "Matt 13:52",
+    "phrase_cn": "他就对他们说：“凡是受过训练进入天国的人，就像一个家的主人，从他的宝库里拿出新的和旧的来。”",
+    "phrase_en": "He said to them, “Therefore every scribe who has been trained for the kingdom of heaven is like a master of a house, who brings out of his treasure what is new and what is old.”",
+    "sentence_context": "He said to them, “Therefore every scribe who has been trained for the kingdom of heaven is like a master of a house, who brings out of his treasure what is new and what is old.”",
+    "key_term": "Make disciples (使...作门徒)",
+    "trap": "Kingdom of Heaven --> Heaven Country",
+    "nuance_note": "To be 'trained for the kingdom of heaven' (μαθητευθείς εἰς τὴν βασιλείαν τῶν οὐρανῶν) signifies undergoing a process of discipleship, learning and embodying the truths of God's reign, rather than merely being educated about a 'heaven country'.",
+    "id": 28
+  },
+  {
+    "ref": "Matt 10:38",
+    "phrase_cn": "不背着自己的十字架跟从我的，不配做我的门徒。",
+    "phrase_en": "And whoever does not take his cross and follow me is not worthy of me.",
+    "sentence_context": "And whoever does not take his cross and follow me is not worthy of me. 39 Whoever finds his life will lose it, and whoever loses his life for my sake will find it.",
+    "key_term": "Follow (跟从)",
+    "trap": "Blessed (implied by 'worthy') --> Lucky",
+    "nuance_note": "To 'follow' (ἀκολουθέω) Jesus, especially in the context of taking up one's cross, implies radical commitment, self-denial, and identification with His mission, leading to ultimate blessing and worthiness in God's sight, not mere 'luck'.",
+    "id": 29
+  },
+  {
+    "ref": "Matt 24:13",
+    "phrase_cn": "但那忍耐到底的，就必然得救。",
+    "phrase_en": "But the one who endures to the end will be saved.",
+    "sentence_context": "And because lawlessness will be increased, the love of many will grow cold. 13 But the one who endures to the end will be saved.",
+    "key_term": "Endure (忍耐)",
+    "trap": "Fulfill (implied by 'end') --> Finish",
+    "nuance_note": "To 'endure to the end' (ὁ ὑπομείνας εἰς τέλος) speaks of persevering faith and steadfastness through tribulation until the culmination of God's redemptive plan and final salvation (fulfillment), not simply 'finishing' a task.",
+    "id": 30
+  }
+]

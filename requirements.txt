@@ -1,0 +1,23 @@
+# Core Web Framework
+streamlit>=1.40.0,<2.0.0
+
+# AI/API Clients
+openai>=1.0.0
+google-genai>=1.0.0
+google-generativeai>=0.8.0
+
+# Text-to-Speech
+edge-tts>=6.1.0
+
+# Data Processing (used in blitz_app.py)
+pandas>=2.0.0
+
+# Configuration
+python-dotenv>=1.0.0
+pyyaml>=6.0
+
+# Production/Cloud Server Enhancements (Optional)
+# Uncomment if needed for production monitoring:
+# watchdog>=3.0.0  # File watching for auto-reload
+# psutil>=5.9.0     # System resource monitoring
+# gunicorn>=21.0.0  # WSGI server (if not using Streamlit's built-in server)
